@@ -13,6 +13,11 @@
     <icon src="https://cdn.mitvstatic.com/channels/pe_universal-channel_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
+  <channel id="Canal HBO Xtreme">
+    <display-name lang="es">Canal HBO Xtreme</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20200620200000 +0000" stop="20200620210000 +0000" channel="Win Sports +">
     <title lang="en">Saque Largo</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee95eef25466507bad25b71/backgroundimagelive/saque-largo-b.png" />
@@ -1010,6 +1015,181 @@
     <episode-num system="onscreen">S5 E16</episode-num>
     <rating system="IMdb">
       <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200620011000 -0500" stop="20200620021500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Trackers</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20200620021500 -0500" stop="20200620041000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20200620041000 -0500" stop="20200620054000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">El secreto de mi vida</title>
+  </programme>
+  <programme start="20200620054000 -0500" stop="20200620071500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Viene de Noche</title>
+    <desc lang="es">Paul, tratando de proteger a su familia y amigos de los peligros que están afuera, pero no se imagina que adentro de su casa hay más peligro que afuera.(n)</desc>
+    <credits>
+      <actor>Joel Edgerton</actor>
+      <actor>Christopher Abbott</actor>
+      <actor>Carmen Ejogo</actor>
+      <actor>Kelvin Harrison Jr.</actor>
+      <actor>Riley Keough</actor>
+      <actor>Griffin Robert Faulkner</actor>
+      <actor>David Pendleton</actor>
+      <actor>Mikey</actor>
+      <producer>David Kaplan</producer>
+      <producer>Andrea Roa</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/viene_de_noche.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200620071500 -0500" stop="20200620090500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">El Último Boy Scout</title>
+  </programme>
+  <programme start="20200620090500 -0500" stop="20200620110000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20200620110000 -0500" stop="20200620125000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Planeta rojo</title>
+  </programme>
+  <programme start="20200620125000 -0500" stop="20200620142500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Parque Jurásico III</title>
+  </programme>
+  <programme start="20200620142500 -0500" stop="20200620161000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Matar o morir</title>
+  </programme>
+  <programme start="20200620161000 -0500" stop="20200620180000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Un hombre diferente</title>
+  </programme>
+  <programme start="20200620180000 -0500" stop="20200620193500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Aftershock</title>
+  </programme>
+  <programme start="20200620193500 -0500" stop="20200620212000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Kung fusion</title>
+  </programme>
+  <programme start="20200620212000 -0500" stop="20200620230500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Agente Salt</title>
+  </programme>
+  <programme start="20200620230500 -0500" stop="20200621005000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Matar o morir</title>
+  </programme>
+  <programme start="20200621005000 -0500" stop="20200621024000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Serpientes a bordo</title>
+  </programme>
+  <programme start="20200621024000 -0500" stop="20200621042000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Destino final</title>
+  </programme>
+  <programme start="20200621042000 -0500" stop="20200621061500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">La nueva pesadilla de Wes C</title>
+  </programme>
+  <programme start="20200621061500 -0500" stop="20200621075000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Pesadilla en la calle del</title>
+  </programme>
+  <programme start="20200621075000 -0500" stop="20200621092500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Misión Europa</title>
+  </programme>
+  <programme start="20200621092500 -0500" stop="20200621114500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Mundo Acuático</title>
+    <desc lang="es">Waterworld. En un futuro donde la capa polar se ha derretido y la mayor parte de la tierra se encuentra cubierta por agua, un marino se aventura en la búsqueda de tierra firme.(n)</desc>
+    <credits>
+      <actor>Kevin Costner</actor>
+      <actor>Jeanne Tripplehorn</actor>
+      <actor>Dennis Hopper</actor>
+      <producer>Kevin Costner</producer>
+      <producer>John Davis</producer>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mundo_acuatico.png" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200621114500 -0500" stop="20200621135500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Red de mentiras</title>
+  </programme>
+  <programme start="20200621135500 -0500" stop="20200621154000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Upgrade</title>
+    <title lang="xx">Upgrade</title>
+    <desc lang="es">Tras la muerte de su esposa y quedando paralizado, un multimillonario le ofrece una cura experimental actualizándolo, ahora vengará la muerte de su esposa.(n)</desc>
+    <credits>
+      <actor>Logan Marshall-Green</actor>
+      <actor>Betty Gabriel</actor>
+      <actor>Harrison Gilbertson</actor>
+      <actor>Benedict Hardie</actor>
+      <actor>Christopher Kirby</actor>
+      <actor>Clayton Jacobson</actor>
+      <actor>Melanie Vallejo</actor>
+      <actor>Sachin Joab</actor>
+      <producer>Jason Blum</producer>
+      <producer>Kylie Du Fresne</producer>
+      <composer>Jed Palmer</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/upgrade.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200621154000 -0500" stop="20200621171500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">8 minutos antes de morir</title>
+    <title lang="xx">Source Code</title>
+    <desc lang="es">Un soldado despierta en el cuerpo de alguien más con la misión de encontrar una bomba en menos de 8 minutos y evitar vuele en pedazos un tren de pasajeros.(n)</desc>
+    <credits>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Jeffrey Wright</actor>
+      <producer>Mark Gordon</producer>
+      <producer>Jordan Wynn</producer>
+      <composer>Chris P. Bacon</composer>
+    </credits>
+    <date>2011</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/8_minutos_antes_de_morir.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200621171500 -0500" stop="20200621190000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Buscando</title>
+  </programme>
+  <programme start="20200621190000 -0500" stop="20200621210000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">In/mortal</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621230000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Juego de Traicion</title>
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200622004500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Upgrade</title>
+    <title lang="xx">Upgrade</title>
+    <desc lang="es">Tras la muerte de su esposa y quedando paralizado, un multimillonario le ofrece una cura experimental actualizándolo, ahora vengará la muerte de su esposa.(n)</desc>
+    <credits>
+      <actor>Logan Marshall-Green</actor>
+      <actor>Betty Gabriel</actor>
+      <actor>Harrison Gilbertson</actor>
+      <actor>Benedict Hardie</actor>
+      <actor>Christopher Kirby</actor>
+      <actor>Clayton Jacobson</actor>
+      <actor>Melanie Vallejo</actor>
+      <actor>Sachin Joab</actor>
+      <producer>Jason Blum</producer>
+      <producer>Kylie Du Fresne</producer>
+      <composer>Jed Palmer</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/upgrade.jpg" />
+    <rating>
+      <value>R</value>
     </rating>
   </programme>
 </tv>
