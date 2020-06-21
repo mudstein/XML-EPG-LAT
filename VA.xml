@@ -23,6 +23,26 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinema_dinamita-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="ESPN Deportes">
+    <display-name lang="en">ESPN Deportes</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="en">ESPN</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN2">
+    <display-name lang="en">ESPN2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN News">
+    <display-name lang="en">ESPN News</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN U">
+    <display-name lang="en">ESPN U</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
   <programme start="20200621043000 +0000" stop="20200621063000 +0000" channel="Win Sports +">
     <title lang="en">Denizlispor vs. Besiktas</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee961eb9c32fd0783cddd0e/backgroundimagelive/liga-turca-s.png" />
@@ -138,10 +158,6 @@
   <programme start="20200622220000 +0000" stop="20200623000000 +0000" channel="Win Sports +">
     <title lang="en">Cali vs. Medellín</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
-  </programme>
-  <programme start="20200621043000 +0000" stop="20200621050000 +0000" channel="Win Sports Básico">
-    <title lang="en">Clubland</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea83a1596a96075d4bd953/backgroundimagelive/1920-800-00000.png" />
   </programme>
   <programme start="20200621050000 +0000" stop="20200621060000 +0000" channel="Win Sports Básico">
     <title lang="en">Los 100 Mejores Goles de 2015</title>
@@ -1096,68 +1112,6 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20200620011000 -0500" stop="20200620021500 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Trackers</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20200620021500 -0500" stop="20200620041000 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Desconocido</title>
-  </programme>
-  <programme start="20200620041000 -0500" stop="20200620054000 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">El secreto de mi vida</title>
-  </programme>
-  <programme start="20200620054000 -0500" stop="20200620071500 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Viene de Noche</title>
-    <desc lang="es">Paul, tratando de proteger a su familia y amigos de los peligros que están afuera, pero no se imagina que adentro de su casa hay más peligro que afuera.(n)</desc>
-    <credits>
-      <actor>Joel Edgerton</actor>
-      <actor>Christopher Abbott</actor>
-      <actor>Carmen Ejogo</actor>
-      <actor>Kelvin Harrison Jr.</actor>
-      <actor>Riley Keough</actor>
-      <actor>Griffin Robert Faulkner</actor>
-      <actor>David Pendleton</actor>
-      <actor>Mikey</actor>
-      <producer>David Kaplan</producer>
-      <producer>Andrea Roa</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/viene_de_noche.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200620071500 -0500" stop="20200620090500 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">El Último Boy Scout</title>
-  </programme>
-  <programme start="20200620090500 -0500" stop="20200620110000 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">La Red</title>
-  </programme>
-  <programme start="20200620110000 -0500" stop="20200620125000 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Planeta rojo</title>
-  </programme>
-  <programme start="20200620125000 -0500" stop="20200620142500 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Parque Jurásico III</title>
-  </programme>
-  <programme start="20200620142500 -0500" stop="20200620161000 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Matar o morir</title>
-  </programme>
-  <programme start="20200620161000 -0500" stop="20200620180000 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Un hombre diferente</title>
-  </programme>
-  <programme start="20200620180000 -0500" stop="20200620193500 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Aftershock</title>
-  </programme>
-  <programme start="20200620193500 -0500" stop="20200620212000 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Kung fusion</title>
-  </programme>
-  <programme start="20200620212000 -0500" stop="20200620230500 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Agente Salt</title>
-  </programme>
-  <programme start="20200620230500 -0500" stop="20200621005000 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Matar o morir</title>
-  </programme>
   <programme start="20200621005000 -0500" stop="20200621024000 -0500" channel="Canal HBO Xtreme">
     <title lang="es">Serpientes a bordo</title>
   </programme>
@@ -1271,59 +1225,153 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20200620010000 -0500" stop="20200620025900 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">El regreso del muerto</title>
+  <programme start="20200622230000 -0500" stop="20200623004500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Upgrade</title>
+    <title lang="xx">Upgrade</title>
+    <desc lang="es">Tras la muerte de su esposa y quedando paralizado, un multimillonario le ofrece una cura experimental actualizándolo, ahora vengará la muerte de su esposa.(n)</desc>
+    <credits>
+      <actor>Logan Marshall-Green</actor>
+      <actor>Betty Gabriel</actor>
+      <actor>Harrison Gilbertson</actor>
+      <actor>Benedict Hardie</actor>
+      <actor>Christopher Kirby</actor>
+      <actor>Clayton Jacobson</actor>
+      <actor>Melanie Vallejo</actor>
+      <actor>Sachin Joab</actor>
+      <producer>Jason Blum</producer>
+      <producer>Kylie Du Fresne</producer>
+      <composer>Jed Palmer</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/upgrade.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
   </programme>
-  <programme start="20200620025900 -0500" stop="20200620044400 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">El retrato de una mentira</title>
+  <programme start="20200623004500 -0500" stop="20200623022500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">8 minutos antes de morir</title>
+    <title lang="xx">Source Code</title>
+    <desc lang="es">Un soldado despierta en el cuerpo de alguien más con la misión de encontrar una bomba en menos de 8 minutos y evitar vuele en pedazos un tren de pasajeros.(n)</desc>
+    <credits>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Jeffrey Wright</actor>
+      <producer>Mark Gordon</producer>
+      <producer>Jordan Wynn</producer>
+      <composer>Chris P. Bacon</composer>
+    </credits>
+    <date>2011</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/8_minutos_antes_de_morir.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
-  <programme start="20200620044400 -0500" stop="20200620051400 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">Patrullando Tijuana</title>
+  <programme start="20200623022500 -0500" stop="20200623044000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">El mundo perdido: Jurassic P</title>
   </programme>
-  <programme start="20200620051400 -0500" stop="20200620054500 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">Mi cocina</title>
+  <programme start="20200623044000 -0500" stop="20200623071000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">El día del chacal</title>
   </programme>
-  <programme start="20200620054500 -0500" stop="20200620070000 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">Paraíso</title>
+  <programme start="20200623071000 -0500" stop="20200623092500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Parque Jurásico</title>
+    <title lang="xx">Jurassic Park</title>
+    <desc lang="es">En una isla remota donde un parque temático con dinosaurios vivos está a punto de convertirse en mortal, ahora cinco personas deben luchar para sobrevivir.(n)</desc>
+    <credits>
+      <actor>Sam Neill</actor>
+      <actor>Laura Dern</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Bob Peck</actor>
+      <actor>Martin Ferrero</actor>
+      <actor>BD Wong</actor>
+      <actor>Samuel L. Jackson</actor>
+      <producer>Kathleen Kennedy</producer>
+      <producer>Gerald R. Molen</producer>
+      <composer>John Williams</composer>
+    </credits>
+    <date>1993</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/parque_jurasico.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
-  <programme start="20200620070000 -0500" stop="20200620085900 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">El diabólico</title>
+  <programme start="20200623092500 -0500" stop="20200623120000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">El Código Da Vinci</title>
   </programme>
-  <programme start="20200620085900 -0500" stop="20200620105900 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">La salvadoreña</title>
+  <programme start="20200623120000 -0500" stop="20200623140500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Parker</title>
   </programme>
-  <programme start="20200620105900 -0500" stop="20200620125900 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">Clave nueva</title>
+  <programme start="20200623140500 -0500" stop="20200623154000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Desde París con amor</title>
   </programme>
-  <programme start="20200620125900 -0500" stop="20200620145900 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">El trailer colorado</title>
+  <programme start="20200623154000 -0500" stop="20200623173500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">8 mile: Calle de las ilusiones</title>
   </programme>
-  <programme start="20200620145900 -0500" stop="20200620164400 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">Árboles de la barranca</title>
+  <programme start="20200623173500 -0500" stop="20200623194000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+    <title lang="xx">The Equalizer</title>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos.(n)</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>David Harbour</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Melissa Leo</actor>
+      <producer>Todd Black</producer>
+      <producer>Jason Blumenthal</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
   </programme>
-  <programme start="20200620164400 -0500" stop="20200620171500 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">Patrullando Tijuana</title>
+  <programme start="20200623194000 -0500" stop="20200623212500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Intruso</title>
+    <desc lang="es">Una joven pareja de casados compra la casa a un extraño vendedor, creen haber comprado el hogar para su familia, pero el vendedor tiene otros planes.(n)</desc>
+    <credits>
+      <actor>Dennis Quaid</actor>
+      <actor>Michael Ealy</actor>
+      <actor>Meagan Good</actor>
+      <actor>Joseph Sikora</actor>
+      <producer>Roxanne Avent</producer>
+      <producer>Brad Kaplan</producer>
+      <composer>Geoff Zanelli</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_intruder_2019.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
   </programme>
-  <programme start="20200620171500 -0500" stop="20200620180000 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">Mi cocina</title>
+  <programme start="20200623212500 -0500" stop="20200623230500 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Las últimas horas</title>
   </programme>
-  <programme start="20200620180000 -0500" stop="20200620190000 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">Paraíso</title>
-  </programme>
-  <programme start="20200620190000 -0500" stop="20200620205900 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">El diabólico</title>
-  </programme>
-  <programme start="20200620205900 -0500" stop="20200620225900 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">La salvadoreña</title>
-  </programme>
-  <programme start="20200620225900 -0500" stop="20200621010000 -0500" channel="Canal Cinema Dinamita">
-    <title lang="es">Clave nueva</title>
+  <programme start="20200623230500 -0500" stop="20200624012000 -0500" channel="Canal HBO Xtreme">
+    <title lang="es">Museum</title>
   </programme>
   <programme start="20200621010000 -0500" stop="20200621025900 -0500" channel="Canal Cinema Dinamita">
     <title lang="es">El trailer colorado</title>
   </programme>
   <programme start="20200621025900 -0500" stop="20200621044400 -0500" channel="Canal Cinema Dinamita">
     <title lang="es">Árboles de la barranca</title>
+  </programme>
+  <programme start="20200621044400 -0500" stop="20200621051400 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Patrullando Tijuana</title>
+  </programme>
+  <programme start="20200621051400 -0500" stop="20200621054500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Mi cocina</title>
+  </programme>
+  <programme start="20200621054500 -0500" stop="20200621070000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Paraíso</title>
   </programme>
   <programme start="20200621070000 -0500" stop="20200621090000 -0500" channel="Canal Cinema Dinamita">
     <title lang="es">Un indio quiere llorar</title>
@@ -1340,6 +1388,15 @@
   <programme start="20200621145900 -0500" stop="20200621164400 -0500" channel="Canal Cinema Dinamita">
     <title lang="es">Perros de la Ley</title>
   </programme>
+  <programme start="20200621164400 -0500" stop="20200621171500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Patrullando Tijuana</title>
+  </programme>
+  <programme start="20200621171500 -0500" stop="20200621180000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Mi cocina</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621190000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Paraíso</title>
+  </programme>
   <programme start="20200621190000 -0500" stop="20200621210000 -0500" channel="Canal Cinema Dinamita">
     <title lang="es">Un indio quiere llorar</title>
   </programme>
@@ -1348,5 +1405,38 @@
   </programme>
   <programme start="20200621225900 -0500" stop="20200622010000 -0500" channel="Canal Cinema Dinamita">
     <title lang="es">Un indio quiere llorar 2</title>
+  </programme>
+  <programme start="20200622010000 -0500" stop="20200622030000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Viaje aterrador</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622044400 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Perros de la Ley</title>
+  </programme>
+  <programme start="20200622044400 -0500" stop="20200622051500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Patrullando Tijuana</title>
+  </programme>
+  <programme start="20200622051500 -0500" stop="20200622054500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Mi cocina</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622090000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">El tahúr de Michoacán</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622110000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">El trono del infierno</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622130000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">El ultimo bazukazo</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622150000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Nora la michoacana</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622164500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Las nuevas calenturas de JC</title>
+  </programme>
+  <programme start="20200622164500 -0500" stop="20200622184500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Vuelve el chupacabras</title>
+  </programme>
+  <programme start="20200622184500 -0500" stop="20200622203000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Nora la michoacana</title>
   </programme>
 </tv>
