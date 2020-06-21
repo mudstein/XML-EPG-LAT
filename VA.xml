@@ -18,38 +18,11 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200620200000 +0000" stop="20200620210000 +0000" channel="Win Sports +">
-    <title lang="en">Saque Largo</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee95eef25466507bad25b71/backgroundimagelive/saque-largo-b.png" />
-  </programme>
-  <programme start="20200620210000 +0000" stop="20200620213000 +0000" channel="Win Sports +">
-    <title lang="en">Campañas</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee95f1f0b6df34f34817810/backgroundimagelive/campanas-b.png" />
-  </programme>
-  <programme start="20200620213000 +0000" stop="20200620220000 +0000" channel="Win Sports +">
-    <title lang="en">Clubland</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebca47023b6d07a736f31c/backgroundimagelive/1920-800-00000.png" />
-  </programme>
-  <programme start="20200620220000 +0000" stop="20200621000000 +0000" channel="Win Sports +">
-    <title lang="en">Tolima vs. Santa Fe</title>
-    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
-  </programme>
-  <programme start="20200621000000 +0000" stop="20200621020000 +0000" channel="Win Sports +">
-    <title lang="en">Santa Fe vs. Tolima</title>
-    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
-  </programme>
-  <programme start="20200621020000 +0000" stop="20200621023000 +0000" channel="Win Sports +">
-    <title lang="en">Win+ Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee95fadf28a761903017c11/backgroundimagelive/win-noticias-b.png" />
-  </programme>
-  <programme start="20200621023000 +0000" stop="20200621040000 +0000" channel="Win Sports +">
-    <title lang="en">Especiales Win Volviendo a la cancha</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96146437de0070df5be86/backgroundimagelive/especiales-win-b.png" />
-  </programme>
-  <programme start="20200621040000 +0000" stop="20200621043000 +0000" channel="Win Sports +">
-    <title lang="en">Clubland</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96199437de0070df5be92/backgroundimagelive/1920-800-00000.png" />
-  </programme>
+  <channel id="Canal Cinema Dinamita">
+    <display-name lang="es">Canal Cinema Dinamita</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinema_dinamita-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20200621043000 +0000" stop="20200621063000 +0000" channel="Win Sports +">
     <title lang="en">Denizlispor vs. Besiktas</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee961eb9c32fd0783cddd0e/backgroundimagelive/liga-turca-s.png" />
@@ -98,33 +71,73 @@
     <title lang="en">Nacional vs. Junior</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200620200000 +0000" stop="20200620213000 +0000" channel="Win Sports Básico">
-    <title lang="en">Conexión</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea823b596a96075d4bd942/backgroundimagelive/conexion-b.png" />
-  </programme>
-  <programme start="20200620213000 +0000" stop="20200620220000 +0000" channel="Win Sports Básico">
-    <title lang="en">Campañas</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea82694200c807cd056978/backgroundimagelive/campanas-b.png" />
-  </programme>
-  <programme start="20200620220000 +0000" stop="20200621000000 +0000" channel="Win Sports Básico">
-    <title lang="en">Liga BetPlay</title>
+  <programme start="20200622000000 +0000" stop="20200622020000 +0000" channel="Win Sports +">
+    <title lang="en">Junior vs. Nacional</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621000000 +0000" stop="20200621013000 +0000" channel="Win Sports Básico">
-    <title lang="en">Especiales Win Volviendo a la cancha</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea82bfa2790807a0788698/backgroundimagelive/especiales-win-b.png" />
-  </programme>
-  <programme start="20200621013000 +0000" stop="20200621020000 +0000" channel="Win Sports Básico">
+  <programme start="20200622020000 +0000" stop="20200622023000 +0000" channel="Win Sports +">
     <title lang="en">Win+ Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea830098830c088c6e64c6/backgroundimagelive/win-noticias-b.png" />
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96e949a2346081612188f/backgroundimagelive/win-noticias-b.png" />
   </programme>
-  <programme start="20200621020000 +0000" stop="20200621023000 +0000" channel="Win Sports Básico">
+  <programme start="20200622023000 +0000" stop="20200622030000 +0000" channel="Win Sports +">
     <title lang="en">Clubland</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea832d412e9607ad52e18e/backgroundimagelive/1920-800-00000.png" />
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96ed28e515308a54b00b5/schedule-image/800-600-00000.png" />
   </programme>
-  <programme start="20200621023000 +0000" stop="20200621043000 +0000" channel="Win Sports Básico">
-    <title lang="en">Juegos Centroamericanos 2018 Boxeo masculino</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8375f29f14102738e6fb/backgroundimagelive/especiales-win-b.png" />
+  <programme start="20200622030000 +0000" stop="20200622040000 +0000" channel="Win Sports +">
+    <title lang="en">Mesa de Análisis</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96f218e515308a54b00be/backgroundimagelive/mesa-de-analisis-1920x800.png" />
+  </programme>
+  <programme start="20200622040000 +0000" stop="20200622043000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96f64dad0e908315166dc/backgroundimagelive/win-noticias-b.png" />
+  </programme>
+  <programme start="20200622063000 +0000" stop="20200622070000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96feb675d324f6413c461/backgroundimagelive/win-noticias-b.png" />
+  </programme>
+  <programme start="20200622070000 +0000" stop="20200622080000 +0000" channel="Win Sports +">
+    <title lang="en">Los 100 Mejores Goles de 2018</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee97032dad0e908315166ef/backgroundimagelive/especiales-win-b.png" />
+  </programme>
+  <programme start="20200622080000 +0000" stop="20200622100000 +0000" channel="Win Sports +">
+    <title lang="en">Santa Fe vs. Cali</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20200622120000 +0000" stop="20200622123000 +0000" channel="Win Sports +">
+    <title lang="en">Campañas</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eeaad3331ee2607175d90ae/schedule-image/campanas-s.png" />
+  </programme>
+  <programme start="20200622123000 +0000" stop="20200622130000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eeaae0461c8510893e3f812/backgroundimagelive/win-noticias-b.png" />
+  </programme>
+  <programme start="20200622130000 +0000" stop="20200622150000 +0000" channel="Win Sports +">
+    <title lang="en">La Equidad vs. Pereira</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20200622150000 +0000" stop="20200622170000 +0000" channel="Win Sports +">
+    <title lang="en">Jaguares vs. Millonarios</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20200622170000 +0000" stop="20200622174500 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eeaae8d9844050839e08bc0/backgroundimagelive/win-noticias-b.png" />
+  </programme>
+  <programme start="20200622200000 +0000" stop="20200622210000 +0000" channel="Win Sports +">
+    <title lang="en">Score Mundial</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eeaaf0a2eab2708dbd1d2c5/backgroundimagelive/score-mundial-b.png" />
+  </programme>
+  <programme start="20200622210000 +0000" stop="20200622213000 +0000" channel="Win Sports +">
+    <title lang="en">Campañas</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20200622213000 +0000" stop="20200622220000 +0000" channel="Win Sports +">
+    <title lang="en">Clubland</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20200622220000 +0000" stop="20200623000000 +0000" channel="Win Sports +">
+    <title lang="en">Cali vs. Medellín</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
   <programme start="20200621043000 +0000" stop="20200621050000 +0000" channel="Win Sports Básico">
     <title lang="en">Clubland</title>
@@ -170,460 +183,69 @@
     <title lang="en">Liga BetPlay</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200620044500 +0000" stop="20200620064000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Un novato en apuros 2</title>
-    <title lang="en">Ride Along 2</title>
-    <desc lang="es">Ben trabaja como guardia de seguridad de un instituto, y lleva dos años intentando demostrar al condecorado detective James que su adicción a los videojuegos no le impide estar a la altura de Angela, hermana del detective.(n)</desc>
-    <credits>
-      <director>Tim Story</director>
-      <actor>Ice Cube</actor>
-      <actor>Benjamin Bratt</actor>
-      <actor>Nadine Velazquez</actor>
-      <actor>Olivia Munn</actor>
-      <actor>Tika Sumpter</actor>
-      <actor>Ken Jeong</actor>
-      <actor>Devanny Pinn</actor>
-      <actor>Rebecca Olejniczak</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_un-novato-en-apuros-2-2016_l_l.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
-    <star-rating system="IMdb">
-      <value>5.9</value>
-    </star-rating>
+  <programme start="20200622020000 +0000" stop="20200622030000 +0000" channel="Win Sports Básico">
+    <title lang="en">Mesa de Análisis</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8a76c9641207bd383129/schedule-image/mesa-de-analisis-800x600.png" />
   </programme>
-  <programme start="20200620064000 +0000" stop="20200620072500 +0000" channel="PE - Universal Channel">
-    <title lang="es">Dr. House</title>
-    <title lang="en">House, M.D</title>
-    <sub-title lang="es">Dar vueltas</sub-title>
-    <desc lang="es">Jeff Hastert, un ciclista profesional y estrella nacional, se derrumba sobre la pista con un paro respiratorio. El equipo debe llegar a un diagnóstico después de que el paciente admite dopaje sanguíneo.(n)</desc>
-    <credits>
-      <actor>Omar Epps</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Hugh Laurie</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Robert Sean Leonard</actor>
-      <actor>Jesse Spencer</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_dr-house-s02e06-el-hijo-de-papa_l_l.jpg" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622030000 +0000" stop="20200622033000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8ada0da7ae37d7405a5d/schedule-image/win-noticias-s.png" />
   </programme>
-  <programme start="20200620072500 +0000" stop="20200620081000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Dr. House</title>
-    <title lang="en">House, M.D</title>
-    <sub-title lang="es">El error</sub-title>
-    <desc lang="es">House y Chase tendrán que enfrentar a la junta disciplinaria luego que una joven madre con dolores en el estómago falleció en el hospital.(n)</desc>
-    <credits>
-      <actor>Omar Epps</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Hugh Laurie</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Robert Sean Leonard</actor>
-      <actor>Jesse Spencer</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_dr-house-s02e08-el-error_l_l.jpg" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622033000 +0000" stop="20200622040000 +0000" channel="Win Sports Básico">
+    <title lang="en">Clubland</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8b1e8eeb200761fcc5cb/schedule-image/800-600-00000.png" />
   </programme>
-  <programme start="20200620081000 +0000" stop="20200620085500 +0000" channel="PE - Universal Channel">
-    <title lang="es">MacGyver</title>
-    <title lang="en">MacGyver</title>
-    <sub-title lang="es">Albañil + Cable + Decisiones</sub-title>
-    <desc lang="es">MacGyver se enfrenta a un nuevo y astuto adversario cuyos planes cuidadosamente elaborados lo ponen en el epicentro de una decisión imposible: salvar la vida de un amigo o las de cientos de personas inocentes.(n)</desc>
-    <credits>
-      <actor>Sandrine Holt</actor>
-      <actor>George Eads</actor>
-      <actor>Justin Hires</actor>
-      <actor>Lucas Till</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s03e22-albanil-cable-decisiones_l_l.jpg" />
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622040000 +0000" stop="20200622050000 +0000" channel="Win Sports Básico">
+    <title lang="en">Mesa de Análisis</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8b95161058087d7a0266/schedule-image/mesa-de-analisis-800x600.png" />
   </programme>
-  <programme start="20200620085500 +0000" stop="20200620110000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Guerra mundial Z</title>
-    <title lang="en">World War Z</title>
-    <desc lang="es">Un investigador de las Naciones Unidas busca una solución para frenar a una pandemia de muertos vivientes que amenaza con destruir a la raza humana.(n)</desc>
-    <credits>
-      <director>Marc Forster</director>
-      <actor>Brad Pitt</actor>
-      <actor>Matthew Fox</actor>
-      <actor>Mireille Enos</actor>
-      <actor>Moritz Bleibtreu</actor>
-      <actor>Pierfrancesco Favino</actor>
-      <actor>Fana Mokoena</actor>
-      <actor>David Morse</actor>
-      <actor>Ruth Negga</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_guerra-mundial-z-2013_l_l.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating system="IMdb">
-      <value>Solo adultos</value>
-    </rating>
+  <programme start="20200622050000 +0000" stop="20200622060000 +0000" channel="Win Sports Básico">
+    <title lang="en">Los 100 Mejores Goles de 2016</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8be187fc773c14052c6b/backgroundimagelive/especiales-win-b.png" />
   </programme>
-  <programme start="20200620110000 +0000" stop="20200620140000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Programación pagada</title>
-    <desc lang="es">Te presentamos la carta abierta de nuestra programación, disfruta de nuestros estrenos y presentaciones hechos y seleccionados especialmente para ti.(n)</desc>
-    <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_programacion-pagada_l_l.jpg" />
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622060000 +0000" stop="20200622080000 +0000" channel="Win Sports Básico">
+    <title lang="en">Once Caldas vs. Millonarios</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200620140000 +0000" stop="20200620143000 +0000" channel="PE - Universal Channel">
-    <title lang="es">It Takes a Killer</title>
-    <title lang="en">It Takes a Killer</title>
-    <sub-title lang="es">Terror en la zona roja</sub-title>
-    <desc lang="es">Un asesino y violador serial aterroriza a la población de Tampa persiguiendo a mujeres de la noche al azar. El asesino sale impune de sus crímenes durante meses, y es llevado ante la justicia por la única mujer a la que dejó con vida.(n)</desc>
-    <credits>
-      <actor>Charles Adams</actor>
-      <actor>Michael Hill</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Judy Ho</actor>
-      <actor>Donald M. Krause</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Jillian Nolde</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_it-takes-a-killer-s01e32-terror-en-la-zona-roja_l_l.jpg" />
-    <episode-num system="onscreen">S1 E32</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200622080000 +0000" stop="20200622100000 +0000" channel="Win Sports Básico">
+    <title lang="en">Pasto vs. Tolima</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200620143000 +0000" stop="20200620152500 +0000" channel="PE - Universal Channel">
-    <title lang="es">MacGyver</title>
-    <title lang="en">MacGyver</title>
-    <sub-title lang="es">Murdoc + Esposas</sub-title>
-    <desc lang="es">Los asesinos que Murdoc ha estado reuniendo se vuelven en su contra y lo venden a Phoenix. Pero el mentor de Murdoc, Nicholas Helman, quiere ver muerto a Murdoc y hará lo imposible por matarlo.(n)</desc>
-    <credits>
-      <actor>Sandrine Holt</actor>
-      <actor>George Eads</actor>
-      <actor>Justin Hires</actor>
-      <actor>Lucas Till</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s02e15-murdoc-esposas_l_l.jpg" />
-    <episode-num system="onscreen">S2 E15</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622110000 +0000" stop="20200622113000 +0000" channel="Win Sports Básico">
+    <title lang="en">Clubland</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebbf0af0f10f644aaa71fb/backgroundimagelive/clubland-b.png" />
   </programme>
-  <programme start="20200620152500 +0000" stop="20200620162000 +0000" channel="PE - Universal Channel">
-    <title lang="es">MacGyver</title>
-    <title lang="en">MacGyver</title>
-    <sub-title lang="es">Hamaca + Balcón</sub-title>
-    <desc lang="es">El hijo de un criminal de guerra serbio lleva a su flamante esposa a un exclusivo castillo francés para pasar su luna de miel, y Matty le ordena a Leanna que trabaje de incógnito para averiguar dónde se encuentra el padre.(n)</desc>
-    <credits>
-      <actor>Sandrine Holt</actor>
-      <actor>George Eads</actor>
-      <actor>Justin Hires</actor>
-      <actor>Lucas Till</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s02e16-hamaca-balcon_l_l.jpg" />
-    <episode-num system="onscreen">S2 E16</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622113000 +0000" stop="20200622120000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win + Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebc20508859d08c51a33f4/backgroundimagelive/win-noticias-b.png" />
   </programme>
-  <programme start="20200620162000 +0000" stop="20200620171500 +0000" channel="PE - Universal Channel">
-    <title lang="es">FBI</title>
-    <title lang="en">FBI</title>
-    <sub-title lang="es">Sueños americanos</sub-title>
-    <desc lang="es">Jess LaCroix de la Fugitive Task Force se une al caso de un grupo de niños secuestrados cuando el sospechoso es un supremacista blanco al que detuvo hace años.(n)</desc>
-    <credits>
-      <actor>Jeremy Sisto</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Assibey Blake</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_fbi-s02e18-suenos-americanos_l_l.jpg" />
-    <episode-num system="onscreen">S2 E18</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622140000 +0000" stop="20200622150000 +0000" channel="Win Sports Básico">
+    <title lang="en">Ciclovida Virtual</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200620171500 +0000" stop="20200620181000 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Hombre levantado</sub-title>
-    <desc lang="es">Un adolescente se niega a nombrar a su atacante. Mientras tanto, Benson y Rollins revelan importantes cambios en la vida.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e01-hombre-levantado-1_l_l.jpg" />
-    <episode-num system="onscreen">S20 E1</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622150000 +0000" stop="20200622170000 +0000" channel="Win Sports Básico">
+    <title lang="en">Especial Juegos Centroamericanos Boxeo Mixto</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebc337a3a4c50738606c61/backgroundimagelive/especiales-win-b.png" />
   </programme>
-  <programme start="20200620181000 +0000" stop="20200620190500 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago Fire</title>
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="es">Declaración de guerra</sub-title>
-    <desc lang="es">Un incendio enfurecido consume un complejo de apartamentos de 25 pisos, atrapando a las víctimas en los pisos superiores.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Lauren German</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-fire-s07e02-declaracion-de-guerra_l_l.jpg" />
-    <episode-num system="onscreen">S7 E2</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622170000 +0000" stop="20200622174500 +0000" channel="Win Sports Básico">
+    <title lang="en">Win + Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebc38ccce88b071d3ace86/backgroundimagelive/win-noticias-b.png" />
   </programme>
-  <programme start="20200620190500 +0000" stop="20200620200000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago Med</title>
-    <title lang="en">Chicago Med</title>
-    <sub-title lang="es">Cuándo soltar</sub-title>
-    <desc lang="es">Los médicos y las enfermeras del Chicago Med están en alerta roja cuando una enorme cantidad de pacientes entra de emergencia luego de un espantoso incendio en un edificio de apartamentos.(n)</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Ato Essandoh</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-med-s04e02-cuando-soltar_l_l.jpg" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200622200000 +0000" stop="20200622210000 +0000" channel="Win Sports Básico">
+    <title lang="en">Score Mundial</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200620200000 +0000" stop="20200620205500 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago P.D.</title>
-    <title lang="en">Chicago P.D</title>
-    <sub-title lang="es">Finales</sub-title>
-    <desc lang="es">Después de descubrir la verdadera causa del incendio en el rascacielos, la Unidad de Inteligencia se apresura a buscar al hombre responsable. Y para Halstead, es un asunto personal.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Robert Wisdom</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s06e02-finales_l_l.jpg" />
-    <episode-num system="onscreen">S6 E2</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200622210000 +0000" stop="20200622213000 +0000" channel="Win Sports Básico">
+    <title lang="en">Clubland</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebc4e22b9ec107b7b5873d/backgroundimagelive/clubland-b.png" />
   </programme>
-  <programme start="20200620205500 +0000" stop="20200620215000 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Venganza</sub-title>
-    <desc lang="es">A medida que una serie de ataques con allanamientos de morada se vuelven cada vez más violentos, la policía investiga un grupo online de “incels” para identificar un sospechoso.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e04-venganza-1_l_l.jpg" />
-    <episode-num system="onscreen">S20 E4</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200622213000 +0000" stop="20200622220000 +0000" channel="Win Sports Básico">
+    <title lang="en">Campañas</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebc601cb98e707cd21070f/backgroundimagelive/campanas-b.png" />
   </programme>
-  <programme start="20200620215000 +0000" stop="20200620224000 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Accredo</sub-title>
-    <desc lang="es">Una miembro de un grupo de empoderamiento de mujeres es encontrada asesinada, llevando a la policía al líder masculino carismático del grupo. Mientras tanto, Rollins mantiene su embarazo en secreto para evitar realizar tareas de oficina.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e05-accredo-1_l_l.jpg" />
-    <episode-num system="onscreen">S20 E5</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
-  </programme>
-  <programme start="20200620224000 +0000" stop="20200620233000 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Exilio</sub-title>
-    <desc lang="es">El equipo debe develar el misterio de una joven con doble personalidad y víctima de un ataque sexual. Pero cuando desaparece luego de ser atacada, el equipo no solo debe descubrir su identidad sino también su paradero.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e06-exilio-1_l_l.jpg" />
-    <episode-num system="onscreen">S20 E6</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
-  </programme>
-  <programme start="20200620233000 +0000" stop="20200621002000 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Cuidador</sub-title>
-    <desc lang="es">La policía lucha contra un crimen inconcebible cuando matan a una familia mientras duerme.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e07-cuidador-1_l_l.jpg" />
-    <episode-num system="onscreen">S20 E7</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
-  </programme>
-  <programme start="20200621002000 +0000" stop="20200621011000 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">La cocina del Infierno</sub-title>
-    <desc lang="es">Una camarera de un restaurante de moda de Nueva York es atacada sexualmente en una fiesta VIP después de la hora de cierre.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e08-la-cocina-del-infierno-1_l_l.jpg" />
-    <episode-num system="onscreen">S20 E8</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
-  </programme>
-  <programme start="20200621011000 +0000" stop="20200621020000 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Mea culpa</sub-title>
-    <desc lang="es">Stone le pide a Benson que investigue un encuentro sexual de su pasado por el que se siente culpable.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e09-mea-culpa-1_l_l.jpg" />
-    <episode-num system="onscreen">S20 E9</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
-  </programme>
-  <programme start="20200621020000 +0000" stop="20200621035500 +0000" channel="PE - Universal Channel">
-    <title lang="es">Un novato en apuros 2</title>
-    <title lang="en">Ride Along 2</title>
-    <desc lang="es">Ben trabaja como guardia de seguridad de un instituto, y lleva dos años intentando demostrar al condecorado detective James que su adicción a los videojuegos no le impide estar a la altura de Angela, hermana del detective.(n)</desc>
-    <credits>
-      <director>Tim Story</director>
-      <actor>Ice Cube</actor>
-      <actor>Benjamin Bratt</actor>
-      <actor>Nadine Velazquez</actor>
-      <actor>Olivia Munn</actor>
-      <actor>Tika Sumpter</actor>
-      <actor>Ken Jeong</actor>
-      <actor>Devanny Pinn</actor>
-      <actor>Rebecca Olejniczak</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_un-novato-en-apuros-2-2016_l_l.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
-    <star-rating system="IMdb">
-      <value>5.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20200621035500 +0000" stop="20200621055000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Un espía y medio</title>
-    <title lang="en">Central Intelligence</title>
-    <desc lang="es">Un letal agente de la CIA, víctima de acoso escolar en su adolescencia, vuelve a casa para asistir a una reunión de antiguos alumnos, donde conseguirá ayuda para llevar a cabo sus planes.(n)</desc>
-    <credits>
-      <director>Rawson Marshall Thurber</director>
-      <actor>Jason Bateman</actor>
-      <actor>Aaron Paul</actor>
-      <actor>Danielle Nicolet</actor>
-      <actor>Amy Ryan</actor>
-      <actor>Dwayne Johnson</actor>
-      <actor>Ryan Hansen</actor>
-      <actor>Tim Griffin</actor>
-      <actor>Timothy John Smith</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_un-espia-y-medio-2016_l_l.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating system="IMdb">
-      <value>13+</value>
-    </rating>
-    <star-rating system="IMdb">
-      <value>6.3</value>
-    </star-rating>
+  <programme start="20200622220000 +0000" stop="20200623000000 +0000" channel="Win Sports Básico">
+    <title lang="en">América vs. Quindío (2016)</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
   <programme start="20200621055000 +0000" stop="20200621064000 +0000" channel="PE - Universal Channel">
     <title lang="es">Chicago Fire</title>
@@ -1017,6 +639,463 @@
       <value>14+</value>
     </rating>
   </programme>
+  <programme start="20200622002000 +0000" stop="20200622011000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago P.D.</title>
+    <title lang="en">Chicago P.D</title>
+    <sub-title lang="es">Punto álgido</sub-title>
+    <desc lang="es">Un prominente concejal conocido por su trabajo de revitalización urbana es asesinado. Mientras tanto, Olinsky recibe un ultimátum por parte de Woods.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Amy Morton</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Archie Kao</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Robert Wisdom</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e17-punto-algido_l_l.jpg" />
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200622011000 +0000" stop="20200622020000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago P.D.</title>
+    <title lang="en">Chicago P.D</title>
+    <sub-title lang="es">Fantasmas</sub-title>
+    <desc lang="es">Upton retoma una identidad encubierta para derribar una red de metanfetaminas dirigida por un ex contacto penal. Mientras, Voight se cobra un favor con Olinsky cuando aumenta la presión ejercida por Woods.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Amy Morton</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Archie Kao</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Robert Wisdom</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e18-fantasmas_l_l.jpg" />
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200622020000 +0000" stop="20200622035500 +0000" channel="PE - Universal Channel">
+    <title lang="es">Un espía y medio</title>
+    <title lang="en">Central Intelligence</title>
+    <desc lang="es">Un letal agente de la CIA, víctima de acoso escolar en su adolescencia, vuelve a casa para asistir a una reunión de antiguos alumnos, donde conseguirá ayuda para llevar a cabo sus planes.(n)</desc>
+    <credits>
+      <director>Rawson Marshall Thurber</director>
+      <actor>Jason Bateman</actor>
+      <actor>Aaron Paul</actor>
+      <actor>Danielle Nicolet</actor>
+      <actor>Amy Ryan</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Ryan Hansen</actor>
+      <actor>Tim Griffin</actor>
+      <actor>Timothy John Smith</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_un-espia-y-medio-2016_l_l.jpg" />
+    <country lang="es">EE. UU.</country>
+    <rating system="IMdb">
+      <value>13+</value>
+    </rating>
+    <star-rating system="IMdb">
+      <value>6.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200622035500 +0000" stop="20200622055000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Novato en apuros</title>
+    <title lang="en">Ride Along</title>
+    <desc lang="es">Ben es un guardia de seguridad que se une a su cuñado policía en una patrulla de 24 horas en Atlanta, para demostrar que es digno de casarse con Ángela, la hermana de su nuevo compañero.(n)</desc>
+    <credits>
+      <director>Tim Story</director>
+      <actor>Laurence Fishburne</actor>
+      <actor>Bruce McGill</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Ice Cube</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Dragos Bucur</actor>
+      <actor>Gary Owen</actor>
+      <actor>Tika Sumpter</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_novato-en-apuros-2014_l_l.jpg" />
+    <country lang="es">EE. UU.</country>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+    <star-rating system="IMdb">
+      <value>6.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20200622055000 +0000" stop="20200622064000 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Anónimo</sub-title>
+    <desc lang="es">Un caso se convierte en dos cuando un asesinato conduce a un violador serial que está transmitiendo enfermedades a sus víctimas y la única pista de los detectives es un sitio web para encuentros casuales y anónimos.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s11e11-anonimo-1_l_l.jpg" />
+    <episode-num system="onscreen">S11 E11</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622064000 +0000" stop="20200622073000 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Sombras</sub-title>
+    <desc lang="es">Benson y Stabler investigan la muerte de una pareja adinerada que fue hallada muerta en su cama y deben trabajar en conjunto con un detective de la división de fraude que está convencido de que la hija de la pareja cometió el crimen.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s11e12-sombras-1_l_l.jpg" />
+    <episode-num system="onscreen">S11 E12</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622073000 +0000" stop="20200622081500 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Políticamente correcto</sub-title>
+    <desc lang="es">Los detectives investigan el caso de una violación que se convirtió en asesinato, pero la investigación se ve obstaculizada por una lesbiana prominente que tiene su propias ideas.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s11e13-politicamente-correcto-1_l_l.jpg" />
+    <episode-num system="onscreen">S11 E13</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622081500 +0000" stop="20200622090000 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Saviour</sub-title>
+    <desc lang="es">Stabler y Benson persiguen al asesino de una prostituta que cree que tiene una misión divina.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s11e14-saviour-1_l_l.jpg" />
+    <episode-num system="onscreen">S11 E14</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622090000 +0000" stop="20200622094500 +0000" channel="PE - Universal Channel">
+    <title lang="es">MacGyver</title>
+    <title lang="en">MacGyver</title>
+    <sub-title lang="es">Trampa para osos + Capo mafia</sub-title>
+    <desc lang="es">Mac, Jack y Riley se disponen a buscar a un mafioso convertido en informante después de ser secuestrado y llevado a Chernobyl por un jefe del crimen internacional. Mientras tanto, Bozer lucha por mantener en secreto a Matty.(n)</desc>
+    <credits>
+      <actor>Sandrine Holt</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+      <actor>Lucas Till</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s02e17-trampa-para-osos-capo-mafia_l_l.jpg" />
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622094500 +0000" stop="20200622103000 +0000" channel="PE - Universal Channel">
+    <title lang="es">MacGyver</title>
+    <title lang="en">MacGyver</title>
+    <sub-title lang="es">Riley + Avión</sub-title>
+    <desc lang="es">Mac y el equipo buscan a un ex técnico del gobierno que robó inteligencia clasificada y se cruzó con los Colton, quienes están cazando al mismo hombre por diferentes razones.(n)</desc>
+    <credits>
+      <actor>Sandrine Holt</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+      <actor>Lucas Till</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s02e18-riley-avion_l_l.jpg" />
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622103000 +0000" stop="20200622110000 +0000" channel="PE - Universal Channel">
+    <title lang="es">It Takes a Killer</title>
+    <title lang="en">It Takes a Killer</title>
+    <sub-title lang="es">El amo de esclavas</sub-title>
+    <desc lang="es">Por la noche, un padre, esposo y hombre de negocios se transforman en sadomasoquistas por la noche. Este estafador atrae a mujeres inocentes con una red de mentiras para atraparlas en un mundo de esclavitud sexual y asesinato.(n)</desc>
+    <credits>
+      <actor>Charles Adams</actor>
+      <actor>Michael Hill</actor>
+      <actor>Owen Thomas</actor>
+      <actor>Elton LeBlanc</actor>
+      <actor>Judy Ho</actor>
+      <actor>Donald M. Krause</actor>
+      <actor>Kerry Kelly Gridley</actor>
+      <actor>Jillian Nolde</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_it-takes-a-killer-s01e37-el-amo-de-esclavas_l_l.jpg" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200622110000 +0000" stop="20200622140000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Programación pagada</title>
+    <desc lang="es">Te presentamos la carta abierta de nuestra programación, disfruta de nuestros estrenos y presentaciones hechos y seleccionados especialmente para ti.(n)</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_programacion-pagada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622140000 +0000" stop="20200622145500 +0000" channel="PE - Universal Channel">
+    <title lang="es">Dr. House</title>
+    <title lang="en">House, M.D</title>
+    <sub-title lang="es">La decepción</sub-title>
+    <desc lang="es">Una mujer se desmaya en las carreras de caballos frente a House, y él debe pelear contra su nuevo jefe para lograr un diagnóstico.(n)</desc>
+    <credits>
+      <actor>Omar Epps</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Amber Tamblyn</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_dr-house-s02e09-la-decepcion_l_l.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622145500 +0000" stop="20200622155000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Dr. House</title>
+    <title lang="en">House, M.D</title>
+    <sub-title lang="es">Problemas de comunicación</sub-title>
+    <desc lang="es">Tras sufrir un desmayo en la fiesta de jubilación de su redactor jefe, un periodista se golpea seriamente la cabeza. Al volver en sí se da cuenta de que no puede hablar correctamente y es trasladado al Hospital Princenton.(n)</desc>
+    <credits>
+      <actor>Omar Epps</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Amber Tamblyn</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_dr-house-s02e10-problemas-de-comunicacion_l_l.jpg" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622155000 +0000" stop="20200622181500 +0000" channel="PE - Universal Channel">
+    <title lang="es">Orgullo y prejuicio</title>
+    <title lang="en">Pride and Prejudice</title>
+    <desc lang="es">A fines del Siglo XVIII, las hermanas Bennet, hijas de una familia sin fortuna, buscan marido. Cuando un soltero rico y sus amigos se instalan en una mansión vecina, las Bennett se entusiasman con la posibilidad de conseguir pretendientes.(n)</desc>
+    <credits>
+      <director>Joe Wright</director>
+      <actor>Donald Sutherland</actor>
+      <actor>Jena Malone</actor>
+      <actor>Claudie Blakley</actor>
+      <actor>Pip Torrens</actor>
+      <actor>Keira Knightley</actor>
+      <actor>Kelly Reilly</actor>
+      <actor>Matthew MacFadyen</actor>
+      <actor>Rosamund Pike</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_orgullo-y-prejuicio-2005_l_l.jpg" />
+    <country lang="es">Francia</country>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+    <star-rating system="IMdb">
+      <value>7.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20200622181500 +0000" stop="20200622191000 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Plástica</sub-title>
+    <desc lang="es">La Unidad de Víctimas Especiales es convocada para investigar el caso de una joven que fue drogada y asaltada sexualmente. Esta afirma que fue abordada por un famoso cirujano famoso y su novia.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e11-plastica-1_l_l.jpg" />
+    <episode-num system="onscreen">S20 E11</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622191000 +0000" stop="20200622200500 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Querido Ben</sub-title>
+    <desc lang="es">Stone se ocupa de un antiguo caso no resuelto de un violador serial que consumió la carrera de su padre.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e12-querido-ben-1_l_l.jpg" />
+    <episode-num system="onscreen">S20 E12</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622200500 +0000" stop="20200622210000 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Una historia de más infortunio</sub-title>
+    <desc lang="es">Benson trata de ayudar a dos hermanas adolescentes cuyo padre ha sido asesinado.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e13-una-historia-de-mas-infortunio-1_l_l.jpg" />
+    <episode-num system="onscreen">S20 E13</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622210000 +0000" stop="20200622215000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago Fire</title>
+    <title lang="en">Chicago Fire</title>
+    <sub-title lang="es">Cien</sub-title>
+    <desc lang="es">El teniente Casey y Dawson solicitan la adopción permanente de Louie pero pronto descubren una traba. Jeff Clark, el bombero que se fue a estudiar medicina, se dirige al teniente Severide con una propuesta interesante.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Jesse Spencer</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Christian Stolte</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Eamonn Walker</actor>
+      <actor>Lauren German</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-fire-s05e08-cien_l_l.jpg" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622215000 +0000" stop="20200622224000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago Fire</title>
+    <title lang="en">Chicago Fire</title>
+    <sub-title lang="es">Algunos sobreviven, otros no</sub-title>
+    <desc lang="es">Dawson y Casey se ocupan de temas legales con la esperanza de seguir siendo los tutores legales de Louie. Severide sigue tratando de conseguir un trasplante de médula ósea para Anna, pero cae en viejos hábitos.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Jesse Spencer</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Christian Stolte</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Eamonn Walker</actor>
+      <actor>Lauren German</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-fire-s05e09-algunos-sobreviven-otros-no_l_l.jpg" />
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200622224000 +0000" stop="20200622233000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago P.D.</title>
+    <title lang="en">Chicago P.D</title>
+    <sub-title lang="es">Encrucijada</sub-title>
+    <desc lang="es">Cuando Lindsay recibe una llamada de su madre, Bunny, en estado de pánico porque le han disparado a su novio, la joven debe encontrar la mejor manera de encarar la situación, ya que ahora su madre es sospechosa de asesinato.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Amy Morton</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Archie Kao</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Robert Wisdom</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s04e23-encrucijada_l_l.jpg" />
+    <episode-num system="onscreen">S4 E23</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200622233000 +0000" stop="20200623002000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago P.D.</title>
+    <title lang="en">Chicago P.D</title>
+    <sub-title lang="es">Reforma</sub-title>
+    <desc lang="es">La inteligencia intenta romper un acuerdo de armas que provoca que inocentes espectadores reciban disparos.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Amy Morton</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Archie Kao</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Robert Wisdom</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e01-reforma_l_l.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
   <programme start="20200620011000 -0500" stop="20200620021500 -0500" channel="Canal HBO Xtreme">
     <title lang="es">Trackers</title>
     <episode-num system="onscreen">S1 E3</episode-num>
@@ -1191,5 +1270,83 @@
     <rating>
       <value>R</value>
     </rating>
+  </programme>
+  <programme start="20200620010000 -0500" stop="20200620025900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">El regreso del muerto</title>
+  </programme>
+  <programme start="20200620025900 -0500" stop="20200620044400 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">El retrato de una mentira</title>
+  </programme>
+  <programme start="20200620044400 -0500" stop="20200620051400 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Patrullando Tijuana</title>
+  </programme>
+  <programme start="20200620051400 -0500" stop="20200620054500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Mi cocina</title>
+  </programme>
+  <programme start="20200620054500 -0500" stop="20200620070000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Paraíso</title>
+  </programme>
+  <programme start="20200620070000 -0500" stop="20200620085900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">El diabólico</title>
+  </programme>
+  <programme start="20200620085900 -0500" stop="20200620105900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">La salvadoreña</title>
+  </programme>
+  <programme start="20200620105900 -0500" stop="20200620125900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Clave nueva</title>
+  </programme>
+  <programme start="20200620125900 -0500" stop="20200620145900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">El trailer colorado</title>
+  </programme>
+  <programme start="20200620145900 -0500" stop="20200620164400 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Árboles de la barranca</title>
+  </programme>
+  <programme start="20200620164400 -0500" stop="20200620171500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Patrullando Tijuana</title>
+  </programme>
+  <programme start="20200620171500 -0500" stop="20200620180000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Mi cocina</title>
+  </programme>
+  <programme start="20200620180000 -0500" stop="20200620190000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Paraíso</title>
+  </programme>
+  <programme start="20200620190000 -0500" stop="20200620205900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">El diabólico</title>
+  </programme>
+  <programme start="20200620205900 -0500" stop="20200620225900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">La salvadoreña</title>
+  </programme>
+  <programme start="20200620225900 -0500" stop="20200621010000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Clave nueva</title>
+  </programme>
+  <programme start="20200621010000 -0500" stop="20200621025900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">El trailer colorado</title>
+  </programme>
+  <programme start="20200621025900 -0500" stop="20200621044400 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Árboles de la barranca</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621090000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Un indio quiere llorar</title>
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621105900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Narcos y perros 2</title>
+  </programme>
+  <programme start="20200621105900 -0500" stop="20200621125900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Un indio quiere llorar 2</title>
+  </programme>
+  <programme start="20200621125900 -0500" stop="20200621145900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Viaje aterrador</title>
+  </programme>
+  <programme start="20200621145900 -0500" stop="20200621164400 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Perros de la Ley</title>
+  </programme>
+  <programme start="20200621190000 -0500" stop="20200621210000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Un indio quiere llorar</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621225900 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Narcos y perros 2</title>
+  </programme>
+  <programme start="20200621225900 -0500" stop="20200622010000 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Un indio quiere llorar 2</title>
   </programme>
 </tv>
