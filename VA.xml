@@ -23,10 +23,6 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinema_dinamita-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="TNT Sports">
-    <display-name lang="es">TNT Sports</display-name>
-    <url>http://www.tntsportsla.com</url>
-  </channel>
   <channel id="Canal Claro Sports">
     <display-name lang="es">Canal Claro Sports</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" />
@@ -57,9 +53,9 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal GolTV Latinoamérica">
-    <display-name lang="es">Canal GolTV Latinoamérica</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" />
+  <channel id="Canal Golf Channel (Latinoamérica)">
+    <display-name lang="es">Canal Golf Channel (Latinoamérica)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Adrenalina Sports Network">
@@ -2209,110 +2205,98 @@
   <programme start="20200623230000 -0500" stop="20200624001500 -0500" channel="Canal CDF Premium">
     <title lang="es">Todos Somos Técnicos</title>
   </programme>
-  <programme start="20200621010000 -0500" stop="20200621030000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Nacional vs. Rampla Juniors</title>
+  <programme start="20200621010000 -0500" stop="20200621030000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200621030000 -0500" stop="20200621040000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fanáticos</title>
+  <programme start="20200621030000 -0500" stop="20200621050000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200621040000 -0500" stop="20200621043000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">The Football Review</title>
+  <programme start="20200621050000 -0500" stop="20200621060000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200621043000 -0500" stop="20200621063000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Liga de Quito vs. El Nacional</title>
+  <programme start="20200621060000 -0500" stop="20200621070000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Golf central</title>
   </programme>
-  <programme start="20200621063000 -0500" stop="20200621083000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Vitesse vs. Ajax</title>
+  <programme start="20200621070000 -0500" stop="20200621080000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2002 Buick Open</title>
   </programme>
-  <programme start="20200621083000 -0500" stop="20200621103000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Emelec vs. Macara</title>
+  <programme start="20200621080000 -0500" stop="20200621090000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2002 WGC American Express</title>
   </programme>
-  <programme start="20200621103000 -0500" stop="20200621123000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Macara vs. Emelec</title>
+  <programme start="20200621090000 -0500" stop="20200621100000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2003 Buick Invitational</title>
   </programme>
-  <programme start="20200621123000 -0500" stop="20200621133000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fanáticos</title>
+  <programme start="20200621100000 -0500" stop="20200621110000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Morning drive</title>
   </programme>
-  <programme start="20200621133000 -0500" stop="20200621153000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Nacional vs. Peñarol</title>
+  <programme start="20200621110000 -0500" stop="20200621130000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Golf Central Pregame</title>
   </programme>
-  <programme start="20200621153000 -0500" stop="20200621160000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol Uruguay</title>
+  <programme start="20200621130000 -0500" stop="20200621150000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200621160000 -0500" stop="20200621180000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Holanda vs. Portugal</title>
+  <programme start="20200621150000 -0500" stop="20200621170000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200621180000 -0500" stop="20200621190000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fanáticos</title>
+  <programme start="20200621170000 -0500" stop="20200621180000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200621190000 -0500" stop="20200621210000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Holanda vs. Rusia</title>
+  <programme start="20200621180000 -0500" stop="20200621190000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Golf central</title>
   </programme>
-  <programme start="20200621210000 -0500" stop="20200621213000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol - Perú</title>
+  <programme start="20200621190000 -0500" stop="20200621193000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Bahamas Golf Federation</title>
   </programme>
-  <programme start="20200621213000 -0500" stop="20200621233000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Lyon vs. Marsella</title>
+  <programme start="20200621193000 -0500" stop="20200621213000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200621233000 -0500" stop="20200622000000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fechas Pasadas</title>
+  <programme start="20200621213000 -0500" stop="20200621233000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200622000000 -0500" stop="20200622010000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol - Ecuador</title>
+  <programme start="20200621233000 -0500" stop="20200622000000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200622010000 -0500" stop="20200622030000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Delfin vs. Barcelona</title>
+  <programme start="20200622070000 -0500" stop="20200622073000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Swing Expedition with Chris</title>
   </programme>
-  <programme start="20200622030000 -0500" stop="20200622033000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol - Perú</title>
+  <programme start="20200622073000 -0500" stop="20200622080000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">School of Golf</title>
   </programme>
-  <programme start="20200622033000 -0500" stop="20200622043000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol - Ecuador</title>
+  <programme start="20200622080000 -0500" stop="20200622083000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">The skill code</title>
   </programme>
-  <programme start="20200622043000 -0500" stop="20200622063000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Les Herbiers vs. PSG</title>
+  <programme start="20200622083000 -0500" stop="20200622090000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Golf channel academy</title>
   </programme>
-  <programme start="20200622063000 -0500" stop="20200622070000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fechas Pasadas</title>
+  <programme start="20200622090000 -0500" stop="20200622110000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Morning drive</title>
   </programme>
-  <programme start="20200622070000 -0500" stop="20200622073000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol Uruguay</title>
+  <programme start="20200622110000 -0500" stop="20200622120000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 Tiger Slam</title>
   </programme>
-  <programme start="20200622073000 -0500" stop="20200622093000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Aucas vs. Liga de Quito</title>
+  <programme start="20200622120000 -0500" stop="20200622150000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200622093000 -0500" stop="20200622113000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Liga de Quito vs. Aucas</title>
+  <programme start="20200622150000 -0500" stop="20200622180000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 RBC Heritage</title>
   </programme>
-  <programme start="20200622113000 -0500" stop="20200622120000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol - Perú</title>
+  <programme start="20200622190000 -0500" stop="20200622193000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Swing Expedition with Chris</title>
   </programme>
-  <programme start="20200622120000 -0500" stop="20200622130000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fanáticos</title>
+  <programme start="20200622193000 -0500" stop="20200622200000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Golf channel academy</title>
   </programme>
-  <programme start="20200622130000 -0500" stop="20200622150000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Nacional vs. Peñarol</title>
+  <programme start="20200622200000 -0500" stop="20200622210000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Feherty: Henrik Stenson</title>
   </programme>
-  <programme start="20200622150000 -0500" stop="20200622170000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Nacional vs. Peñarol</title>
+  <programme start="20200622210000 -0500" stop="20200622220000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Feherty: Scott Van Pelt</title>
   </programme>
-  <programme start="20200622170000 -0500" stop="20200622190000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Liga de Quito vs. Barcelona</title>
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">2020 Tiger Slam</title>
   </programme>
-  <programme start="20200622190000 -0500" stop="20200622193000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">The Football Review</title>
-  </programme>
-  <programme start="20200622193000 -0500" stop="20200622213000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Telstar vs. Ajax</title>
-  </programme>
-  <programme start="20200622213000 -0500" stop="20200622223000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol - Ecuador</title>
-  </programme>
-  <programme start="20200622223000 -0500" stop="20200622230000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20200622230000 -0500" stop="20200623010000 -0500" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Deportivo Cuenca vs. Liga de Quito</title>
+  <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Golf central</title>
   </programme>
   <programme start="20200621002000 -0500" stop="20200621010000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
@@ -2827,67 +2811,64 @@
   <programme start="20200621232500 -0500" stop="20200622010000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Historia que tú hiciste</title>
   </programme>
-  <programme start="20200622232500 -0500" stop="20200623010000 -0500" channel="Canal Real Madrid TV">
-    <title lang="es">Historia que tú hiciste</title>
-  </programme>
-  <programme start="20200623010000 -0500" stop="20200623011500 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622010000 -0500" stop="20200622011500 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Hoy Jugamos</title>
   </programme>
-  <programme start="20200623011500 -0500" stop="20200623030000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622011500 -0500" stop="20200622030000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Real Madrid-Borussia Dortmund</title>
   </programme>
-  <programme start="20200623031500 -0500" stop="20200623045000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622031500 -0500" stop="20200622045000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Hoy Jugamos</title>
   </programme>
-  <programme start="20200623045000 -0500" stop="20200623064000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622045000 -0500" stop="20200622064000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Real Madrid-Barcelona</title>
   </programme>
-  <programme start="20200623064000 -0500" stop="20200623083000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622064000 -0500" stop="20200622083000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Historia que tú hiciste</title>
   </programme>
-  <programme start="20200623083000 -0500" stop="20200623084000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622083000 -0500" stop="20200622084000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Conecta Informativo</title>
   </programme>
-  <programme start="20200623084000 -0500" stop="20200623094000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622084000 -0500" stop="20200622094000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Marco Asensio, el desafío</title>
   </programme>
-  <programme start="20200623094000 -0500" stop="20200623112500 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622094000 -0500" stop="20200622112500 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Lucky luke</title>
   </programme>
-  <programme start="20200623112500 -0500" stop="20200623153000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622112500 -0500" stop="20200622153000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Real Madrid Conecta</title>
   </programme>
-  <programme start="20200623153000 -0500" stop="20200623165500 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622153000 -0500" stop="20200622165500 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Objetivo terrorista</title>
   </programme>
-  <programme start="20200623165500 -0500" stop="20200623183000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622165500 -0500" stop="20200622183000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Libertad para morir</title>
   </programme>
-  <programme start="20200623183000 -0500" stop="20200623193000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622183000 -0500" stop="20200622193000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Marco Asensio, el desafío</title>
   </programme>
-  <programme start="20200623193000 -0500" stop="20200623211500 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622193000 -0500" stop="20200622211500 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Real Madrid-Valencia</title>
   </programme>
-  <programme start="20200623211500 -0500" stop="20200623213000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622211500 -0500" stop="20200622213000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">15 Minutos</title>
   </programme>
-  <programme start="20200623213000 -0500" stop="20200623214500 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622213000 -0500" stop="20200622214500 -0500" channel="Canal Real Madrid TV">
     <title lang="es">15 Minutos</title>
   </programme>
-  <programme start="20200623214500 -0500" stop="20200623220000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622214500 -0500" stop="20200622220000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">15 Minutos</title>
   </programme>
-  <programme start="20200623220000 -0500" stop="20200623223000 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622220000 -0500" stop="20200622223000 -0500" channel="Canal Real Madrid TV">
     <title lang="es">30 Minutos</title>
   </programme>
-  <programme start="20200623223000 -0500" stop="20200623225500 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622223000 -0500" stop="20200622225500 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Historias con alma</title>
   </programme>
-  <programme start="20200623225500 -0500" stop="20200623232500 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622225500 -0500" stop="20200622232500 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Historias con alma</title>
   </programme>
-  <programme start="20200623232500 -0500" stop="20200624010500 -0500" channel="Canal Real Madrid TV">
+  <programme start="20200622232500 -0500" stop="20200623010500 -0500" channel="Canal Real Madrid TV">
     <title lang="es">Historia que tú hiciste</title>
   </programme>
   <programme start="20200621013000 -0500" stop="20200621023000 -0500" channel="Canal Eurosport 1 (España)">
