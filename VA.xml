@@ -187,14 +187,51 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200622063000 +0000" stop="20200622070000 +0000" channel="Win Sports +">
-    <title lang="en">Win+ Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96feb675d324f6413c461/backgroundimagelive/win-noticias-b.png" />
-  </programme>
-  <programme start="20200622070000 +0000" stop="20200622080000 +0000" channel="Win Sports +">
-    <title lang="en">Los 100 Mejores Goles de 2018</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee97032dad0e908315166ef/backgroundimagelive/especiales-win-b.png" />
-  </programme>
+  <channel id="Canal Claro Música">
+    <display-name lang="es">Canal Claro Música</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/claro_musica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Azteca Clic">
+    <display-name lang="es">Canal TV Azteca Clic</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_clic-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Azteca Cinema">
+    <display-name lang="es">Canal TV Azteca Cinema</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Azteca Mundo">
+    <display-name lang="es">Canal TV Azteca Mundo</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">Canal Azteca Uno</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Multimedios Plus">
+    <display-name lang="es">Canal Multimedios Plus</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ingenio TV (México)">
+    <display-name lang="es">Canal Ingenio TV (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ingenio_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Justicia TV (México)">
+    <display-name lang="es">Canal Justicia TV (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/justicia_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Mexiquense TV">
+    <display-name lang="es">Canal Mexiquense TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20200622080000 +0000" stop="20200622100000 +0000" channel="Win Sports +">
     <title lang="en">Santa Fe vs. Cali</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
@@ -306,10 +343,6 @@
   <programme start="20200623230000 +0000" stop="20200624003000 +0000" channel="Win Sports +">
     <title lang="en">Conexión</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcdf8bb9986446c5246c3/backgroundimagelive/conexion-b.png" />
-  </programme>
-  <programme start="20200622060000 +0000" stop="20200622080000 +0000" channel="Win Sports Básico">
-    <title lang="en">Once Caldas vs. Millonarios</title>
-    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
   <programme start="20200622080000 +0000" stop="20200622100000 +0000" channel="Win Sports Básico">
     <title lang="en">Pasto vs. Tolima</title>
@@ -3965,19 +3998,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200623023500 -0500" stop="20200623030000 -0500" channel="Canal Nicktoons (México)">
-    <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
-    <credits>
-      <actor>Tom Kenny</actor>
-      <actor>Bill Faberbakke</actor>
-      <actor>Rodger Bumpass</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
-  </programme>
   <programme start="20200623034000 -0500" stop="20200623040000 -0500" channel="Canal Nicktoons (México)">
     <title lang="es">Breadwinners</title>
     <title lang="xx">Breadwinners</title>
@@ -5372,7 +5392,7 @@
   <programme start="20200622233000 -0500" stop="20200623000000 -0500" channel="Canal BabyFirst TV">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20200623023000 -0500" stop="20200623030000 -0500" channel="Canal BabyFirst TV">
+  <programme start="20200623040000 -0500" stop="20200623043000 -0500" channel="Canal BabyFirst TV">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
   <programme start="20200622010000 -0500" stop="20200622013000 -0500" channel="Canal BitMe">
@@ -6511,7 +6531,7 @@
   <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
-  <programme start="20200623020000 -0500" stop="20200623030000 -0500" channel="Canal Ultra Fiesta">
+  <programme start="20200623040000 -0500" stop="20200623050000 -0500" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
   <programme start="20200622002000 -0500" stop="20200622015500 -0500" channel="Canal Ultra Film">
@@ -8892,5 +8912,1089 @@
   </programme>
   <programme start="20200623230000 -0500" stop="20200624004300 -0500" channel="Canal Golden Plus">
     <title lang="es">Hot tub: Solteros en el tiempo</title>
+  </programme>
+  <programme start="20200622010000 -0500" stop="20200622070000 -0500" channel="Canal Claro Música">
+    <title lang="es">Máquina del tiempo</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622090000 -0500" channel="Canal Claro Música">
+    <title lang="es">Máquina del tiempo</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622110000 -0500" channel="Canal Claro Música">
+    <title lang="es">Coffee Break</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622130000 -0500" channel="Canal Claro Música">
+    <title lang="es">Top sin límites</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622140000 -0500" channel="Canal Claro Música">
+    <title lang="es">Artista del día</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622160000 -0500" channel="Canal Claro Música">
+    <title lang="es">Lo más sonado</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622180000 -0500" channel="Canal Claro Música">
+    <title lang="es">Se habla español</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622200000 -0500" channel="Canal Claro Música">
+    <title lang="es">Top sin límites</title>
+  </programme>
+  <programme start="20200622200000 -0500" stop="20200622220000 -0500" channel="Canal Claro Música">
+    <title lang="es">Rockstalgia</title>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal Claro Música">
+    <title lang="es">Lanzamientos</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal Claro Música">
+    <title lang="es">Girl Power</title>
+  </programme>
+  <programme start="20200623000000 -0500" stop="20200623010000 -0500" channel="Canal Claro Música">
+    <title lang="es">Heavy</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623070000 -0500" channel="Canal Claro Música">
+    <title lang="es">Máquina del tiempo</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622030000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Be</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622033000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Mundo Pop</title>
+  </programme>
+  <programme start="20200622033000 -0500" stop="20200622040000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Central Clic</title>
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622050000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Kaizen</title>
+  </programme>
+  <programme start="20200622050000 -0500" stop="20200622053000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20200622053000 -0500" stop="20200622060000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20200622060000 -0500" stop="20200622070000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Solo Hits a través de las decádas</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622080000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">La Ciudad de las Ideas</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622083000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20200622083000 -0500" stop="20200622090000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Ahora, Futuro México y el mundo</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622093000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Yoga</title>
+  </programme>
+  <programme start="20200622093000 -0500" stop="20200622100000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Cocina angelical</title>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622103000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Pase de abordar</title>
+  </programme>
+  <programme start="20200622103000 -0500" stop="20200622110000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Fragamente hablando</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622120000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Mis doctores</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622130000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Be</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622140000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Historias extraordinarias</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622150000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622153000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Cocina angelical</title>
+  </programme>
+  <programme start="20200622153000 -0500" stop="20200622160000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Hoyo 19</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622163000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Ahora, Futuro México y el mundo</title>
+  </programme>
+  <programme start="20200622163000 -0500" stop="20200622170000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20200622170000 -0500" stop="20200622173000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">La Otra Aventura</title>
+  </programme>
+  <programme start="20200622173000 -0500" stop="20200622183000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">La Ciudad de las Ideas</title>
+  </programme>
+  <programme start="20200622183000 -0500" stop="20200622190000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Cocina angelical</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622193000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Pase de abordar</title>
+  </programme>
+  <programme start="20200622193000 -0500" stop="20200622200000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Fragamente hablando</title>
+  </programme>
+  <programme start="20200622200000 -0500" stop="20200622203000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Yoga</title>
+  </programme>
+  <programme start="20200622203000 -0500" stop="20200622210000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622220000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Historias extraordinarias</title>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Be</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">La Ciudad de las Ideas</title>
+  </programme>
+  <programme start="20200623000000 -0500" stop="20200623010000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623013000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Celebrity al descubierto</title>
+  </programme>
+  <programme start="20200623013000 -0500" stop="20200623020000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Central Clic</title>
+  </programme>
+  <programme start="20200623020000 -0500" stop="20200623040000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">BioClip</title>
+  </programme>
+  <programme start="20200623040000 -0500" stop="20200623050000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Mis doctores</title>
+  </programme>
+  <programme start="20200623050000 -0500" stop="20200623053000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Hoyo 19</title>
+  </programme>
+  <programme start="20200623053000 -0500" stop="20200623060000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Be</title>
+  </programme>
+  <programme start="20200623060000 -0500" stop="20200623070000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20200623080000 -0500" stop="20200623083000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Desafío</title>
+  </programme>
+  <programme start="20200623093000 -0500" stop="20200623100000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Todo un lujo</title>
+  </programme>
+  <programme start="20200623100000 -0500" stop="20200623110000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Dos de viaje</title>
+  </programme>
+  <programme start="20200623110000 -0500" stop="20200623120000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Mis doctores</title>
+  </programme>
+  <programme start="20200623120000 -0500" stop="20200623130000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Be</title>
+  </programme>
+  <programme start="20200623130000 -0500" stop="20200623140000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Historias extraordinarias</title>
+  </programme>
+  <programme start="20200623140000 -0500" stop="20200623150000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20200623150000 -0500" stop="20200623153000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Todo un lujo</title>
+  </programme>
+  <programme start="20200623153000 -0500" stop="20200623160000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Hoyo 19</title>
+  </programme>
+  <programme start="20200623160000 -0500" stop="20200623163000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Ahora, Futuro México y el mundo</title>
+  </programme>
+  <programme start="20200623163000 -0500" stop="20200623170000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Desafío</title>
+  </programme>
+  <programme start="20200623170000 -0500" stop="20200623173000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Tecno tag</title>
+  </programme>
+  <programme start="20200623173000 -0500" stop="20200623183000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">La Ciudad de las Ideas</title>
+  </programme>
+  <programme start="20200623183000 -0500" stop="20200623190000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Todo un lujo</title>
+  </programme>
+  <programme start="20200623190000 -0500" stop="20200623200000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Dos de viaje</title>
+  </programme>
+  <programme start="20200623203000 -0500" stop="20200623210000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Desafío</title>
+  </programme>
+  <programme start="20200622003000 -0500" stop="20200622015400 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Allá en el bajío</title>
+  </programme>
+  <programme start="20200622015400 -0500" stop="20200622033000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Fiesta en el corazón</title>
+  </programme>
+  <programme start="20200622033000 -0500" stop="20200622051800 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">¡Viva la Parranda</title>
+  </programme>
+  <programme start="20200622051800 -0500" stop="20200622070000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Chucho el Roto</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622073000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200622073000 -0500" stop="20200622090100 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Baila mi amor</title>
+  </programme>
+  <programme start="20200622090100 -0500" stop="20200622103300 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Atrás de las nubes</title>
+  </programme>
+  <programme start="20200622103300 -0500" stop="20200622105400 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200622105400 -0500" stop="20200622124100 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">El gran relajo mexicano</title>
+  </programme>
+  <programme start="20200622124100 -0500" stop="20200622140800 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">El Tejano</title>
+  </programme>
+  <programme start="20200622140800 -0500" stop="20200622143000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200622143000 -0500" stop="20200622160100 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Baila mi amor</title>
+  </programme>
+  <programme start="20200622160100 -0500" stop="20200622173300 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Atrás de las nubes</title>
+  </programme>
+  <programme start="20200622173300 -0500" stop="20200622175500 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200622175500 -0500" stop="20200622194200 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">El gran relajo mexicano</title>
+  </programme>
+  <programme start="20200622194200 -0500" stop="20200622210900 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">El Tejano</title>
+  </programme>
+  <programme start="20200622210900 -0500" stop="20200622213000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200622213000 -0500" stop="20200622230100 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Baila mi amor</title>
+  </programme>
+  <programme start="20200622230100 -0500" stop="20200623003500 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Atrás de las nubes</title>
+  </programme>
+  <programme start="20200623230100 -0500" stop="20200624003500 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Atrás de las nubes</title>
+  </programme>
+  <programme start="20200624003500 -0500" stop="20200624022000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">El gran relajo mexicano</title>
+  </programme>
+  <programme start="20200624022000 -0500" stop="20200624034800 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">El Tejano</title>
+  </programme>
+  <programme start="20200624034800 -0500" stop="20200624053200 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Baila mi amor</title>
+  </programme>
+  <programme start="20200624053200 -0500" stop="20200624070000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">El Tejano</title>
+  </programme>
+  <programme start="20200624073000 -0500" stop="20200624090000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">La mujer legítima</title>
+  </programme>
+  <programme start="20200624090000 -0500" stop="20200624103000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Gutierritos</title>
+  </programme>
+  <programme start="20200624103000 -0500" stop="20200624110000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200624110000 -0500" stop="20200624123000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">El pecado de Laura</title>
+  </programme>
+  <programme start="20200624123000 -0500" stop="20200624140000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Cuando escuches este Vals</title>
+  </programme>
+  <programme start="20200624140000 -0500" stop="20200624143000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200624143000 -0500" stop="20200624160000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">La mujer legítima</title>
+  </programme>
+  <programme start="20200624160000 -0500" stop="20200624173000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Gutierritos</title>
+  </programme>
+  <programme start="20200624173000 -0500" stop="20200624180000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200624180000 -0500" stop="20200624193000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">El pecado de Laura</title>
+  </programme>
+  <programme start="20200624193000 -0500" stop="20200624210000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Cuando escuches este Vals</title>
+  </programme>
+  <programme start="20200624210000 -0500" stop="20200624213000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200624213000 -0500" stop="20200624230000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">La mujer legítima</title>
+  </programme>
+  <programme start="20200624230000 -0500" stop="20200625003000 -0500" channel="Canal TV Azteca Cinema">
+    <title lang="es">Gutierritos</title>
+  </programme>
+  <programme start="20200622010000 -0500" stop="20200622020000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622030000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622040000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.(n)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622060000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Chucho, el remendado</title>
+  </programme>
+  <programme start="20200622060000 -0500" stop="20200622070000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622080000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Hechos AM Primera línea</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622100000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Hechos A.M</title>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622120000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Venga la alegría 3</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622140000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Venga la alegría 2</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622150000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Venga la alegría 3</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622160000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Primera línea con Luci Bravo</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622173000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20200622173000 -0500" stop="20200622180000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Cocinísima</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622190000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622210000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Cielo Rojo</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622220000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Educando a Nina</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Hechos internacional</title>
+  </programme>
+  <programme start="20200623000000 -0500" stop="20200623010000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623030000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Cielo Rojo</title>
+  </programme>
+  <programme start="20200623030000 -0500" stop="20200623040000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200623040000 -0500" stop="20200623050000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Educando a Nina</title>
+  </programme>
+  <programme start="20200623050000 -0500" stop="20200623060000 -0500" channel="Canal TV Azteca Mundo">
+    <title lang="es">Hechos internacional</title>
+  </programme>
+  <programme start="20200622001500 -0500" stop="20200622010000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20200622010000 -0500" stop="20200622011500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622011500 -0500" stop="20200622014500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20200622014500 -0500" stop="20200622034500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622034500 -0500" stop="20200622054500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622054500 -0500" stop="20200622060000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622060000 -0500" stop="20200622063000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20200622063000 -0500" stop="20200622071500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622071500 -0500" stop="20200622080000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Primera Línea</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622100000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622120000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622140000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622150000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622160000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622173000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20200622173000 -0500" stop="20200622183000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200622183000 -0500" stop="20200622203000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Enamorándonos</title>
+  </programme>
+  <programme start="20200622203000 -0500" stop="20200622233000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La voz</title>
+  </programme>
+  <programme start="20200622233000 -0500" stop="20200623001500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20200623233000 -0500" stop="20200624001500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20200624001500 -0500" stop="20200624003000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20200624003000 -0500" stop="20200624010000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20200624010000 -0500" stop="20200624011500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20200624011500 -0500" stop="20200624020000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20200624020000 -0500" stop="20200624050000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200624050000 -0500" stop="20200624051500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20200624051500 -0500" stop="20200624060000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200624060000 -0500" stop="20200624063000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20200624063000 -0500" stop="20200624071500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200624071500 -0500" stop="20200624080000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Primera Línea</title>
+  </programme>
+  <programme start="20200624080000 -0500" stop="20200624100000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20200624100000 -0500" stop="20200624120000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200624120000 -0500" stop="20200624140000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200624140000 -0500" stop="20200624150000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200624150000 -0500" stop="20200624160000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20200624160000 -0500" stop="20200624173000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20200624173000 -0500" stop="20200624183000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200624183000 -0500" stop="20200624203000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Enamorándonos</title>
+  </programme>
+  <programme start="20200624203000 -0500" stop="20200624233000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La voz</title>
+  </programme>
+  <programme start="20200622010000 -0500" stop="20200622013000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">SNSerio</title>
+  </programme>
+  <programme start="20200622013000 -0500" stop="20200622020000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">TD Internacional</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622023000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622023000 -0500" stop="20200622030000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622033000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622033000 -0500" stop="20200622040000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622043000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622043000 -0500" stop="20200622050000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622050000 -0500" stop="20200622053000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622053000 -0500" stop="20200622060000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622060000 -0500" stop="20200622070000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622090000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino Monterrey</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622110000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622123000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">La Bola del 6</title>
+  </programme>
+  <programme start="20200622123000 -0500" stop="20200622140000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">VIvalavi CDMX</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622153000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
+  <programme start="20200622153000 -0500" stop="20200622163000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Fútbol al Día</title>
+  </programme>
+  <programme start="20200622163000 -0500" stop="20200622180000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622193000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Acábatelo</title>
+  </programme>
+  <programme start="20200622193000 -0500" stop="20200622200000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Acábatelo CDMX</title>
+  </programme>
+  <programme start="20200622200000 -0500" stop="20200622210000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622223000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno Monterrey</title>
+  </programme>
+  <programme start="20200622223000 -0500" stop="20200622230000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Multimedios Deportes</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623010000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Es show</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623013000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Es show</title>
+  </programme>
+  <programme start="20200623033000 -0500" stop="20200623040000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">TD Internacional</title>
+  </programme>
+  <programme start="20200623040000 -0500" stop="20200623043000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200623043000 -0500" stop="20200623050000 -0500" channel="Canal Multimedios Plus">
+    <title lang="es">TD Nacional</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622070000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Franja especial</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622073000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Cosas de Niños</title>
+  </programme>
+  <programme start="20200622073000 -0500" stop="20200622080000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Hay Títeres en la Cocina</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622083000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Pie Rojo</title>
+  </programme>
+  <programme start="20200622083000 -0500" stop="20200622084500 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Minimalitos</title>
+  </programme>
+  <programme start="20200622084500 -0500" stop="20200622090000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Zumbini Time</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622093000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Luli y Gabo</title>
+  </programme>
+  <programme start="20200622093000 -0500" stop="20200622100000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Kids Club</title>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622101500 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Rafa la jirafa</title>
+  </programme>
+  <programme start="20200622101500 -0500" stop="20200622104500 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">La vaca Napux</title>
+  </programme>
+  <programme start="20200622104500 -0500" stop="20200622111500 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">El Laberinto de los Cuentos</title>
+  </programme>
+  <programme start="20200622111500 -0500" stop="20200622120500 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">El Callejón</title>
+  </programme>
+  <programme start="20200622120500 -0500" stop="20200622123500 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Cine verano divertido</title>
+  </programme>
+  <programme start="20200622123500 -0500" stop="20200622140000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Serpientes y escaleras</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622143000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Construye TV</title>
+  </programme>
+  <programme start="20200622143000 -0500" stop="20200622150000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">En los zapatos de</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622153000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Lanzamiento 750</title>
+  </programme>
+  <programme start="20200622153000 -0500" stop="20200622160000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Prefijo - E</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622163000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Relatos en Molcajete</title>
+  </programme>
+  <programme start="20200622163000 -0500" stop="20200622170000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Saber más, para educar mejor</title>
+  </programme>
+  <programme start="20200622170000 -0500" stop="20200622173000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Pintemos México</title>
+  </programme>
+  <programme start="20200622173000 -0500" stop="20200622180000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">X MÉXICO</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622190000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Suena familiar</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622200000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Historia Secreta</title>
+  </programme>
+  <programme start="20200622200000 -0500" stop="20200622203000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Bebexplorando</title>
+  </programme>
+  <programme start="20200622203000 -0500" stop="20200622210000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Al natural. Niñez, semillas d</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622213000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Misión Espacial México</title>
+  </programme>
+  <programme start="20200622213000 -0500" stop="20200622220000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">La oveja eléctrica</title>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622223000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Día cero. generación digital</title>
+  </programme>
+  <programme start="20200622223000 -0500" stop="20200622230000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Noticiero Científico y Cultura</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Coronavirus, la pandemia</title>
+  </programme>
+  <programme start="20200623000000 -0500" stop="20200623003000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">IV Encuentro Libertad</title>
+  </programme>
+  <programme start="20200623003000 -0500" stop="20200623010000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Justicia en Otras Lenguas</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623020000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Historia Secreta</title>
+  </programme>
+  <programme start="20200623020000 -0500" stop="20200623023000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Bebexplorando</title>
+  </programme>
+  <programme start="20200623023000 -0500" stop="20200623030000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Al natural. Niñez, semillas d</title>
+  </programme>
+  <programme start="20200623030000 -0500" stop="20200623033000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Misión Espacial México</title>
+  </programme>
+  <programme start="20200623033000 -0500" stop="20200623040000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">La oveja eléctrica</title>
+  </programme>
+  <programme start="20200623040000 -0500" stop="20200623043000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Día cero. generación digital</title>
+  </programme>
+  <programme start="20200623043000 -0500" stop="20200623050000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Noticiero Científico y Cultura</title>
+  </programme>
+  <programme start="20200623050000 -0500" stop="20200623060000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Coronavirus, la pandemia</title>
+  </programme>
+  <programme start="20200623060000 -0500" stop="20200623063000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">IV Encuentro Libertad</title>
+  </programme>
+  <programme start="20200623063000 -0500" stop="20200623070000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Justicia en Otras Lenguas</title>
+  </programme>
+  <programme start="20200623084500 -0500" stop="20200623091000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Zumbini Time</title>
+  </programme>
+  <programme start="20200623091000 -0500" stop="20200623093000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">¡ Listos a jugar</title>
+  </programme>
+  <programme start="20200623101500 -0500" stop="20200623104500 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">La vaca Napux</title>
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20200623120500 -0500" stop="20200623123500 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Verano divertido</title>
+  </programme>
+  <programme start="20200623123500 -0500" stop="20200623134000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Serpientes y escaleras</title>
+  </programme>
+  <programme start="20200623134000 -0500" stop="20200623140000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Ingéniatelas. Aprende</title>
+  </programme>
+  <programme start="20200623140000 -0500" stop="20200623143000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Construye TV</title>
+  </programme>
+  <programme start="20200623143000 -0500" stop="20200623150000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">En los zapatos de</title>
+  </programme>
+  <programme start="20200623150000 -0500" stop="20200623153000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Lanzamiento 750</title>
+  </programme>
+  <programme start="20200623153000 -0500" stop="20200623160000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Prefijo - E</title>
+  </programme>
+  <programme start="20200623160000 -0500" stop="20200623200000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Summit Virtual STEM 2020</title>
+  </programme>
+  <programme start="20200623200000 -0500" stop="20200623203000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Infancias mexicanas</title>
+  </programme>
+  <programme start="20200623203000 -0500" stop="20200623210000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">La aventura de aprender</title>
+  </programme>
+  <programme start="20200623210000 -0500" stop="20200623213000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Ingenautas</title>
+  </programme>
+  <programme start="20200623213000 -0500" stop="20200623220000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">¿De qué estamos hechos? La in</title>
+  </programme>
+  <programme start="20200623220000 -0500" stop="20200623223000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">La Ciencia de lo cotidiano</title>
+  </programme>
+  <programme start="20200623223000 -0500" stop="20200623230000 -0500" channel="Canal Ingenio TV (México)">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20200622003000 -0500" stop="20200622020000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Sesiones</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622030000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">La Calle</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622040000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">La Calle</title>
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622043000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Te Defendemos</title>
+  </programme>
+  <programme start="20200622043000 -0500" stop="20200622050000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Escuela Judicial</title>
+  </programme>
+  <programme start="20200622050000 -0500" stop="20200622053000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Las Sentencias a Debate</title>
+  </programme>
+  <programme start="20200622053000 -0500" stop="20200622060000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20200622060000 -0500" stop="20200622070000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">El Foro</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622080000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Alcanzando el conocimiento</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622083000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Ecoazul</title>
+  </programme>
+  <programme start="20200622083000 -0500" stop="20200622090000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Fuerza latina</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622093000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20200622093000 -0500" stop="20200622100000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622103000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Maravillas de hombre. Turquía</title>
+  </programme>
+  <programme start="20200622103000 -0500" stop="20200622110000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Futuro a la vista</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622113000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20200622113000 -0500" stop="20200622120000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622123000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">CJ Te Defendemos</title>
+  </programme>
+  <programme start="20200622123000 -0500" stop="20200622150000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">El Pleno</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622153000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20200622153000 -0500" stop="20200622163000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Gigantes de la Industria Ameri</title>
+  </programme>
+  <programme start="20200622163000 -0500" stop="20200622173000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Salvando la Naturaleza Nórdica</title>
+  </programme>
+  <programme start="20200622173000 -0500" stop="20200622180000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Fechas que hicieron la histori</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622183000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Fotografía</title>
+  </programme>
+  <programme start="20200622183000 -0500" stop="20200622190000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622203000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">El Pleno</title>
+  </programme>
+  <programme start="20200622203000 -0500" stop="20200622213000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Entrevista con el Asesino</title>
+  </programme>
+  <programme start="20200622213000 -0500" stop="20200622220000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Derecho a Disentir</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">En el círculo</title>
+  </programme>
+  <programme start="20200623000000 -0500" stop="20200623010000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">La Calle</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623020000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">La Calle</title>
+  </programme>
+  <programme start="20200623020000 -0500" stop="20200623033000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">El Pleno</title>
+  </programme>
+  <programme start="20200623033000 -0500" stop="20200623043000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Derecho a Disentir</title>
+  </programme>
+  <programme start="20200623043000 -0500" stop="20200623053000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Alcanzando el conocimiento</title>
+  </programme>
+  <programme start="20200623053000 -0500" stop="20200623063000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">En el círculo</title>
+  </programme>
+  <programme start="20200623063000 -0500" stop="20200623080000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">El Pleno</title>
+  </programme>
+  <programme start="20200623080000 -0500" stop="20200623083000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">CJ Te Defendemos</title>
+  </programme>
+  <programme start="20200623083000 -0500" stop="20200623090000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20200623090000 -0500" stop="20200623093000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20200623093000 -0500" stop="20200623100000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20200623100000 -0500" stop="20200623110000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Humanos del futuro</title>
+  </programme>
+  <programme start="20200623110000 -0500" stop="20200623120000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Derecho a Disentir</title>
+  </programme>
+  <programme start="20200623120000 -0500" stop="20200623123000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Las Sentencias a Debate</title>
+  </programme>
+  <programme start="20200623123000 -0500" stop="20200623150000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">El Pleno</title>
+  </programme>
+  <programme start="20200623150000 -0500" stop="20200623153000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20200623153000 -0500" stop="20200623163000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">En el círculo</title>
+  </programme>
+  <programme start="20200623163000 -0500" stop="20200623170000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">El Greco</title>
+  </programme>
+  <programme start="20200623170000 -0500" stop="20200623173000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Maravillas de hombre. Turquía</title>
+  </programme>
+  <programme start="20200623173000 -0500" stop="20200623183000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Entrevista con el Asesino</title>
+  </programme>
+  <programme start="20200623183000 -0500" stop="20200623190000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20200623190000 -0500" stop="20200623203000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">El Pleno</title>
+  </programme>
+  <programme start="20200623203000 -0500" stop="20200623213000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Gigantes de la Industria Ameri</title>
+  </programme>
+  <programme start="20200623213000 -0500" stop="20200623220000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20200623220000 -0500" stop="20200623230000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Derecho a Disentir</title>
+  </programme>
+  <programme start="20200623230000 -0500" stop="20200624000000 -0500" channel="Canal Justicia TV (México)">
+    <title lang="es">Ya Lo Dijo la Corte</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622023000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Nota Dominante</title>
+  </programme>
+  <programme start="20200622023000 -0500" stop="20200622043000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20200622043000 -0500" stop="20200622070000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622071500 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20200622071500 -0500" stop="20200622073000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Noticiero Internacional</title>
+  </programme>
+  <programme start="20200622073000 -0500" stop="20200622093000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Mexiquense Noticias Matutino</title>
+  </programme>
+  <programme start="20200622093000 -0500" stop="20200622100000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">La lista de Erick</title>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622110000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Coronavirus: La Epidemia</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622120000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Porque soy mujer</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622123000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Bionatura</title>
+  </programme>
+  <programme start="20200622123000 -0500" stop="20200622130000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622133000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Enjambre universitario</title>
+  </programme>
+  <programme start="20200622133000 -0500" stop="20200622140000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">El personaje del barrio Repetición</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622160000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622170000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Mexiquense Noticias</title>
+  </programme>
+  <programme start="20200622170000 -0500" stop="20200622180000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Bim Bam Bum</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622183000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Noticiero Internacional D.W</title>
+  </programme>
+  <programme start="20200622183000 -0500" stop="20200622190000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Espacio TAL</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622200000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">En la cima con Roa</title>
+  </programme>
+  <programme start="20200622200000 -0500" stop="20200622210000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Esfera pública</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622220000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">MXQ Deportes</title>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Mexiquense Noticias Nocturno</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20200623000000 -0500" stop="20200623010000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">La Saga con Adela</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623020000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Historias del Más Allá</title>
+  </programme>
+  <programme start="20200623020000 -0500" stop="20200623030000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Mexiquense Noticias Nocturno</title>
+  </programme>
+  <programme start="20200623030000 -0500" stop="20200623070000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20200623093000 -0500" stop="20200623100000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20200623123000 -0500" stop="20200623130000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20200623130000 -0500" stop="20200623133000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20200623133000 -0500" stop="20200623140000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Fiestas Magicas</title>
+  </programme>
+  <programme start="20200623190000 -0500" stop="20200623200000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Los colores de mi tierra</title>
+  </programme>
+  <programme start="20200623200000 -0500" stop="20200623210000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Retuit</title>
+  </programme>
+  <programme start="20200623230000 -0500" stop="20200624000000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">La Báscula</title>
   </programme>
 </tv>
