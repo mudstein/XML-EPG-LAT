@@ -93,10 +93,31 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200622030000 +0000" stop="20200622040000 +0000" channel="Win Sports +">
-    <title lang="en">Mesa de Análisis</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96f218e515308a54b00be/backgroundimagelive/mesa-de-analisis-1920x800.png" />
-  </programme>
+  <channel id="Canal Nicktoons (México)">
+    <display-name lang="es">Canal Nicktoons (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nicktoons-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Nat Geo Kids (México)">
+    <display-name lang="es">Canal Nat Geo Kids (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_kids-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Nat Geo Kids (Colombia)">
+    <display-name lang="es">Canal Nat Geo Kids (Colombia)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_kids-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal BabyFirst TV">
+    <display-name lang="es">Canal BabyFirst TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal BitMe">
+    <display-name lang="es">Canal BitMe</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20200622040000 +0000" stop="20200622043000 +0000" channel="Win Sports +">
     <title lang="en">Win+ Noticias</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96f64dad0e908315166dc/backgroundimagelive/win-noticias-b.png" />
@@ -220,14 +241,6 @@
   <programme start="20200623230000 +0000" stop="20200624003000 +0000" channel="Win Sports +">
     <title lang="en">Conexión</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcdf8bb9986446c5246c3/backgroundimagelive/conexion-b.png" />
-  </programme>
-  <programme start="20200622030000 +0000" stop="20200622033000 +0000" channel="Win Sports Básico">
-    <title lang="en">Win+ Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8ada0da7ae37d7405a5d/schedule-image/win-noticias-s.png" />
-  </programme>
-  <programme start="20200622033000 +0000" stop="20200622040000 +0000" channel="Win Sports Básico">
-    <title lang="en">Clubland</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8b1e8eeb200761fcc5cb/schedule-image/800-600-00000.png" />
   </programme>
   <programme start="20200622040000 +0000" stop="20200622050000 +0000" channel="Win Sports Básico">
     <title lang="en">Mesa de Análisis</title>
@@ -1576,79 +1589,76 @@
   <programme start="20200621233000 -0500" stop="20200622003000 -0500" channel="Canal Claro Sports">
     <title lang="es">Olympic Channel</title>
   </programme>
-  <programme start="20200622233000 -0500" stop="20200623003000 -0500" channel="Canal Claro Sports">
-    <title lang="es">Olympic Channel</title>
-  </programme>
-  <programme start="20200623003000 -0500" stop="20200623023000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622003000 -0500" stop="20200622023000 -0500" channel="Canal Claro Sports">
     <title lang="es">Gimnasia artística varonil</title>
   </programme>
-  <programme start="20200623023000 -0500" stop="20200623043000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622023000 -0500" stop="20200622043000 -0500" channel="Canal Claro Sports">
     <title lang="es">Natación mariposa femenil</title>
   </programme>
-  <programme start="20200623043000 -0500" stop="20200623070000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622043000 -0500" stop="20200622070000 -0500" channel="Canal Claro Sports">
     <title lang="es">Lucha grecorromana</title>
   </programme>
-  <programme start="20200623070000 -0500" stop="20200623073000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622070000 -0500" stop="20200622073000 -0500" channel="Canal Claro Sports">
     <title lang="es">Vida Zen 360</title>
   </programme>
-  <programme start="20200623073000 -0500" stop="20200623080000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622073000 -0500" stop="20200622080000 -0500" channel="Canal Claro Sports">
     <title lang="es">Vida Zen 360</title>
   </programme>
-  <programme start="20200623080000 -0500" stop="20200623083000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622080000 -0500" stop="20200622083000 -0500" channel="Canal Claro Sports">
     <title lang="es">Vida Zen 360</title>
   </programme>
-  <programme start="20200623083000 -0500" stop="20200623090000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622083000 -0500" stop="20200622090000 -0500" channel="Canal Claro Sports">
     <title lang="es">Vida Zen 360</title>
   </programme>
-  <programme start="20200623090000 -0500" stop="20200623093000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622090000 -0500" stop="20200622093000 -0500" channel="Canal Claro Sports">
     <title lang="es">Vida Zen 360</title>
   </programme>
-  <programme start="20200623093000 -0500" stop="20200623100000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622093000 -0500" stop="20200622100000 -0500" channel="Canal Claro Sports">
     <title lang="es">Vida Zen 360</title>
   </programme>
-  <programme start="20200623100000 -0500" stop="20200623103000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622100000 -0500" stop="20200622103000 -0500" channel="Canal Claro Sports">
     <title lang="es">Vida Zen 360</title>
   </programme>
-  <programme start="20200623103000 -0500" stop="20200623110000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622103000 -0500" stop="20200622110000 -0500" channel="Canal Claro Sports">
     <title lang="es">Olympic Channel</title>
   </programme>
-  <programme start="20200623120000 -0500" stop="20200623123000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622120000 -0500" stop="20200622123000 -0500" channel="Canal Claro Sports">
     <title lang="es">Rafa Marquez</title>
   </programme>
-  <programme start="20200623123000 -0500" stop="20200623140000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622123000 -0500" stop="20200622140000 -0500" channel="Canal Claro Sports">
     <title lang="es">Esgrima</title>
   </programme>
-  <programme start="20200623140000 -0500" stop="20200623160000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622140000 -0500" stop="20200622160000 -0500" channel="Canal Claro Sports">
     <title lang="es">Clavados</title>
   </programme>
-  <programme start="20200623160000 -0500" stop="20200623170000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622160000 -0500" stop="20200622170000 -0500" channel="Canal Claro Sports">
     <title lang="es">Marca Claro radio</title>
   </programme>
-  <programme start="20200623170000 -0500" stop="20200623180000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622170000 -0500" stop="20200622180000 -0500" channel="Canal Claro Sports">
     <title lang="es">Juegos Olímpicos Río 2016</title>
   </programme>
-  <programme start="20200623180000 -0500" stop="20200623183000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622180000 -0500" stop="20200622183000 -0500" channel="Canal Claro Sports">
     <title lang="es">Sports Max</title>
   </programme>
-  <programme start="20200623183000 -0500" stop="20200623190000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622183000 -0500" stop="20200622190000 -0500" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
   </programme>
-  <programme start="20200623190000 -0500" stop="20200623200000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622190000 -0500" stop="20200622200000 -0500" channel="Canal Claro Sports">
     <title lang="es">Marca Claro radio</title>
   </programme>
-  <programme start="20200623200000 -0500" stop="20200623210000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622200000 -0500" stop="20200622210000 -0500" channel="Canal Claro Sports">
     <title lang="es">Ultimate Tennis Showdown</title>
   </programme>
-  <programme start="20200623210000 -0500" stop="20200623220000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622210000 -0500" stop="20200622220000 -0500" channel="Canal Claro Sports">
     <title lang="es">Ultimate Tennis Showdown</title>
   </programme>
-  <programme start="20200623220000 -0500" stop="20200623223000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622220000 -0500" stop="20200622223000 -0500" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
   </programme>
-  <programme start="20200623223000 -0500" stop="20200623233000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622223000 -0500" stop="20200622233000 -0500" channel="Canal Claro Sports">
     <title lang="es">Marca Claro radio</title>
   </programme>
-  <programme start="20200623233000 -0500" stop="20200624000000 -0500" channel="Canal Claro Sports">
+  <programme start="20200622233000 -0500" stop="20200623000000 -0500" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
   </programme>
   <programme start="20200621023000 -0500" stop="20200621030000 -0500" channel="Canal Fox Sports Premium (Argentina)">
@@ -2028,69 +2038,66 @@
   <programme start="20200621233000 -0500" stop="20200622001000 -0500" channel="Canal CDF HD">
     <title lang="es">Campeones del Siglo XXI</title>
   </programme>
-  <programme start="20200622233000 -0500" stop="20200623001000 -0500" channel="Canal CDF HD">
-    <title lang="es">Campeones del Siglo XXI</title>
-  </programme>
-  <programme start="20200623001000 -0500" stop="20200623010000 -0500" channel="Canal CDF HD">
+  <programme start="20200622001000 -0500" stop="20200622010000 -0500" channel="Canal CDF HD">
     <title lang="es">Clubes Nuestra historia</title>
   </programme>
-  <programme start="20200623010000 -0500" stop="20200623024000 -0500" channel="Canal CDF HD">
+  <programme start="20200622010000 -0500" stop="20200622024000 -0500" channel="Canal CDF HD">
     <title lang="es">Chile vs. Suecia Repetición</title>
   </programme>
-  <programme start="20200623024000 -0500" stop="20200623042000 -0500" channel="Canal CDF HD">
+  <programme start="20200622024000 -0500" stop="20200622042000 -0500" channel="Canal CDF HD">
     <title lang="es">USA vs. Chile Repetición</title>
   </programme>
-  <programme start="20200623042000 -0500" stop="20200623060000 -0500" channel="Canal CDF HD">
+  <programme start="20200622042000 -0500" stop="20200622060000 -0500" channel="Canal CDF HD">
     <title lang="es">Tailandia vs. Chile Repetición</title>
   </programme>
-  <programme start="20200623060000 -0500" stop="20200623070000 -0500" channel="Canal CDF HD">
+  <programme start="20200622060000 -0500" stop="20200622070000 -0500" channel="Canal CDF HD">
     <title lang="es">Dosis de Fútbol</title>
   </programme>
-  <programme start="20200623070000 -0500" stop="20200623081000 -0500" channel="Canal CDF HD">
+  <programme start="20200622070000 -0500" stop="20200622081000 -0500" channel="Canal CDF HD">
     <title lang="es">Campeones del Siglo XXI</title>
   </programme>
-  <programme start="20200623081000 -0500" stop="20200623085000 -0500" channel="Canal CDF HD">
+  <programme start="20200622081000 -0500" stop="20200622085000 -0500" channel="Canal CDF HD">
     <title lang="es">Campeones del Siglo XXI</title>
   </programme>
-  <programme start="20200623085000 -0500" stop="20200623093500 -0500" channel="Canal CDF HD">
+  <programme start="20200622085000 -0500" stop="20200622093500 -0500" channel="Canal CDF HD">
     <title lang="es">Clubes Nuestra historia</title>
   </programme>
-  <programme start="20200623093500 -0500" stop="20200623100500 -0500" channel="Canal CDF HD">
+  <programme start="20200622093500 -0500" stop="20200622100500 -0500" channel="Canal CDF HD">
     <title lang="es">Capitán Tsubasa</title>
     <episode-num system="onscreen">E31</episode-num>
   </programme>
-  <programme start="20200623100500 -0500" stop="20200623103500 -0500" channel="Canal CDF HD">
+  <programme start="20200622100500 -0500" stop="20200622103500 -0500" channel="Canal CDF HD">
     <title lang="es">Capitán Tsubasa</title>
     <episode-num system="onscreen">E32</episode-num>
   </programme>
-  <programme start="20200623103500 -0500" stop="20200623121500 -0500" channel="Canal CDF HD">
+  <programme start="20200622103500 -0500" stop="20200622121500 -0500" channel="Canal CDF HD">
     <title lang="es">Fútbol clásico</title>
   </programme>
-  <programme start="20200623121500 -0500" stop="20200623140000 -0500" channel="Canal CDF HD">
+  <programme start="20200622121500 -0500" stop="20200622140000 -0500" channel="Canal CDF HD">
     <title lang="es">Fútbol clásico</title>
   </programme>
-  <programme start="20200623140000 -0500" stop="20200623150000 -0500" channel="Canal CDF HD">
+  <programme start="20200622140000 -0500" stop="20200622150000 -0500" channel="Canal CDF HD">
     <title lang="es">Pelota Parada</title>
   </programme>
-  <programme start="20200623150000 -0500" stop="20200623160000 -0500" channel="Canal CDF HD">
+  <programme start="20200622150000 -0500" stop="20200622160000 -0500" channel="Canal CDF HD">
     <title lang="es">Fútbol clásico</title>
   </programme>
-  <programme start="20200623160000 -0500" stop="20200623180000 -0500" channel="Canal CDF HD">
+  <programme start="20200622160000 -0500" stop="20200622180000 -0500" channel="Canal CDF HD">
     <title lang="es">Abrazo de gol</title>
   </programme>
-  <programme start="20200623180000 -0500" stop="20200623190000 -0500" channel="Canal CDF HD">
+  <programme start="20200622180000 -0500" stop="20200622190000 -0500" channel="Canal CDF HD">
     <title lang="es">CDF Noticias</title>
   </programme>
-  <programme start="20200623190000 -0500" stop="20200623201500 -0500" channel="Canal CDF HD">
+  <programme start="20200622190000 -0500" stop="20200622201500 -0500" channel="Canal CDF HD">
     <title lang="es">Todos Somos Técnicos</title>
   </programme>
-  <programme start="20200623201500 -0500" stop="20200623220000 -0500" channel="Canal CDF HD">
+  <programme start="20200622201500 -0500" stop="20200622220000 -0500" channel="Canal CDF HD">
     <title lang="es">Fútbol clásico</title>
   </programme>
-  <programme start="20200623220000 -0500" stop="20200623230000 -0500" channel="Canal CDF HD">
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal CDF HD">
     <title lang="es">Dosis de Fútbol</title>
   </programme>
-  <programme start="20200623230000 -0500" stop="20200624001500 -0500" channel="Canal CDF HD">
+  <programme start="20200622230000 -0500" stop="20200623001500 -0500" channel="Canal CDF HD">
     <title lang="es">Todos Somos Técnicos</title>
   </programme>
   <programme start="20200621030500 -0500" stop="20200621041000 -0500" channel="Canal CDF Premium">
@@ -2140,69 +2147,66 @@
   <programme start="20200621233000 -0500" stop="20200622001000 -0500" channel="Canal CDF Premium">
     <title lang="es">Campeones del Siglo XXI</title>
   </programme>
-  <programme start="20200622233000 -0500" stop="20200623001000 -0500" channel="Canal CDF Premium">
-    <title lang="es">Campeones del Siglo XXI</title>
-  </programme>
-  <programme start="20200623001000 -0500" stop="20200623010000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622001000 -0500" stop="20200622010000 -0500" channel="Canal CDF Premium">
     <title lang="es">Clubes Nuestra historia</title>
   </programme>
-  <programme start="20200623010000 -0500" stop="20200623024000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622010000 -0500" stop="20200622024000 -0500" channel="Canal CDF Premium">
     <title lang="es">Chile vs. Suecia Repetición</title>
   </programme>
-  <programme start="20200623024000 -0500" stop="20200623042000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622024000 -0500" stop="20200622042000 -0500" channel="Canal CDF Premium">
     <title lang="es">USA vs. Chile Repetición</title>
   </programme>
-  <programme start="20200623042000 -0500" stop="20200623060000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622042000 -0500" stop="20200622060000 -0500" channel="Canal CDF Premium">
     <title lang="es">Tailandia vs. Chile Repetición</title>
   </programme>
-  <programme start="20200623060000 -0500" stop="20200623070000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622060000 -0500" stop="20200622070000 -0500" channel="Canal CDF Premium">
     <title lang="es">Dosis de Fútbol</title>
   </programme>
-  <programme start="20200623070000 -0500" stop="20200623081000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622070000 -0500" stop="20200622081000 -0500" channel="Canal CDF Premium">
     <title lang="es">Campeones del Siglo XXI</title>
   </programme>
-  <programme start="20200623081000 -0500" stop="20200623085000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622081000 -0500" stop="20200622085000 -0500" channel="Canal CDF Premium">
     <title lang="es">Campeones del Siglo XXI</title>
   </programme>
-  <programme start="20200623085000 -0500" stop="20200623093500 -0500" channel="Canal CDF Premium">
+  <programme start="20200622085000 -0500" stop="20200622093500 -0500" channel="Canal CDF Premium">
     <title lang="es">Clubes Nuestra historia</title>
   </programme>
-  <programme start="20200623093500 -0500" stop="20200623100500 -0500" channel="Canal CDF Premium">
+  <programme start="20200622093500 -0500" stop="20200622100500 -0500" channel="Canal CDF Premium">
     <title lang="es">Capitán Tsubasa</title>
     <episode-num system="onscreen">E31</episode-num>
   </programme>
-  <programme start="20200623100500 -0500" stop="20200623103500 -0500" channel="Canal CDF Premium">
+  <programme start="20200622100500 -0500" stop="20200622103500 -0500" channel="Canal CDF Premium">
     <title lang="es">Capitán Tsubasa</title>
     <episode-num system="onscreen">E32</episode-num>
   </programme>
-  <programme start="20200623103500 -0500" stop="20200623121500 -0500" channel="Canal CDF Premium">
+  <programme start="20200622103500 -0500" stop="20200622121500 -0500" channel="Canal CDF Premium">
     <title lang="es">Fútbol clásico</title>
   </programme>
-  <programme start="20200623121500 -0500" stop="20200623140000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622121500 -0500" stop="20200622140000 -0500" channel="Canal CDF Premium">
     <title lang="es">Fútbol clásico</title>
   </programme>
-  <programme start="20200623140000 -0500" stop="20200623150000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622140000 -0500" stop="20200622150000 -0500" channel="Canal CDF Premium">
     <title lang="es">Pelota Parada</title>
   </programme>
-  <programme start="20200623150000 -0500" stop="20200623160000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622150000 -0500" stop="20200622160000 -0500" channel="Canal CDF Premium">
     <title lang="es">Fútbol clásico</title>
   </programme>
-  <programme start="20200623160000 -0500" stop="20200623180000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622160000 -0500" stop="20200622180000 -0500" channel="Canal CDF Premium">
     <title lang="es">Abrazo de gol</title>
   </programme>
-  <programme start="20200623180000 -0500" stop="20200623190000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622180000 -0500" stop="20200622190000 -0500" channel="Canal CDF Premium">
     <title lang="es">CDF Noticias</title>
   </programme>
-  <programme start="20200623190000 -0500" stop="20200623201500 -0500" channel="Canal CDF Premium">
+  <programme start="20200622190000 -0500" stop="20200622201500 -0500" channel="Canal CDF Premium">
     <title lang="es">Todos Somos Técnicos</title>
   </programme>
-  <programme start="20200623201500 -0500" stop="20200623220000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622201500 -0500" stop="20200622220000 -0500" channel="Canal CDF Premium">
     <title lang="es">Fútbol clásico</title>
   </programme>
-  <programme start="20200623220000 -0500" stop="20200623230000 -0500" channel="Canal CDF Premium">
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal CDF Premium">
     <title lang="es">Dosis de Fútbol</title>
   </programme>
-  <programme start="20200623230000 -0500" stop="20200624001500 -0500" channel="Canal CDF Premium">
+  <programme start="20200622230000 -0500" stop="20200623001500 -0500" channel="Canal CDF Premium">
     <title lang="es">Todos Somos Técnicos</title>
   </programme>
   <programme start="20200621010000 -0500" stop="20200621030000 -0500" channel="Canal Golf Channel (Latinoamérica)">
@@ -2255,6 +2259,9 @@
   </programme>
   <programme start="20200621233000 -0500" stop="20200622000000 -0500" channel="Canal Golf Channel (Latinoamérica)">
     <title lang="es">2020 RBC Heritage</title>
+  </programme>
+  <programme start="20200622000000 -0500" stop="20200622010000 -0500" channel="Canal Golf Channel (Latinoamérica)">
+    <title lang="es">Golf central</title>
   </programme>
   <programme start="20200622070000 -0500" stop="20200622073000 -0500" channel="Canal Golf Channel (Latinoamérica)">
     <title lang="es">Swing Expedition with Chris</title>
@@ -2379,91 +2386,88 @@
   <programme start="20200621235500 -0500" stop="20200622010000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
   </programme>
-  <programme start="20200622235500 -0500" stop="20200623010000 -0500" channel="Canal Adrenalina Sports Network">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20200623010000 -0500" stop="20200623014000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622010000 -0500" stop="20200622014000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">De la Torre vs. Cossio Repetición</title>
   </programme>
-  <programme start="20200623014000 -0500" stop="20200623020000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622014000 -0500" stop="20200622020000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Gran Fondo NY 3: Cozumel Repetición</title>
   </programme>
-  <programme start="20200623020000 -0500" stop="20200623025000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622020000 -0500" stop="20200622025000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
   </programme>
-  <programme start="20200623025000 -0500" stop="20200623032000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622025000 -0500" stop="20200622032000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20200623032000 -0500" stop="20200623041500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622032000 -0500" stop="20200622041500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aventura Extrema 2014</title>
   </programme>
-  <programme start="20200623041500 -0500" stop="20200623044500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622041500 -0500" stop="20200622044500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Gran Fondo NY 3: Cozumel Repetición</title>
   </programme>
-  <programme start="20200623044500 -0500" stop="20200623054000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622044500 -0500" stop="20200622054000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
   </programme>
-  <programme start="20200623054000 -0500" stop="20200623061000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622054000 -0500" stop="20200622061000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20200623061000 -0500" stop="20200623070500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622061000 -0500" stop="20200622070500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aventura Extrema 2014</title>
   </programme>
-  <programme start="20200623070500 -0500" stop="20200623080000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622070500 -0500" stop="20200622080000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
   </programme>
-  <programme start="20200623080000 -0500" stop="20200623090000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622080000 -0500" stop="20200622090000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Ponte fit</title>
   </programme>
-  <programme start="20200623090000 -0500" stop="20200623093000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622090000 -0500" stop="20200622093000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20200623093000 -0500" stop="20200623100000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622093000 -0500" stop="20200622100000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aquí te levantas</title>
   </programme>
-  <programme start="20200623100000 -0500" stop="20200623110000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622100000 -0500" stop="20200622110000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Drako vs. Hooligan 2 Repetición</title>
   </programme>
-  <programme start="20200623110000 -0500" stop="20200623114500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622110000 -0500" stop="20200622114500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aventura Extrema 2015</title>
   </programme>
-  <programme start="20200623114500 -0500" stop="20200623121000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622114500 -0500" stop="20200622121000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20200623121000 -0500" stop="20200623130000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622121000 -0500" stop="20200622130000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
   </programme>
-  <programme start="20200623130000 -0500" stop="20200623140000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622130000 -0500" stop="20200622140000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Ponte fit</title>
   </programme>
-  <programme start="20200623140000 -0500" stop="20200623143000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622140000 -0500" stop="20200622143000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20200623143000 -0500" stop="20200623150000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622143000 -0500" stop="20200622150000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aquí te levantas</title>
   </programme>
-  <programme start="20200623150000 -0500" stop="20200623160000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622150000 -0500" stop="20200622160000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Drako vs. Hooligan 2 Repetición</title>
   </programme>
-  <programme start="20200623160000 -0500" stop="20200623170000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622160000 -0500" stop="20200622170000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Comentando el Fútbol</title>
   </programme>
-  <programme start="20200623170000 -0500" stop="20200623195500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622170000 -0500" stop="20200622195500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Corrida de Toros</title>
   </programme>
-  <programme start="20200623195500 -0500" stop="20200623210000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622195500 -0500" stop="20200622210000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Drako vs. Hooligan 2 Repetición</title>
   </programme>
-  <programme start="20200623210000 -0500" stop="20200623213000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622210000 -0500" stop="20200622213000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aquí te levantas</title>
   </programme>
-  <programme start="20200623213000 -0500" stop="20200623220000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622213000 -0500" stop="20200622220000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20200623220000 -0500" stop="20200623230000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Ponte fit</title>
   </programme>
-  <programme start="20200623230000 -0500" stop="20200624001000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20200622230000 -0500" stop="20200623001000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Drako vs. Hooligan 2 Repetición</title>
   </programme>
   <programme start="20200621002500 -0500" stop="20200621022500 -0500" channel="Canal Movistar Fórmula 1">
@@ -2661,97 +2665,94 @@
   <programme start="20200621234500 -0500" stop="20200622003000 -0500" channel="Canal Barça TV ">
     <title lang="es">Especial</title>
   </programme>
-  <programme start="20200622234500 -0500" stop="20200623003000 -0500" channel="Canal Barça TV ">
-    <title lang="es">Especial</title>
-  </programme>
-  <programme start="20200623003000 -0500" stop="20200623010000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622003000 -0500" stop="20200622010000 -0500" channel="Canal Barça TV ">
     <title lang="es">Jugadors de llegenda</title>
   </programme>
-  <programme start="20200623010000 -0500" stop="20200623020000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622010000 -0500" stop="20200622020000 -0500" channel="Canal Barça TV ">
     <title lang="es">Hora B</title>
   </programme>
-  <programme start="20200623020000 -0500" stop="20200623023000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622020000 -0500" stop="20200622023000 -0500" channel="Canal Barça TV ">
     <title lang="es">Especial</title>
   </programme>
-  <programme start="20200623023000 -0500" stop="20200623033000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622023000 -0500" stop="20200622033000 -0500" channel="Canal Barça TV ">
     <title lang="es">600'' de futbol</title>
   </programme>
-  <programme start="20200623033000 -0500" stop="20200623034500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622033000 -0500" stop="20200622034500 -0500" channel="Canal Barça TV ">
     <title lang="es">Especial</title>
   </programme>
-  <programme start="20200623034500 -0500" stop="20200623040000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622034500 -0500" stop="20200622040000 -0500" channel="Canal Barça TV ">
     <title lang="es">Temps de joc. 600" de fútbol</title>
   </programme>
-  <programme start="20200623040000 -0500" stop="20200623054500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622040000 -0500" stop="20200622054500 -0500" channel="Canal Barça TV ">
     <title lang="es">FC Barcelona - Tau Vitoria</title>
   </programme>
-  <programme start="20200623054500 -0500" stop="20200623060000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622054500 -0500" stop="20200622060000 -0500" channel="Canal Barça TV ">
     <title lang="es">600'' de futbol</title>
   </programme>
-  <programme start="20200623060000 -0500" stop="20200623063000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622060000 -0500" stop="20200622063000 -0500" channel="Canal Barça TV ">
     <title lang="es">Especial</title>
   </programme>
-  <programme start="20200623063000 -0500" stop="20200623070000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622063000 -0500" stop="20200622070000 -0500" channel="Canal Barça TV ">
     <title lang="es">Especial</title>
   </programme>
-  <programme start="20200623070000 -0500" stop="20200623084500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622070000 -0500" stop="20200622084500 -0500" channel="Canal Barça TV ">
     <title lang="es">Barcelona - Ath. Bilbao</title>
   </programme>
-  <programme start="20200623084500 -0500" stop="20200623090000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622084500 -0500" stop="20200622090000 -0500" channel="Canal Barça TV ">
     <title lang="es">600'' de futbol</title>
   </programme>
-  <programme start="20200623091500 -0500" stop="20200623094500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622091500 -0500" stop="20200622094500 -0500" channel="Canal Barça TV ">
     <title lang="es">Especial</title>
   </programme>
-  <programme start="20200623094500 -0500" stop="20200623104500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622094500 -0500" stop="20200622104500 -0500" channel="Canal Barça TV ">
     <title lang="es">600'' de futbol</title>
   </programme>
-  <programme start="20200623104500 -0500" stop="20200623110000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622104500 -0500" stop="20200622110000 -0500" channel="Canal Barça TV ">
     <title lang="es">Especial</title>
   </programme>
-  <programme start="20200623111500 -0500" stop="20200623130000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622111500 -0500" stop="20200622130000 -0500" channel="Canal Barça TV ">
     <title lang="es">Barcelona - Athletic</title>
   </programme>
-  <programme start="20200623130000 -0500" stop="20200623140000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622130000 -0500" stop="20200622140000 -0500" channel="Canal Barça TV ">
     <title lang="es">Recorda, Míster</title>
   </programme>
-  <programme start="20200623141500 -0500" stop="20200623150000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622141500 -0500" stop="20200622150000 -0500" channel="Canal Barça TV ">
     <title lang="es">Hora B</title>
   </programme>
-  <programme start="20200623150000 -0500" stop="20200623164500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622150000 -0500" stop="20200622164500 -0500" channel="Canal Barça TV ">
     <title lang="es">600'' de futbol</title>
   </programme>
-  <programme start="20200623164500 -0500" stop="20200623170000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622164500 -0500" stop="20200622170000 -0500" channel="Canal Barça TV ">
     <title lang="es">600'' de futbol</title>
   </programme>
-  <programme start="20200623170000 -0500" stop="20200623171500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622170000 -0500" stop="20200622171500 -0500" channel="Canal Barça TV ">
     <title lang="es">Barça News Flash</title>
   </programme>
-  <programme start="20200623171500 -0500" stop="20200623180000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622171500 -0500" stop="20200622180000 -0500" channel="Canal Barça TV ">
     <title lang="es">Hora B</title>
   </programme>
-  <programme start="20200623180000 -0500" stop="20200623183000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622180000 -0500" stop="20200622183000 -0500" channel="Canal Barça TV ">
     <title lang="es">Especial</title>
   </programme>
-  <programme start="20200623183000 -0500" stop="20200623200000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622183000 -0500" stop="20200622200000 -0500" channel="Canal Barça TV ">
     <title lang="es">Barça - KIROLBET Baskonia</title>
   </programme>
-  <programme start="20200623200000 -0500" stop="20200623201500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622200000 -0500" stop="20200622201500 -0500" channel="Canal Barça TV ">
     <title lang="es">Barça TV</title>
   </programme>
-  <programme start="20200623201500 -0500" stop="20200623203000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622201500 -0500" stop="20200622203000 -0500" channel="Canal Barça TV ">
     <title lang="es">600'' de futbol</title>
   </programme>
-  <programme start="20200623203000 -0500" stop="20200623211500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622203000 -0500" stop="20200622211500 -0500" channel="Canal Barça TV ">
     <title lang="es">Hora B</title>
   </programme>
-  <programme start="20200623211500 -0500" stop="20200623230000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622211500 -0500" stop="20200622230000 -0500" channel="Canal Barça TV ">
     <title lang="es">600'' de futbol</title>
   </programme>
-  <programme start="20200623230000 -0500" stop="20200623231500 -0500" channel="Canal Barça TV ">
+  <programme start="20200622230000 -0500" stop="20200622231500 -0500" channel="Canal Barça TV ">
     <title lang="es">600'' de futbol</title>
   </programme>
-  <programme start="20200623231500 -0500" stop="20200624010000 -0500" channel="Canal Barça TV ">
+  <programme start="20200622231500 -0500" stop="20200623010000 -0500" channel="Canal Barça TV ">
     <title lang="es">Barça - KIROLBET Baskonia</title>
   </programme>
   <programme start="20200621010000 -0500" stop="20200621012000 -0500" channel="Canal Real Madrid TV">
@@ -3248,5 +3249,2695 @@
   </programme>
   <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal TUDN (Estados Unidos)">
     <title lang="es">Camino a la gloria</title>
+  </programme>
+  <programme start="20200621001000 -0500" stop="20200621003500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621003500 -0500" stop="20200621004500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621004500 -0500" stop="20200621005500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621005500 -0500" stop="20200621011000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621011000 -0500" stop="20200621012000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621012000 -0500" stop="20200621014500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621014500 -0500" stop="20200621021000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621021000 -0500" stop="20200621023000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200621023000 -0500" stop="20200621025000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200621025000 -0500" stop="20200621031500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">The Adventures of Kid Danger</title>
+  </programme>
+  <programme start="20200621031500 -0500" stop="20200621042000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">The Adventures of Kid Danger</title>
+  </programme>
+  <programme start="20200621042000 -0500" stop="20200621044500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621044500 -0500" stop="20200621050500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621050500 -0500" stop="20200621051500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621051500 -0500" stop="20200621054000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Breadwinners</title>
+    <title lang="xx">Breadwinners</title>
+    <desc lang="es">Dos patos muestran su lujoso estilo cuando se movilizan con su furgoneta propulsada por cohete entregando pan a los animales de la parte mala de Duck Town.(n)</desc>
+    <credits>
+      <producer>Lizabeth Velasco</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/breadwinners.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621054000 -0500" stop="20200621060000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Breadwinners</title>
+    <title lang="xx">Breadwinners</title>
+    <desc lang="es">Dos patos muestran su lujoso estilo cuando se movilizan con su furgoneta propulsada por cohete entregando pan a los animales de la parte mala de Duck Town.(n)</desc>
+    <credits>
+      <producer>Lizabeth Velasco</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/breadwinners.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621060000 -0500" stop="20200621062500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Kung Fu Panda: La Leyenda de Po</title>
+  </programme>
+  <programme start="20200621062500 -0500" stop="20200621064500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Kung Fu Panda: La Leyenda de Po</title>
+  </programme>
+  <programme start="20200621064500 -0500" stop="20200621071000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621071000 -0500" stop="20200621073000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621073000 -0500" stop="20200621075500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200621075500 -0500" stop="20200621081500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200621081500 -0500" stop="20200621083500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621083500 -0500" stop="20200621085300 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621085300 -0500" stop="20200621090000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621092000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621092000 -0500" stop="20200621094000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">The Adventures of Kid Danger</title>
+  </programme>
+  <programme start="20200621094000 -0500" stop="20200621100500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">The Adventures of Kid Danger</title>
+  </programme>
+  <programme start="20200621100500 -0500" stop="20200621102500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621102500 -0500" stop="20200621104500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621104500 -0500" stop="20200621111000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621111000 -0500" stop="20200621113100 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621113100 -0500" stop="20200621115600 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621115600 -0500" stop="20200621122000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621122000 -0500" stop="20200621124000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621124000 -0500" stop="20200621130000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621130000 -0500" stop="20200621132500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621132500 -0500" stop="20200621134500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621134500 -0500" stop="20200621141000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200621141000 -0500" stop="20200621143000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200621143000 -0500" stop="20200621145500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Las Tortugas Ninja</title>
+    <title lang="xx">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">Después de un accidente cuatro tortugas de una tienda de mascotas son arrojadas a la alcantarilla donde una formula las transforma en tortugas mutantes.(n)</desc>
+    <credits>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Japón</country>
+    <country lang="es">China</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Italia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621145500 -0500" stop="20200621151500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Las Tortugas Ninja</title>
+    <title lang="xx">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">Después de un accidente cuatro tortugas de una tienda de mascotas son arrojadas a la alcantarilla donde una formula las transforma en tortugas mutantes.(n)</desc>
+    <credits>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Japón</country>
+    <country lang="es">China</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Italia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621151500 -0500" stop="20200621154000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621154000 -0500" stop="20200621171000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621171000 -0500" stop="20200621173000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621173000 -0500" stop="20200621175500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621175500 -0500" stop="20200621181500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621181500 -0500" stop="20200621184000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621184000 -0500" stop="20200621190000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621190000 -0500" stop="20200621192500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621192500 -0500" stop="20200621194500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621194500 -0500" stop="20200621201000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621201000 -0500" stop="20200621203000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621203000 -0500" stop="20200621205500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200621205500 -0500" stop="20200621211500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Sanjay y Craig</title>
+  </programme>
+  <programme start="20200621211500 -0500" stop="20200621214000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621214000 -0500" stop="20200621220000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621220000 -0500" stop="20200621222500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621222500 -0500" stop="20200621224500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621224500 -0500" stop="20200621230000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200621232000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621232000 -0500" stop="20200621234000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200621234000 -0500" stop="20200622000500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Las Tortugas Ninja</title>
+    <title lang="xx">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">Después de un accidente cuatro tortugas de una tienda de mascotas son arrojadas a la alcantarilla donde una formula las transforma en tortugas mutantes.(n)</desc>
+    <credits>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Japón</country>
+    <country lang="es">China</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Italia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622000500 -0500" stop="20200622002500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Las Tortugas Ninja</title>
+    <title lang="xx">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">Después de un accidente cuatro tortugas de una tienda de mascotas son arrojadas a la alcantarilla donde una formula las transforma en tortugas mutantes.(n)</desc>
+    <credits>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Japón</country>
+    <country lang="es">China</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Italia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622002500 -0500" stop="20200622004000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622004000 -0500" stop="20200622005000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622005000 -0500" stop="20200622010500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622010500 -0500" stop="20200622013000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622013000 -0500" stop="20200622015000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622015000 -0500" stop="20200622023500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Una casa de locos</title>
+    <title lang="xx">The Loud House</title>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas.(n)</desc>
+    <credits>
+      <producer>Karen Malach</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622023500 -0500" stop="20200622030000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622031500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622031500 -0500" stop="20200622033000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200622033000 -0500" stop="20200622034000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Breadwinners</title>
+    <title lang="xx">Breadwinners</title>
+    <desc lang="es">Dos patos muestran su lujoso estilo cuando se movilizan con su furgoneta propulsada por cohete entregando pan a los animales de la parte mala de Duck Town.(n)</desc>
+    <credits>
+      <producer>Lizabeth Velasco</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/breadwinners.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622034000 -0500" stop="20200622040000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Breadwinners</title>
+    <title lang="xx">Breadwinners</title>
+    <desc lang="es">Dos patos muestran su lujoso estilo cuando se movilizan con su furgoneta propulsada por cohete entregando pan a los animales de la parte mala de Duck Town.(n)</desc>
+    <credits>
+      <producer>Lizabeth Velasco</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/breadwinners.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622041500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">The Adventures of Kid Danger</title>
+  </programme>
+  <programme start="20200622041500 -0500" stop="20200622043500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Rainbow Butterfly Unicorn Kitty</title>
+  </programme>
+  <programme start="20200622043500 -0500" stop="20200622050000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Kung Fu Panda: La Leyenda de Po</title>
+  </programme>
+  <programme start="20200622050000 -0500" stop="20200622052000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Kung Fu Panda: La Leyenda de Po</title>
+  </programme>
+  <programme start="20200622052000 -0500" stop="20200622054500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Sanjay y Craig</title>
+  </programme>
+  <programme start="20200622054500 -0500" stop="20200622060500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Sanjay y Craig</title>
+  </programme>
+  <programme start="20200622060500 -0500" stop="20200622062500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Las Tortugas Ninja</title>
+    <title lang="xx">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">Después de un accidente cuatro tortugas de una tienda de mascotas son arrojadas a la alcantarilla donde una formula las transforma en tortugas mutantes.(n)</desc>
+    <credits>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Japón</country>
+    <country lang="es">China</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Italia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622062500 -0500" stop="20200622065000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Las Tortugas Ninja</title>
+    <title lang="xx">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">Después de un accidente cuatro tortugas de una tienda de mascotas son arrojadas a la alcantarilla donde una formula las transforma en tortugas mutantes.(n)</desc>
+    <credits>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Japón</country>
+    <country lang="es">China</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Italia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622065000 -0500" stop="20200622071000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622071000 -0500" stop="20200622073500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622073500 -0500" stop="20200622075000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622075000 -0500" stop="20200622081000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200622081000 -0500" stop="20200622083500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200622083500 -0500" stop="20200622090000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Kung Fu Panda: La Leyenda de Po</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622092000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622092000 -0500" stop="20200622094500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622094500 -0500" stop="20200622095500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622095500 -0500" stop="20200622100500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622100500 -0500" stop="20200622103000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Una casa de locos</title>
+    <title lang="xx">The Loud House</title>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas.(n)</desc>
+    <credits>
+      <producer>Karen Malach</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622103000 -0500" stop="20200622105000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Una casa de locos</title>
+    <title lang="xx">The Loud House</title>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas.(n)</desc>
+    <credits>
+      <producer>Karen Malach</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622105000 -0500" stop="20200622111500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622111500 -0500" stop="20200622112500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622112500 -0500" stop="20200622113500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200622113500 -0500" stop="20200622120000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Rainbow Butterfly Unicorn Kitty</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622122000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Breadwinners</title>
+    <title lang="xx">Breadwinners</title>
+    <desc lang="es">Dos patos muestran su lujoso estilo cuando se movilizan con su furgoneta propulsada por cohete entregando pan a los animales de la parte mala de Duck Town.(n)</desc>
+    <credits>
+      <producer>Lizabeth Velasco</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/breadwinners.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622122000 -0500" stop="20200622123500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Breadwinners</title>
+    <title lang="xx">Breadwinners</title>
+    <desc lang="es">Dos patos muestran su lujoso estilo cuando se movilizan con su furgoneta propulsada por cohete entregando pan a los animales de la parte mala de Duck Town.(n)</desc>
+    <credits>
+      <producer>Lizabeth Velasco</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/breadwinners.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622123500 -0500" stop="20200622125500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200622125500 -0500" stop="20200622140000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622142000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622142000 -0500" stop="20200622144500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622144500 -0500" stop="20200622150500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Avatar: la leyenda de Aang</title>
+  </programme>
+  <programme start="20200622150500 -0500" stop="20200622152500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Avatar: la leyenda de Aang</title>
+  </programme>
+  <programme start="20200622152500 -0500" stop="20200622155000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Kung Fu Panda: La Leyenda de Po</title>
+  </programme>
+  <programme start="20200622155000 -0500" stop="20200622161000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Kung Fu Panda: La Leyenda de Po</title>
+  </programme>
+  <programme start="20200622161000 -0500" stop="20200622162500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622162500 -0500" stop="20200622163500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622163500 -0500" stop="20200622164500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622164500 -0500" stop="20200622171000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Una casa de locos</title>
+    <title lang="xx">The Loud House</title>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas.(n)</desc>
+    <credits>
+      <producer>Karen Malach</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622171000 -0500" stop="20200622173000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Una casa de locos</title>
+    <title lang="xx">The Loud House</title>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas.(n)</desc>
+    <credits>
+      <producer>Karen Malach</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622173000 -0500" stop="20200622175000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622175000 -0500" stop="20200622181500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622181500 -0500" stop="20200622182500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622182500 -0500" stop="20200622184000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">LEGO City Adventures</title>
+  </programme>
+  <programme start="20200622184000 -0500" stop="20200622190000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">La gata mariposa unicornio arcoíris</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622192000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Kung Fu Panda: La Leyenda de Po</title>
+  </programme>
+  <programme start="20200622192000 -0500" stop="20200622194000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622194000 -0500" stop="20200622200500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622200500 -0500" stop="20200622202500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Las Tortugas Ninja</title>
+    <title lang="xx">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">Después de un accidente cuatro tortugas de una tienda de mascotas son arrojadas a la alcantarilla donde una formula las transforma en tortugas mutantes.(n)</desc>
+    <credits>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Japón</country>
+    <country lang="es">China</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Italia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622202500 -0500" stop="20200622205000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Las Tortugas Ninja</title>
+    <title lang="xx">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">Después de un accidente cuatro tortugas de una tienda de mascotas son arrojadas a la alcantarilla donde una formula las transforma en tortugas mutantes.(n)</desc>
+    <credits>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Japón</country>
+    <country lang="es">China</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Italia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622205000 -0500" stop="20200622211000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200622211000 -0500" stop="20200622212500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200622212500 -0500" stop="20200622213500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622213500 -0500" stop="20200622214500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!".(n)</desc>
+    <credits>
+      <producer>Vanessa Bagdasarian</producer>
+      <producer>Michael Bagdasarian</producer>
+      <composer>Ross Bagdasarian</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/alvinnn_y_las_ardillas.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200622214500 -0500" stop="20200622221000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622221000 -0500" stop="20200622223500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622223500 -0500" stop="20200622230000 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200622234000 -0500" stop="20200623000500 -0500" channel="Canal Nicktoons (México)">
+    <title lang="es">Las Tortugas Ninja</title>
+    <title lang="xx">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">Después de un accidente cuatro tortugas de una tienda de mascotas son arrojadas a la alcantarilla donde una formula las transforma en tortugas mutantes.(n)</desc>
+    <credits>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Japón</country>
+    <country lang="es">China</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Italia</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621004200 -0500" stop="20200621010700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Raro pero Cierto</title>
+  </programme>
+  <programme start="20200621010700 -0500" stop="20200621013200 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20200621013200 -0500" stop="20200621015400 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20200621015400 -0500" stop="20200621022900 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20200621022900 -0500" stop="20200621025300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200621025300 -0500" stop="20200621031900 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">El Laboratorio Secreto de</title>
+  </programme>
+  <programme start="20200621031900 -0500" stop="20200621034100 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621034100 -0500" stop="20200621040500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Zafari</title>
+  </programme>
+  <programme start="20200621040500 -0500" stop="20200621043400 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20200621043400 -0500" stop="20200621045800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Exploradores Espaciales</title>
+  </programme>
+  <programme start="20200621045800 -0500" stop="20200621052500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200621052500 -0500" stop="20200621054000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200621054000 -0500" stop="20200621055500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200621055500 -0500" stop="20200621063500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200621063500 -0500" stop="20200621065000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200621065000 -0500" stop="20200621070900 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20200621070900 -0500" stop="20200621073100 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200621073100 -0500" stop="20200621080000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621083000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Gallina Pintadita Mini</title>
+  </programme>
+  <programme start="20200621083000 -0500" stop="20200621085500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20200621085500 -0500" stop="20200621093300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621093300 -0500" stop="20200621095900 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">ICO BIT ZIP</title>
+  </programme>
+  <programme start="20200621095900 -0500" stop="20200621102500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200621102500 -0500" stop="20200621105000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20200621105000 -0500" stop="20200621111800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200621111800 -0500" stop="20200621114000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20200621114000 -0500" stop="20200621120700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200621120700 -0500" stop="20200621122200 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200621122200 -0500" stop="20200621123500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200621123500 -0500" stop="20200621125800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200621125800 -0500" stop="20200621143100 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Alvin y las ardillas 2</title>
+  </programme>
+  <programme start="20200621143100 -0500" stop="20200621145300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621145300 -0500" stop="20200621150000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Raro pero Cierto</title>
+  </programme>
+  <programme start="20200621150000 -0500" stop="20200621151900 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200621151900 -0500" stop="20200621153500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200621153500 -0500" stop="20200621155800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200621155800 -0500" stop="20200621170500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Perros Astronautas</title>
+  </programme>
+  <programme start="20200621170500 -0500" stop="20200621172800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20200621172800 -0500" stop="20200621180000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621190400 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621190400 -0500" stop="20200621193300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20200621193300 -0500" stop="20200621200000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Jinglekids</title>
+  </programme>
+  <programme start="20200621200000 -0500" stop="20200621201500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20200621201500 -0500" stop="20200621203800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200621203800 -0500" stop="20200621205300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200621205300 -0500" stop="20200621210800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200621210800 -0500" stop="20200621213000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200621213000 -0500" stop="20200621214500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200621214500 -0500" stop="20200621220000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200621220000 -0500" stop="20200621221500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Reino Animal - Nat Geo Kids</title>
+  </programme>
+  <programme start="20200621221500 -0500" stop="20200621223100 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Jaime y sus tentáculos</title>
+  </programme>
+  <programme start="20200621223100 -0500" stop="20200621225200 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20200621225200 -0500" stop="20200621232500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20200621232500 -0500" stop="20200621234700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Buzzu en la escuela</title>
+  </programme>
+  <programme start="20200621234700 -0500" stop="20200622001200 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200622001200 -0500" stop="20200622003800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Raro pero Cierto</title>
+  </programme>
+  <programme start="20200622003800 -0500" stop="20200622010000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20200622010000 -0500" stop="20200622012500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20200622012500 -0500" stop="20200622021200 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20200622021200 -0500" stop="20200622022700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200622022700 -0500" stop="20200622025000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">El Laboratorio Secreto de</title>
+  </programme>
+  <programme start="20200622025000 -0500" stop="20200622031200 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622031200 -0500" stop="20200622033700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Zafari</title>
+  </programme>
+  <programme start="20200622033700 -0500" stop="20200622040600 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20200622040600 -0500" stop="20200622043400 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Exploradores Espaciales</title>
+  </programme>
+  <programme start="20200622043400 -0500" stop="20200622045800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200622045800 -0500" stop="20200622052000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200622052000 -0500" stop="20200622054600 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200622054600 -0500" stop="20200622061000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200622061000 -0500" stop="20200622063400 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20200622063400 -0500" stop="20200622065000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200622065000 -0500" stop="20200622071200 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622071200 -0500" stop="20200622073400 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200622073400 -0500" stop="20200622080000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622083300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200622083300 -0500" stop="20200622090000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622092500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20200622092500 -0500" stop="20200622094500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">ICO BIT ZIP</title>
+  </programme>
+  <programme start="20200622094500 -0500" stop="20200622100900 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200622100900 -0500" stop="20200622103300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622103300 -0500" stop="20200622110000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622112500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622112500 -0500" stop="20200622115300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200622115300 -0500" stop="20200622121800 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200622121800 -0500" stop="20200622124400 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">ICO BIT ZIP</title>
+  </programme>
+  <programme start="20200622124400 -0500" stop="20200622131100 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20200622131100 -0500" stop="20200622133700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20200622133700 -0500" stop="20200622135900 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Raro pero Cierto</title>
+  </programme>
+  <programme start="20200622135900 -0500" stop="20200622143200 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200622143200 -0500" stop="20200622145700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622145700 -0500" stop="20200622152300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20200622152300 -0500" stop="20200622154900 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Jinglekids</title>
+  </programme>
+  <programme start="20200622154900 -0500" stop="20200622162100 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">ICO BIT ZIP</title>
+  </programme>
+  <programme start="20200622162100 -0500" stop="20200622164700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622164700 -0500" stop="20200622170500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200622170500 -0500" stop="20200622183500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Perros Astronautas</title>
+  </programme>
+  <programme start="20200622183500 -0500" stop="20200622185600 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622185600 -0500" stop="20200622195100 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20200622195100 -0500" stop="20200622201500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200622201500 -0500" stop="20200622204100 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20200622204100 -0500" stop="20200622210500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200622210500 -0500" stop="20200622213000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20200622213000 -0500" stop="20200622215100 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200622215100 -0500" stop="20200622221700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Raro pero Cierto</title>
+  </programme>
+  <programme start="20200622221700 -0500" stop="20200622224300 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622224300 -0500" stop="20200622231000 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200622231000 -0500" stop="20200622233700 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20200622233700 -0500" stop="20200622235900 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Buzzu en la escuela</title>
+  </programme>
+  <programme start="20200622235900 -0500" stop="20200623002500 -0500" channel="Canal Nat Geo Kids (México)">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20200621000100 -0500" stop="20200621001600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Buzzu en la escuela intergaláctica</title>
+  </programme>
+  <programme start="20200621001600 -0500" stop="20200621004200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200621004200 -0500" stop="20200621010700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Xploration Weird but True</title>
+  </programme>
+  <programme start="20200621010700 -0500" stop="20200621013200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Averiguando Cosas</title>
+  </programme>
+  <programme start="20200621013200 -0500" stop="20200621015400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20200621015400 -0500" stop="20200621020500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20200621020500 -0500" stop="20200621021800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20200621021800 -0500" stop="20200621021900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621021900 -0500" stop="20200621022400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Bitz y Bob ¡tú también lo puedes hacer</title>
+  </programme>
+  <programme start="20200621022400 -0500" stop="20200621022900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">El diario de Bita y Cora</title>
+  </programme>
+  <programme start="20200621022900 -0500" stop="20200621024100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200621024100 -0500" stop="20200621025300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200621025300 -0500" stop="20200621030500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">El laboratorio secreto de Thomas Edison</title>
+  </programme>
+  <programme start="20200621030500 -0500" stop="20200621031900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">El laboratorio secreto de Thomas Edison</title>
+  </programme>
+  <programme start="20200621031900 -0500" stop="20200621033000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621033000 -0500" stop="20200621034100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621034100 -0500" stop="20200621035300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Zafari</title>
+  </programme>
+  <programme start="20200621035300 -0500" stop="20200621040500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Zafari</title>
+  </programme>
+  <programme start="20200621040500 -0500" stop="20200621041800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20200621041800 -0500" stop="20200621043200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20200621043200 -0500" stop="20200621043400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621043400 -0500" stop="20200621044600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Exploradores Espaciales</title>
+  </programme>
+  <programme start="20200621044600 -0500" stop="20200621045800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Exploradores Espaciales</title>
+  </programme>
+  <programme start="20200621045800 -0500" stop="20200621051000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200621051000 -0500" stop="20200621052500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200621052500 -0500" stop="20200621052600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621052600 -0500" stop="20200621053700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200621053700 -0500" stop="20200621054900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200621054900 -0500" stop="20200621060100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200621060100 -0500" stop="20200621061300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200621061300 -0500" stop="20200621061900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Los polos</title>
+  </programme>
+  <programme start="20200621061900 -0500" stop="20200621063300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200621063300 -0500" stop="20200621063500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621063500 -0500" stop="20200621064700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200621064700 -0500" stop="20200621065800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200621065800 -0500" stop="20200621070900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200621070900 -0500" stop="20200621072000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200621072000 -0500" stop="20200621073100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200621073100 -0500" stop="20200621074100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621074100 -0500" stop="20200621075500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621075500 -0500" stop="20200621080000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621081200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Gallina pintadita Mini</title>
+  </programme>
+  <programme start="20200621081200 -0500" stop="20200621082700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Gallina pintadita Mini</title>
+  </programme>
+  <programme start="20200621082700 -0500" stop="20200621083300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Los polos</title>
+  </programme>
+  <programme start="20200621083300 -0500" stop="20200621084400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20200621084400 -0500" stop="20200621085900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20200621085900 -0500" stop="20200621091000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621091000 -0500" stop="20200621092400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621092400 -0500" stop="20200621093100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Opaventuras</title>
+  </programme>
+  <programme start="20200621093100 -0500" stop="20200621093600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Mascotas en el espacio, la familia</title>
+  </programme>
+  <programme start="20200621093600 -0500" stop="20200621095000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20200621095000 -0500" stop="20200621100100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20200621100100 -0500" stop="20200621101200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200621101200 -0500" stop="20200621102700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200621102700 -0500" stop="20200621103700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200621103700 -0500" stop="20200621105100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200621105100 -0500" stop="20200621110300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200621110300 -0500" stop="20200621111800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200621111800 -0500" stop="20200621113000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20200621113000 -0500" stop="20200621114400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20200621114400 -0500" stop="20200621115500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200621115500 -0500" stop="20200621121000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200621121000 -0500" stop="20200621122300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200621122300 -0500" stop="20200621123800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200621123800 -0500" stop="20200621124900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200621124900 -0500" stop="20200621125500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Los fixis</title>
+  </programme>
+  <programme start="20200621125500 -0500" stop="20200621130100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Los Fixies</title>
+  </programme>
+  <programme start="20200621130100 -0500" stop="20200621133700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Alvin y las ardillas 2</title>
+  </programme>
+  <programme start="20200621133700 -0500" stop="20200621141200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621141200 -0500" stop="20200621143400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621143400 -0500" stop="20200621144500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621144500 -0500" stop="20200621145500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621145500 -0500" stop="20200621152000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Xploration Weird but True</title>
+  </programme>
+  <programme start="20200621152000 -0500" stop="20200621153500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200621153500 -0500" stop="20200621154700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200621154700 -0500" stop="20200621155800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Reino Animal</title>
+  </programme>
+  <programme start="20200621155800 -0500" stop="20200621163200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Perros Astronautas</title>
+  </programme>
+  <programme start="20200621163200 -0500" stop="20200621170800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621170800 -0500" stop="20200621172700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621172700 -0500" stop="20200621173700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200621173700 -0500" stop="20200621174900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200621174900 -0500" stop="20200621180000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621181000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621181000 -0500" stop="20200621182500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621182500 -0500" stop="20200621183600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621183600 -0500" stop="20200621185000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621185000 -0500" stop="20200621190100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200621190100 -0500" stop="20200621191700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20200621191700 -0500" stop="20200621193000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20200621193000 -0500" stop="20200621194100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Jingle Kids</title>
+  </programme>
+  <programme start="20200621194100 -0500" stop="20200621195500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Jingle Kids</title>
+  </programme>
+  <programme start="20200621195500 -0500" stop="20200621200000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621200000 -0500" stop="20200621201100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20200621201100 -0500" stop="20200621202600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200621202600 -0500" stop="20200621203700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200621203700 -0500" stop="20200621205300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200621205300 -0500" stop="20200621210500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200621210500 -0500" stop="20200621211600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200621211600 -0500" stop="20200621212200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Los fixis</title>
+  </programme>
+  <programme start="20200621212200 -0500" stop="20200621213100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Los fixis</title>
+  </programme>
+  <programme start="20200621213100 -0500" stop="20200621214600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200621214600 -0500" stop="20200621220200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200621220200 -0500" stop="20200621221300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Reino Animal</title>
+  </programme>
+  <programme start="20200621221300 -0500" stop="20200621222800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Jaime y sus tentáculos</title>
+  </programme>
+  <programme start="20200621222800 -0500" stop="20200621223900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200621223900 -0500" stop="20200621225000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200621225000 -0500" stop="20200621230600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20200621230600 -0500" stop="20200621232100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200621232100 -0500" stop="20200621233200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Buzzu en la escuela intergaláctica</title>
+  </programme>
+  <programme start="20200621233200 -0500" stop="20200621234300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Buzzu en la escuela intergaláctica</title>
+  </programme>
+  <programme start="20200621234300 -0500" stop="20200622000500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200622000500 -0500" stop="20200622003000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Xploration Weird but True</title>
+  </programme>
+  <programme start="20200622003000 -0500" stop="20200622005500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200622005500 -0500" stop="20200622012100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20200622012100 -0500" stop="20200622013200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20200622013200 -0500" stop="20200622014600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20200622014600 -0500" stop="20200622015000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Bitz y Bob ¡tú también lo puedes hacer</title>
+  </programme>
+  <programme start="20200622015000 -0500" stop="20200622015600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">El diario de Bita y Cora</title>
+  </programme>
+  <programme start="20200622015600 -0500" stop="20200622020800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200622020800 -0500" stop="20200622022000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200622022000 -0500" stop="20200622023200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">El laboratorio secreto de Thomas Edison</title>
+  </programme>
+  <programme start="20200622023200 -0500" stop="20200622024400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">El laboratorio secreto de Thomas Edison</title>
+  </programme>
+  <programme start="20200622024400 -0500" stop="20200622025700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622025700 -0500" stop="20200622030800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622030800 -0500" stop="20200622032000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Zafari</title>
+  </programme>
+  <programme start="20200622032000 -0500" stop="20200622033300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Zafari</title>
+  </programme>
+  <programme start="20200622033300 -0500" stop="20200622034700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20200622034700 -0500" stop="20200622034900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200622034900 -0500" stop="20200622040200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20200622040200 -0500" stop="20200622041300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Exploradores Espaciales</title>
+  </programme>
+  <programme start="20200622041300 -0500" stop="20200622042600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Exploradores Espaciales</title>
+  </programme>
+  <programme start="20200622042600 -0500" stop="20200622043800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200622043800 -0500" stop="20200622045200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200622045200 -0500" stop="20200622045400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200622045400 -0500" stop="20200622050400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200622050400 -0500" stop="20200622051500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200622051500 -0500" stop="20200622052700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200622052700 -0500" stop="20200622054000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20200622054000 -0500" stop="20200622054200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200622054200 -0500" stop="20200622055400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200622055400 -0500" stop="20200622060500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200622060500 -0500" stop="20200622062400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20200622062400 -0500" stop="20200622063000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Los polos</title>
+  </programme>
+  <programme start="20200622063000 -0500" stop="20200622064400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200622064400 -0500" stop="20200622064600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200622064600 -0500" stop="20200622065700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622065700 -0500" stop="20200622070700 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622070700 -0500" stop="20200622071800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200622071800 -0500" stop="20200622072900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20200622072900 -0500" stop="20200622074000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622074000 -0500" stop="20200622075300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622075300 -0500" stop="20200622080000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622080900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200622080900 -0500" stop="20200622082400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200622082400 -0500" stop="20200622083100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Opaventuras</title>
+  </programme>
+  <programme start="20200622083100 -0500" stop="20200622084300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200622084300 -0500" stop="20200622085900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Splash y Bubbles</title>
+  </programme>
+  <programme start="20200622085900 -0500" stop="20200622092400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20200622092400 -0500" stop="20200622093900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20200622093900 -0500" stop="20200622094400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Mascotas en el espacio, la familia</title>
+  </programme>
+  <programme start="20200622094400 -0500" stop="20200622095600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200622095600 -0500" stop="20200622100800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20200622100800 -0500" stop="20200622101800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622101800 -0500" stop="20200622103300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622103300 -0500" stop="20200622104500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200622104500 -0500" stop="20200622110000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622111000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622111000 -0500" stop="20200622112400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622112400 -0500" stop="20200622113600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200622113600 -0500" stop="20200622115200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Blinky Bill</title>
+  </programme>
+  <programme start="20200622115200 -0500" stop="20200622120300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200622120300 -0500" stop="20200622121600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20200622121600 -0500" stop="20200622122800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20200622122800 -0500" stop="20200622124200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20200622124200 -0500" stop="20200622130300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20200622130300 -0500" stop="20200622130900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Mascotas en el espacio, la familia</title>
+  </programme>
+  <programme start="20200622130900 -0500" stop="20200622133400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Averiguando Cosas</title>
+  </programme>
+  <programme start="20200622133400 -0500" stop="20200622135600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Xploration Weird but True</title>
+  </programme>
+  <programme start="20200622135600 -0500" stop="20200622142300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200622142300 -0500" stop="20200622142900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Los Fixies</title>
+  </programme>
+  <programme start="20200622142900 -0500" stop="20200622144200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622144200 -0500" stop="20200622145300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622145300 -0500" stop="20200622152000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20200622152000 -0500" stop="20200622153400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Jingle Kids</title>
+  </programme>
+  <programme start="20200622153400 -0500" stop="20200622154500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Jingle Kids</title>
+  </programme>
+  <programme start="20200622154500 -0500" stop="20200622155500 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20200622155500 -0500" stop="20200622161000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Ico Bit Zip</title>
+  </programme>
+  <programme start="20200622161000 -0500" stop="20200622161600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Los Fixies</title>
+  </programme>
+  <programme start="20200622161600 -0500" stop="20200622163100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622163100 -0500" stop="20200622164200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20200622164200 -0500" stop="20200622170100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200622170100 -0500" stop="20200622173400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Perros Astronautas</title>
+  </programme>
+  <programme start="20200622173400 -0500" stop="20200622181100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200622181100 -0500" stop="20200622182900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200622182900 -0500" stop="20200622184000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622184000 -0500" stop="20200622185100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622185100 -0500" stop="20200622191800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20200622191800 -0500" stop="20200622193200 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Furiki Wheels</title>
+  </programme>
+  <programme start="20200622193200 -0500" stop="20200622194400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Furiki Wheels</title>
+  </programme>
+  <programme start="20200622194400 -0500" stop="20200622195400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200622195400 -0500" stop="20200622200900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200622200900 -0500" stop="20200622203400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Averiguando Cosas</title>
+  </programme>
+  <programme start="20200622203400 -0500" stop="20200622205800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20200622205800 -0500" stop="20200622212300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20200622212300 -0500" stop="20200622213300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200622213300 -0500" stop="20200622214400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20200622214400 -0500" stop="20200622220900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Xploration Weird but True</title>
+  </programme>
+  <programme start="20200622220900 -0500" stop="20200622222000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622222000 -0500" stop="20200622223400 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20200622223400 -0500" stop="20200622224600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200622224600 -0500" stop="20200622230100 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20200622230100 -0500" stop="20200622231300 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20200622231300 -0500" stop="20200622232800 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20200622232800 -0500" stop="20200622233900 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Buzzu en la escuela intergaláctica</title>
+  </programme>
+  <programme start="20200622233900 -0500" stop="20200622235000 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Buzzu en la escuela intergaláctica</title>
+  </programme>
+  <programme start="20200622235000 -0500" stop="20200623001600 -0500" channel="Canal Nat Geo Kids (Colombia)">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20200621003000 -0500" stop="20200621010000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621010000 -0500" stop="20200621013000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621013000 -0500" stop="20200621030000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621030000 -0500" stop="20200621033000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621033000 -0500" stop="20200621040000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621040000 -0500" stop="20200621043000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621043000 -0500" stop="20200621050000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621050000 -0500" stop="20200621053000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Floreciendo temprano</title>
+  </programme>
+  <programme start="20200621053000 -0500" stop="20200621060000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Floreciendo temprano</title>
+  </programme>
+  <programme start="20200621060000 -0500" stop="20200621063000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Levántate y Brilla</title>
+  </programme>
+  <programme start="20200621063000 -0500" stop="20200621070000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Levántate y Brilla</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621073000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Levántate y Brilla</title>
+  </programme>
+  <programme start="20200621073000 -0500" stop="20200621080000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Levántate y Brilla</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621083000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Larry y Amigos</title>
+  </programme>
+  <programme start="20200621083000 -0500" stop="20200621090000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">GooGoo</title>
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621093000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Tec, el Tractor</title>
+  </programme>
+  <programme start="20200621093000 -0500" stop="20200621100000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Galaxia ABC</title>
+  </programme>
+  <programme start="20200621100000 -0500" stop="20200621103000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Pandilla de Colores</title>
+  </programme>
+  <programme start="20200621103000 -0500" stop="20200621110000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Las Notas Musicales</title>
+  </programme>
+  <programme start="20200621110000 -0500" stop="20200621113000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Favoritos de Baby First</title>
+  </programme>
+  <programme start="20200621113000 -0500" stop="20200621120000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Favoritos de Baby First</title>
+  </programme>
+  <programme start="20200621120000 -0500" stop="20200621123000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Harry y Larry: Profesiones que Ayudan</title>
+  </programme>
+  <programme start="20200621123000 -0500" stop="20200621130000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Squeak</title>
+  </programme>
+  <programme start="20200621130000 -0500" stop="20200621133000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Squeak</title>
+  </programme>
+  <programme start="20200621133000 -0500" stop="20200621140000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Mamá y Yo - Diversión Familiar</title>
+  </programme>
+  <programme start="20200621140000 -0500" stop="20200621143000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Mamá y Yo - Cantemos</title>
+  </programme>
+  <programme start="20200621143000 -0500" stop="20200621150000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621150000 -0500" stop="20200621153000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Hora de jugar con Al</title>
+  </programme>
+  <programme start="20200621153000 -0500" stop="20200621160000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Hora de jugar con Al</title>
+  </programme>
+  <programme start="20200621160000 -0500" stop="20200621163000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Larry y Amigos</title>
+  </programme>
+  <programme start="20200621163000 -0500" stop="20200621170000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">GooGoo</title>
+  </programme>
+  <programme start="20200621170000 -0500" stop="20200621173000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Tec, el Tractor</title>
+  </programme>
+  <programme start="20200621173000 -0500" stop="20200621180000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Galaxia ABC</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621183000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Pandilla de Colores</title>
+  </programme>
+  <programme start="20200621183000 -0500" stop="20200621190000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Las Notas Musicales</title>
+  </programme>
+  <programme start="20200621190000 -0500" stop="20200621193000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Favoritos de Baby First</title>
+  </programme>
+  <programme start="20200621193000 -0500" stop="20200621200000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Favoritos de Baby First</title>
+  </programme>
+  <programme start="20200621200000 -0500" stop="20200621203000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Harry y Larry: Profesiones que Ayudan</title>
+  </programme>
+  <programme start="20200621203000 -0500" stop="20200621210000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Squeak</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621213000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Squeak</title>
+  </programme>
+  <programme start="20200621213000 -0500" stop="20200621220000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Mamá y Yo - Diversión Familiar</title>
+  </programme>
+  <programme start="20200621220000 -0500" stop="20200621223000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Mamá y Yo - Cantemos</title>
+  </programme>
+  <programme start="20200621223000 -0500" stop="20200621230000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">A la camita con BabyFirst</title>
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200621233000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621233000 -0500" stop="20200622000000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200622000000 -0500" stop="20200622003000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200622013000 -0500" stop="20200622020000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622023000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200622023000 -0500" stop="20200622030000 -0500" channel="Canal BabyFirst TV">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20200621010000 -0500" stop="20200621013000 -0500" channel="Canal BitMe">
+    <title lang="es">Another</title>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20200621013000 -0500" stop="20200621020000 -0500" channel="Canal BitMe">
+    <title lang="es">El top bitMe K-pop</title>
+  </programme>
+  <programme start="20200621020000 -0500" stop="20200621033000 -0500" channel="Canal BitMe">
+    <title lang="es">Btooom</title>
+  </programme>
+  <programme start="20200621033000 -0500" stop="20200621050000 -0500" channel="Canal BitMe">
+    <title lang="es">Arte geek</title>
+  </programme>
+  <programme start="20200621050000 -0500" stop="20200621053000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20200621053000 -0500" stop="20200621060000 -0500" channel="Canal BitMe">
+    <title lang="es">WTF y más</title>
+  </programme>
+  <programme start="20200621060000 -0500" stop="20200621070000 -0500" channel="Canal BitMe">
+    <title lang="es">Arpeggio of Blue Steel</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621090000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+    <desc lang="es">Koji Kabuto es un adolescente que pilotea el super robot “Mazinger Z” creado por su abuelo, con él deberá combatir los monstruos mecánicos del Doctor Hell.(n)</desc>
+    <date>1972</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Dibujo Animado</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/mazinger_z.jpg" />
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621110000 -0500" channel="Canal BitMe">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+  </programme>
+  <programme start="20200621110000 -0500" stop="20200621130000 -0500" channel="Canal BitMe">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200621130000 -0500" stop="20200621150000 -0500" channel="Canal BitMe">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20200621150000 -0500" stop="20200621153000 -0500" channel="Canal BitMe">
+    <title lang="es">K-pop idols</title>
+  </programme>
+  <programme start="20200621153000 -0500" stop="20200621170000 -0500" channel="Canal BitMe">
+    <title lang="es">La Leyenda del Chupacabras</title>
+    <title lang="xx">La Leyenda del Chupacabras</title>
+    <desc lang="es">Leo, es confundido con un rebelde por los soldados cuando es llevado a un viejo convento se encuentra con una misteriosa criatura y ahora deberá enfrentarla.(n)</desc>
+    <credits>
+      <actor>Benny Emmanuel</actor>
+      <actor>Rafael Inclán</actor>
+      <actor>Eduardo España</actor>
+      <actor>Mayté Cordero</actor>
+      <actor>Andrés Couturier</actor>
+      <producer>Anima Estudios</producer>
+      <composer>Leoncio "Bon" Lara</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Película</category>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_leyenda_del_chupacabras.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200621170000 -0500" stop="20200621183000 -0500" channel="Canal BitMe">
+    <title lang="es">Tales of Zestiria: the cross</title>
+  </programme>
+  <programme start="20200621183000 -0500" stop="20200621203000 -0500" channel="Canal BitMe">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+  </programme>
+  <programme start="20200621203000 -0500" stop="20200621223000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20200621223000 -0500" stop="20200621230000 -0500" channel="Canal BitMe">
+    <title lang="es">El top bitMe K-pop</title>
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200622010000 -0500" channel="Canal BitMe">
+    <title lang="es">Un Gallo con Muchos Huevos</title>
+  </programme>
+  <programme start="20200622010000 -0500" stop="20200622013000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+    <episode-num system="onscreen">E41</episode-num>
+  </programme>
+  <programme start="20200622013000 -0500" stop="20200622020000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+    <episode-num system="onscreen">E42</episode-num>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622023000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20200622023000 -0500" stop="20200622030000 -0500" channel="Canal BitMe">
+    <title lang="es">WTF y más</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622033000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20200622033000 -0500" stop="20200622040000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622043000 -0500" channel="Canal BitMe">
+    <title lang="es">Arte geek</title>
+  </programme>
+  <programme start="20200622043000 -0500" stop="20200622050000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20200622050000 -0500" stop="20200622053000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+    <episode-num system="onscreen">E33</episode-num>
+  </programme>
+  <programme start="20200622053000 -0500" stop="20200622060000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+    <episode-num system="onscreen">E31</episode-num>
+  </programme>
+  <programme start="20200622060000 -0500" stop="20200622063000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20200622063000 -0500" stop="20200622070000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622073000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20200622073000 -0500" stop="20200622080000 -0500" channel="Canal BitMe">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622083000 -0500" channel="Canal BitMe">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20200622083000 -0500" stop="20200622090000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622093000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20200622093000 -0500" stop="20200622110000 -0500" channel="Canal BitMe">
+    <title lang="es">Gnomeo y Julieta</title>
+    <title lang="xx">Gnomeo and Juliet</title>
+    <desc lang="es">La historia de amor de los gnomos de jardín donde los vecinos de Montague y Capuleto están en guerra, pero Gnomeo y Julieta están enamorados.(n)</desc>
+    <credits>
+      <actor>James McAvoy</actor>
+      <actor>Emily Blunt</actor>
+      <actor>Michael Caine</actor>
+      <actor>Ozzy Osborne</actor>
+      <actor>Maggie Smith</actor>
+      <composer>Elton John</composer>
+      <composer>Chris P. Bacon</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/gnomeo_y_julieta.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Canadá</country>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622113000 -0500" channel="Canal BitMe">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20200622113000 -0500" stop="20200622120000 -0500" channel="Canal BitMe">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622123000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20200622123000 -0500" stop="20200622130000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622133000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+    <episode-num system="onscreen">E31</episode-num>
+  </programme>
+  <programme start="20200622133000 -0500" stop="20200622140000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622143000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20200622143000 -0500" stop="20200622150000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622153000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+    <episode-num system="onscreen">E41</episode-num>
+  </programme>
+  <programme start="20200622153000 -0500" stop="20200622160000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+    <episode-num system="onscreen">E42</episode-num>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622163000 -0500" channel="Canal BitMe">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200622163000 -0500" stop="20200622170000 -0500" channel="Canal BitMe">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200622170000 -0500" stop="20200622183000 -0500" channel="Canal BitMe">
+    <title lang="es">Gnomeo y Julieta</title>
+    <title lang="xx">Gnomeo and Juliet</title>
+    <desc lang="es">La historia de amor de los gnomos de jardín donde los vecinos de Montague y Capuleto están en guerra, pero Gnomeo y Julieta están enamorados.(n)</desc>
+    <credits>
+      <actor>James McAvoy</actor>
+      <actor>Emily Blunt</actor>
+      <actor>Michael Caine</actor>
+      <actor>Ozzy Osborne</actor>
+      <actor>Maggie Smith</actor>
+      <composer>Elton John</composer>
+      <composer>Chris P. Bacon</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/gnomeo_y_julieta.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Canadá</country>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20200622183000 -0500" stop="20200622190000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+    <episode-num system="onscreen">E42</episode-num>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622193000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+    <episode-num system="onscreen">E43</episode-num>
+  </programme>
+  <programme start="20200622193000 -0500" stop="20200622200000 -0500" channel="Canal BitMe">
+    <title lang="es">WTF y más</title>
+  </programme>
+  <programme start="20200622200000 -0500" stop="20200622203000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20200622203000 -0500" stop="20200622210000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622213000 -0500" channel="Canal BitMe">
+    <title lang="es">Arte geek</title>
+  </programme>
+  <programme start="20200622213000 -0500" stop="20200622220000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+    <episode-num system="onscreen">E33</episode-num>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622223000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+    <episode-num system="onscreen">E34</episode-num>
+  </programme>
+  <programme start="20200622223000 -0500" stop="20200622230000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200622233000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+    <episode-num system="onscreen">E33</episode-num>
+  </programme>
+  <programme start="20200622233000 -0500" stop="20200623000000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco</title>
+    <episode-num system="onscreen">E2</episode-num>
   </programme>
 </tv>
