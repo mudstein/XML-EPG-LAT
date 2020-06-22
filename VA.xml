@@ -167,6 +167,26 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/unicable-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal TLC (México)">
+    <display-name lang="es">Canal TLC (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tlc_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT Series (México)">
+    <display-name lang="es">Canal TNT Series (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Paramount Channel (México)">
+    <display-name lang="es">Canal Paramount Channel (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Plus">
+    <display-name lang="es">Canal Golden Plus</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20200622063000 +0000" stop="20200622070000 +0000" channel="Win Sports +">
     <title lang="en">Win+ Noticias</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96feb675d324f6413c461/backgroundimagelive/win-noticias-b.png" />
@@ -6984,5 +7004,1893 @@
   </programme>
   <programme start="20200624233000 -0500" stop="20200625003000 -0500" channel="Canal Unicable (México)">
     <title lang="es">La Última y Nos Vamos</title>
+  </programme>
+  <programme start="20200622003100 -0500" stop="20200622012100 -0500" channel="Canal TLC (México)">
+    <title lang="es">La familia de Chantel</title>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20200622012100 -0500" stop="20200622021100 -0500" channel="Canal TLC (México)">
+    <title lang="es">De viaje con la médium</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20200622021100 -0500" stop="20200622025900 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mamá médium</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20200622025900 -0500" stop="20200622034700 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días: casados en e</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20200622034700 -0500" stop="20200622043500 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días: casados en e</title>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20200622043500 -0500" stop="20200622052300 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días: casados en e</title>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20200622052300 -0500" stop="20200622061100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días: en cuarentena</title>
+  </programme>
+  <programme start="20200622061100 -0500" stop="20200622070000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Nuevos ricos</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622072800 -0500" channel="Canal TLC (México)">
+    <title lang="es">Tacaños extremos</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20200622072800 -0500" stop="20200622082000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Princesitas</title>
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20200622082000 -0500" stop="20200622091000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Un gran mundo pequeño</title>
+    <episode-num system="onscreen">S11 E15</episode-num>
+  </programme>
+  <programme start="20200622091000 -0500" stop="20200622100000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mama June: La transformación</title>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622114000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días</title>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  <programme start="20200622114000 -0500" stop="20200622123100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Hermanas gitanas</title>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20200622123100 -0500" stop="20200622132200 -0500" channel="Canal TLC (México)">
+    <title lang="es">Hermanas gitanas</title>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20200622132200 -0500" stop="20200622141300 -0500" channel="Canal TLC (México)">
+    <title lang="es">Hermanas gitanas</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20200622141300 -0500" stop="20200622150500 -0500" channel="Canal TLC (México)">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <episode-num system="onscreen">S4 E19</episode-num>
+  </programme>
+  <programme start="20200622150500 -0500" stop="20200622155700 -0500" channel="Canal TLC (México)">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <episode-num system="onscreen">S4 E20</episode-num>
+  </programme>
+  <programme start="20200622155700 -0500" stop="20200622164900 -0500" channel="Canal TLC (México)">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20200622164900 -0500" stop="20200622171500 -0500" channel="Canal TLC (México)">
+    <title lang="es">Cuponmanía</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20200622171500 -0500" stop="20200622174100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Cuponmanía</title>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20200622174100 -0500" stop="20200622180700 -0500" channel="Canal TLC (México)">
+    <title lang="es">Tacaños extremos</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20200622180700 -0500" stop="20200622183300 -0500" channel="Canal TLC (México)">
+    <title lang="es">Tacaños extremos</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20200622183300 -0500" stop="20200622192500 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20200622192500 -0500" stop="20200622201700 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20200622201700 -0500" stop="20200622210900 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días: Antes del vi</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20200622210900 -0500" stop="20200622220100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días: Antes del vi</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20200622220100 -0500" stop="20200622225100 -0500" channel="Canal TLC (México)">
+    <title lang="es">En un mundo de hombres</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20200622225100 -0500" stop="20200622234100 -0500" channel="Canal TLC (México)">
+    <title lang="es">En un mundo de hombres</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20200622234100 -0500" stop="20200623003100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20200623003100 -0500" stop="20200623012100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mama June: La transformación</title>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20200623012100 -0500" stop="20200623021100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mama June: La transformación</title>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20200623021100 -0500" stop="20200623025900 -0500" channel="Canal TLC (México)">
+    <title lang="es">Hermanas gitanas</title>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20200623025900 -0500" stop="20200623034700 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20200623034700 -0500" stop="20200623043500 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20200623043500 -0500" stop="20200623052300 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20200623052300 -0500" stop="20200623061100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20200623061100 -0500" stop="20200623070000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Quinceañera</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20200623070000 -0500" stop="20200623072800 -0500" channel="Canal TLC (México)">
+    <title lang="es">Tacaños extremos</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20200623072800 -0500" stop="20200623082000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Princesitas</title>
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  <programme start="20200623082000 -0500" stop="20200623091000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Un gran mundo pequeño</title>
+    <episode-num system="onscreen">S11 E16</episode-num>
+  </programme>
+  <programme start="20200623091000 -0500" stop="20200623100000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mama June: La transformación</title>
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20200623100000 -0500" stop="20200623114000 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días</title>
+    <episode-num system="onscreen">S6 E6</episode-num>
+  </programme>
+  <programme start="20200623114000 -0500" stop="20200623123100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Soy Jazz</title>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20200623123100 -0500" stop="20200623132200 -0500" channel="Canal TLC (México)">
+    <title lang="es">Soy Jazz</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20200623132200 -0500" stop="20200623141300 -0500" channel="Canal TLC (México)">
+    <title lang="es">Soy Jazz</title>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20200623141300 -0500" stop="20200623150500 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mama June: La transformación</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20200623150500 -0500" stop="20200623155700 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mama June: La transformación</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20200623155700 -0500" stop="20200623164900 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mama June: La transformación</title>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20200623164900 -0500" stop="20200623171500 -0500" channel="Canal TLC (México)">
+    <title lang="es">Cuponmanía</title>
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20200623171500 -0500" stop="20200623174100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Cuponmanía</title>
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20200623174100 -0500" stop="20200623180700 -0500" channel="Canal TLC (México)">
+    <title lang="es">Tacaños extremos</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20200623180700 -0500" stop="20200623183300 -0500" channel="Canal TLC (México)">
+    <title lang="es">Tacaños extremos</title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20200623183300 -0500" stop="20200623192500 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20200623192500 -0500" stop="20200623201700 -0500" channel="Canal TLC (México)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20200623201700 -0500" stop="20200623210900 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días: Antes del vi</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20200623210900 -0500" stop="20200623220100 -0500" channel="Canal TLC (México)">
+    <title lang="es">Todo en 90 días: Antes del vi</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20200623220100 -0500" stop="20200623225100 -0500" channel="Canal TLC (México)">
+    <title lang="es">La médium</title>
+    <episode-num system="onscreen">S8 E13</episode-num>
+  </programme>
+  <programme start="20200623225100 -0500" stop="20200623234100 -0500" channel="Canal TLC (México)">
+    <title lang="es">El Don</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20200623234100 -0500" stop="20200624003100 -0500" channel="Canal TLC (México)">
+    <title lang="es">La médium</title>
+    <episode-num system="onscreen">S8 E1</episode-num>
+  </programme>
+  <programme start="20200622004900 -0500" stop="20200622013800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S7 E24</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622013800 -0500" stop="20200622022300 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S7 E25</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622022300 -0500" stop="20200622031000 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622031000 -0500" stop="20200622035500 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622035500 -0500" stop="20200622043900 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622043900 -0500" stop="20200622052300 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622052300 -0500" stop="20200622060700 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622060700 -0500" stop="20200622070000 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S7 E23</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622073800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">Hollywood one on one 2020</title>
+  </programme>
+  <programme start="20200622073800 -0500" stop="20200622082400 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">Law &amp; Order: Criminal Intent</title>
+    <title lang="xx">Law &amp; Order: Criminal Intent</title>
+    <desc lang="es">Un investigador de homicidios trabajará junto a su compañera para tratar de resolver los casos que se le presentan a diario en la ciudad de Nueva York.(n)</desc>
+    <credits>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jamey Sheridan</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Chris Noth</actor>
+      <actor>Annabella Sciorra</actor>
+      <actor>Julianne Nicholson</actor>
+      <actor>Eric Bogosian</actor>
+      <producer>John L. Roman</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/law_y_order_criminal_intent.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622082400 -0500" stop="20200622090900 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: NY</title>
+    <title lang="xx">CSI: NY</title>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <producer>Gary Sinise</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622090900 -0500" stop="20200622095400 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
+    <credits>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <composer>John M. Keane</composer>
+      <composer>Jamie Shields</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_crime_scene_investigation.jpg" />
+    <episode-num system="onscreen">S12</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622095400 -0500" stop="20200622104200 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622104200 -0500" stop="20200622112800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: NY</title>
+    <title lang="xx">CSI: NY</title>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <producer>Gary Sinise</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622112800 -0500" stop="20200622121500 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622121500 -0500" stop="20200622130000 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622134800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S4 E22</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622134800 -0500" stop="20200622143600 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S4</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622143600 -0500" stop="20200622152400 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S4 E24</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622152400 -0500" stop="20200622161100 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622161100 -0500" stop="20200622170000 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622170000 -0500" stop="20200622174900 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: NY</title>
+    <title lang="xx">CSI: NY</title>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <producer>Gary Sinise</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622174900 -0500" stop="20200622183800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622183800 -0500" stop="20200622192800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
+    <credits>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <composer>John M. Keane</composer>
+      <composer>Jamie Shields</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_crime_scene_investigation.jpg" />
+    <episode-num system="onscreen">S13 E22</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622192800 -0500" stop="20200622201800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200622201800 -0500" stop="20200622210800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622210800 -0500" stop="20200622220000 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S4 E22</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622225100 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S4</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622225100 -0500" stop="20200622234300 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S4 E24</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622234300 -0500" stop="20200623003500 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623003500 -0500" stop="20200623012600 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">Monzón</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20200623012600 -0500" stop="20200623021300 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623021300 -0500" stop="20200623025800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
+    <credits>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <composer>John M. Keane</composer>
+      <composer>Jamie Shields</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_crime_scene_investigation.jpg" />
+    <episode-num system="onscreen">S12</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623025800 -0500" stop="20200623034300 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: NY</title>
+    <title lang="xx">CSI: NY</title>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <producer>Gary Sinise</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623034300 -0500" stop="20200623042700 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623042700 -0500" stop="20200623051200 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">Law &amp; Order: Criminal Intent</title>
+    <title lang="xx">Law &amp; Order: Criminal Intent</title>
+    <desc lang="es">Un investigador de homicidios trabajará junto a su compañera para tratar de resolver los casos que se le presentan a diario en la ciudad de Nueva York.(n)</desc>
+    <credits>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jamey Sheridan</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Chris Noth</actor>
+      <actor>Annabella Sciorra</actor>
+      <actor>Julianne Nicholson</actor>
+      <actor>Eric Bogosian</actor>
+      <producer>John L. Roman</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/law_y_order_criminal_intent.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623051200 -0500" stop="20200623055800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: NY</title>
+    <title lang="xx">CSI: NY</title>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <producer>Gary Sinise</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623055800 -0500" stop="20200623064400 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
+    <credits>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <composer>John M. Keane</composer>
+      <composer>Jamie Shields</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_crime_scene_investigation.jpg" />
+    <episode-num system="onscreen">S13 E22</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623064400 -0500" stop="20200623070000 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">Hollywood one on one 2020</title>
+  </programme>
+  <programme start="20200623070000 -0500" stop="20200623075400 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S9 E8</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623075400 -0500" stop="20200623083900 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">Law &amp; Order: Criminal Intent</title>
+    <title lang="xx">Law &amp; Order: Criminal Intent</title>
+    <desc lang="es">Un investigador de homicidios trabajará junto a su compañera para tratar de resolver los casos que se le presentan a diario en la ciudad de Nueva York.(n)</desc>
+    <credits>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jamey Sheridan</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Chris Noth</actor>
+      <actor>Annabella Sciorra</actor>
+      <actor>Julianne Nicholson</actor>
+      <actor>Eric Bogosian</actor>
+      <producer>John L. Roman</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/law_y_order_criminal_intent.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623083900 -0500" stop="20200623092600 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: NY</title>
+    <title lang="xx">CSI: NY</title>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <producer>Gary Sinise</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623092600 -0500" stop="20200623101200 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
+    <credits>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <composer>John M. Keane</composer>
+      <composer>Jamie Shields</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_crime_scene_investigation.jpg" />
+    <episode-num system="onscreen">S12 E4</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623101200 -0500" stop="20200623105900 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623105900 -0500" stop="20200623114400 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: NY</title>
+    <title lang="xx">CSI: NY</title>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <producer>Gary Sinise</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623114400 -0500" stop="20200623123100 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S7 E9</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623123100 -0500" stop="20200623132000 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623132000 -0500" stop="20200623140400 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623140400 -0500" stop="20200623145400 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623145400 -0500" stop="20200623153800 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623153800 -0500" stop="20200623162600 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623162600 -0500" stop="20200623171200 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623171200 -0500" stop="20200623175900 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: NY</title>
+    <title lang="xx">CSI: NY</title>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <producer>Gary Sinise</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623175900 -0500" stop="20200623184700 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623184700 -0500" stop="20200623193400 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
+    <credits>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <composer>John M. Keane</composer>
+      <composer>Jamie Shields</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_crime_scene_investigation.jpg" />
+    <episode-num system="onscreen">S14 E1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623193400 -0500" stop="20200623202500 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">CSI: Miami</title>
+    <title lang="xx">CSI: Miami</title>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <producer>Marc Dube</producer>
+      <composer>Kevin Kiner</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <episode-num system="onscreen">S9 E8</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200623202500 -0500" stop="20200623211200 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623211200 -0500" stop="20200623220000 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623220000 -0500" stop="20200623225100 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623225100 -0500" stop="20200623233600 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200623233600 -0500" stop="20200624002600 -0500" channel="Canal TNT Series (México)">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20200622001500 -0500" stop="20200622020000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Efectos personales</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622033000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">El abogado del mal</title>
+  </programme>
+  <programme start="20200622033000 -0500" stop="20200622053000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Telaraña</title>
+  </programme>
+  <programme start="20200622053000 -0500" stop="20200622060000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20200622060000 -0500" stop="20200622063000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20200622063000 -0500" stop="20200622070000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622090000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Telaraña</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622110000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">La guerra de los mundos</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622130000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Lara Croft, Tomb Raider 2</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622154500 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Transformers: La Era de la Extinción</title>
+    <desc lang="es">Un mecánico de automóviles y su hija hacen un descubrimiento que llevará a la caída tanto de los Autobots como de los Decepticons.(n)</desc>
+    <credits>
+      <actor>Mark Wahlberg</actor>
+      <actor>Nicola Peltz</actor>
+      <actor>Jack Reynor</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Sophia Myles</actor>
+      <producer>Don Murphy</producer>
+      <producer>Tom DeSanto</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/transformers_la_era_de_la_extincion.jpg" />
+  </programme>
+  <programme start="20200622154500 -0500" stop="20200622171500 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Especies 2</title>
+  </programme>
+  <programme start="20200622171500 -0500" stop="20200622191500 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Noches de Harlem</title>
+  </programme>
+  <programme start="20200622191500 -0500" stop="20200622210000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Con la frente en alto</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622220000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Erre</title>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622234500 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Alcatraz: fuga imposible</title>
+  </programme>
+  <programme start="20200622234500 -0500" stop="20200623013000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Beckett, la última misión</title>
+  </programme>
+  <programme start="20200623013000 -0500" stop="20200623033000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Atrapada en Guantánamo</title>
+  </programme>
+  <programme start="20200623033000 -0500" stop="20200623053000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Un asesino anda suelto</title>
+  </programme>
+  <programme start="20200623053000 -0500" stop="20200623060000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20200623060000 -0500" stop="20200623063000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20200623063000 -0500" stop="20200623070000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20200623070000 -0500" stop="20200623083000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Especies 2</title>
+  </programme>
+  <programme start="20200623083000 -0500" stop="20200623094500 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Beneath</title>
+  </programme>
+  <programme start="20200623094500 -0500" stop="20200623111500 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">El Juego del Miedo 7</title>
+    <title lang="xx">Saw 3D</title>
+    <desc lang="es">Mientras una batalla mortal hace estragos sobre el legado de Jigsaw, un grupo de sobrevivientes buscan al gurú sobreviviente, un hombre con secretos.(n)</desc>
+    <credits>
+      <actor>Tobin Bell</actor>
+      <actor>Costas Mandylor</actor>
+      <actor>Betsy Russell</actor>
+      <actor>Sean Patrick Flanery</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Gina Holden</actor>
+      <actor>Chad Donella</actor>
+      <actor>Laurence Anthony</actor>
+      <producer>Gregg Hoffman</producer>
+      <producer>Oren Koules</producer>
+      <composer>Charlie Clouser</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_juego_del_miedo_7.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200623111500 -0500" stop="20200623140000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Transformers: La Era de la Extinción</title>
+    <desc lang="es">Un mecánico de automóviles y su hija hacen un descubrimiento que llevará a la caída tanto de los Autobots como de los Decepticons.(n)</desc>
+    <credits>
+      <actor>Mark Wahlberg</actor>
+      <actor>Nicola Peltz</actor>
+      <actor>Jack Reynor</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Sophia Myles</actor>
+      <producer>Don Murphy</producer>
+      <producer>Tom DeSanto</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/transformers_la_era_de_la_extincion.jpg" />
+  </programme>
+  <programme start="20200623140000 -0500" stop="20200623160000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Atrapada en Guantánamo</title>
+  </programme>
+  <programme start="20200623160000 -0500" stop="20200623174500 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Alcatraz: fuga imposible</title>
+  </programme>
+  <programme start="20200623174500 -0500" stop="20200623193000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Beckett, la última misión</title>
+  </programme>
+  <programme start="20200623193000 -0500" stop="20200623200000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Balcony Stories XL</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20200623200000 -0500" stop="20200623210000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">Erre</title>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20200623210000 -0500" stop="20200623230000 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">La Hija del General</title>
+  </programme>
+  <programme start="20200623230000 -0500" stop="20200624004500 -0500" channel="Canal Paramount Channel (México)">
+    <title lang="es">John Wick</title>
+  </programme>
+  <programme start="20200622004100 -0500" stop="20200622020700 -0500" channel="Canal Golden Plus">
+    <title lang="es">My Dad Your Dad 2</title>
+  </programme>
+  <programme start="20200622020700 -0500" stop="20200622041600 -0500" channel="Canal Golden Plus">
+    <title lang="es">Agora: La Caída del Imperio Romano</title>
+  </programme>
+  <programme start="20200622041600 -0500" stop="20200622062900 -0500" channel="Canal Golden Plus">
+    <title lang="es">La Historia de Ernie Davis</title>
+  </programme>
+  <programme start="20200622062900 -0500" stop="20200622082300 -0500" channel="Canal Golden Plus">
+    <title lang="es">De Roma con amor</title>
+  </programme>
+  <programme start="20200622082300 -0500" stop="20200622094200 -0500" channel="Canal Golden Plus">
+    <title lang="es">Padre de cuatro en el mar</title>
+  </programme>
+  <programme start="20200622094200 -0500" stop="20200622112300 -0500" channel="Canal Golden Plus">
+    <title lang="es">Mi Pequeño Gran Hombre</title>
+    <title lang="xx">Mi Pequeño Gran Hombre</title>
+    <desc lang="es">Cuando una abogada extravía su celular, recibe una llamada de un hombre con la intención de devolverlo, es todo lo que pudo imaginar excepto que mide 1.35m.(n)</desc>
+    <credits>
+      <actor>José Carriedo</actor>
+      <actor>Fernanda Castillo</actor>
+      <actor>Vico Escorcia</actor>
+      <actor>Claudia Goytia</actor>
+      <actor>Alberto Lomnitz</actor>
+      <actor>Pedro Mira</actor>
+      <actor>Sarah Nichols</actor>
+      <actor>Silvia Pasquel</actor>
+      <producer>Matthias Ehrenberg</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mi_pequeno_gran_hombre.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200622112300 -0500" stop="20200622125800 -0500" channel="Canal Golden Plus">
+    <title lang="es">Educando a mamá</title>
+  </programme>
+  <programme start="20200622125800 -0500" stop="20200622142500 -0500" channel="Canal Golden Plus">
+    <title lang="es">American curious</title>
+  </programme>
+  <programme start="20200622142500 -0500" stop="20200622155900 -0500" channel="Canal Golden Plus">
+    <title lang="es">Citas y cambios</title>
+  </programme>
+  <programme start="20200622155900 -0500" stop="20200622175900 -0500" channel="Canal Golden Plus">
+    <title lang="es">En busca de la felicidad</title>
+  </programme>
+  <programme start="20200622175900 -0500" stop="20200622194000 -0500" channel="Canal Golden Plus">
+    <title lang="es">Amor en línea</title>
+  </programme>
+  <programme start="20200622194000 -0500" stop="20200622211100 -0500" channel="Canal Golden Plus">
+    <title lang="es">Un plan no tan perfecto</title>
+  </programme>
+  <programme start="20200622211100 -0500" stop="20200622230000 -0500" channel="Canal Golden Plus">
+    <title lang="es">Mortdecai: El Artista del engaño</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623003500 -0500" channel="Canal Golden Plus">
+    <title lang="es">Almas Pasajeras</title>
+  </programme>
+  <programme start="20200623003500 -0500" stop="20200623020100 -0500" channel="Canal Golden Plus">
+    <title lang="es">They Came Together</title>
+  </programme>
+  <programme start="20200623020100 -0500" stop="20200623034500 -0500" channel="Canal Golden Plus">
+    <title lang="es">Drugstore Cowboy</title>
+  </programme>
+  <programme start="20200623034500 -0500" stop="20200623051900 -0500" channel="Canal Golden Plus">
+    <title lang="es">Citas y cambios</title>
+  </programme>
+  <programme start="20200623051900 -0500" stop="20200623070800 -0500" channel="Canal Golden Plus">
+    <title lang="es">Mortdecai: El Artista del engaño</title>
+  </programme>
+  <programme start="20200623070800 -0500" stop="20200623084800 -0500" channel="Canal Golden Plus">
+    <title lang="es">Viviendo en la Linea</title>
+  </programme>
+  <programme start="20200623084800 -0500" stop="20200623102100 -0500" channel="Canal Golden Plus">
+    <title lang="es">Casi un gigoló</title>
+  </programme>
+  <programme start="20200623102100 -0500" stop="20200623121500 -0500" channel="Canal Golden Plus">
+    <title lang="es">Ven y encuentrame</title>
+  </programme>
+  <programme start="20200623121500 -0500" stop="20200623135000 -0500" channel="Canal Golden Plus">
+    <title lang="es">Almas Pasajeras</title>
+  </programme>
+  <programme start="20200623135000 -0500" stop="20200623152100 -0500" channel="Canal Golden Plus">
+    <title lang="es">A sangre fría</title>
+  </programme>
+  <programme start="20200623152100 -0500" stop="20200623172200 -0500" channel="Canal Golden Plus">
+    <title lang="es">Vida Bandida</title>
+  </programme>
+  <programme start="20200623172200 -0500" stop="20200623192400 -0500" channel="Canal Golden Plus">
+    <title lang="es">Pelotón</title>
+  </programme>
+  <programme start="20200623192400 -0500" stop="20200623212500 -0500" channel="Canal Golden Plus">
+    <title lang="es">Rocky II</title>
+  </programme>
+  <programme start="20200623212500 -0500" stop="20200623230000 -0500" channel="Canal Golden Plus">
+    <title lang="es">Chavez: Cage of glory</title>
+  </programme>
+  <programme start="20200623230000 -0500" stop="20200624004300 -0500" channel="Canal Golden Plus">
+    <title lang="es">Hot tub: Solteros en el tiempo</title>
   </programme>
 </tv>
