@@ -23,86 +23,80 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinema_dinamita-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="ESPN Deportes">
-    <display-name lang="en">ESPN Deportes</display-name>
-    <url>http://www.tvtv.us</url>
+  <channel id="TNT Sports">
+    <display-name lang="es">TNT Sports</display-name>
+    <url>http://www.tntsportsla.com</url>
   </channel>
-  <channel id="ESPN">
-    <display-name lang="en">ESPN</display-name>
-    <url>http://www.tvtv.us</url>
+  <channel id="Canal Claro Sports">
+    <display-name lang="es">Canal Claro Sports</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="ESPN2">
-    <display-name lang="en">ESPN2</display-name>
-    <url>http://www.tvtv.us</url>
+  <channel id="Canal Fox Sports Premium (Argentina)">
+    <display-name lang="es">Canal Fox Sports Premium (Argentina)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="ESPN News">
-    <display-name lang="en">ESPN News</display-name>
-    <url>http://www.tvtv.us</url>
+  <channel id="Canal ESPN+ Latinoamérica">
+    <display-name lang="es">Canal ESPN+ Latinoamérica</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="ESPN U">
-    <display-name lang="en">ESPN U</display-name>
-    <url>http://www.tvtv.us</url>
+  <channel id="Canal CDF Básico">
+    <display-name lang="es">Canal CDF Básico</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_basico-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200621043000 +0000" stop="20200621063000 +0000" channel="Win Sports +">
-    <title lang="en">Denizlispor vs. Besiktas</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee961eb9c32fd0783cddd0e/backgroundimagelive/liga-turca-s.png" />
-  </programme>
-  <programme start="20200621063000 +0000" stop="20200621070000 +0000" channel="Win Sports +">
-    <title lang="en">Win+ Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee962391e819a0705c9210c/backgroundimagelive/win-noticias-b.png" />
-  </programme>
-  <programme start="20200621070000 +0000" stop="20200621080000 +0000" channel="Win Sports +">
-    <title lang="en">Los 100 Mejores Goles de 2019</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96272437de0070df5beab/backgroundimagelive/especiales-win-b.png" />
-  </programme>
-  <programme start="20200621080000 +0000" stop="20200621100000 +0000" channel="Win Sports +">
-    <title lang="en">Pasto vs. Millonarios</title>
-    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
-  </programme>
-  <programme start="20200621120000 +0000" stop="20200621123000 +0000" channel="Win Sports +">
-    <title lang="en">Campañas</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee964aef849d707157781a7/backgroundimagelive/campanas-b.png" />
-  </programme>
-  <programme start="20200621123000 +0000" stop="20200621130000 +0000" channel="Win Sports +">
-    <title lang="en">Win+ Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96bec0b6df34f34817904/schedule-image/win-noticias-s.png" />
-  </programme>
-  <programme start="20200621130000 +0000" stop="20200621150000 +0000" channel="Win Sports +">
-    <title lang="en">Santa Fe vs. Junior</title>
-    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
-  </programme>
-  <programme start="20200621150000 +0000" stop="20200621151500 +0000" channel="Win Sports +">
-    <title lang="en">Goles de la Fecha</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96c8e675d324f6413c3d2/backgroundimagelive/especiales-win-b.png" />
-  </programme>
-  <programme start="20200621200000 +0000" stop="20200621210000 +0000" channel="Win Sports +">
-    <title lang="en">Win+ Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96db03b605708c22ade8a/backgroundimagelive/win-noticias-b.png" />
-  </programme>
-  <programme start="20200621210000 +0000" stop="20200621213000 +0000" channel="Win Sports +">
-    <title lang="en">Campañas</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96de1f28a761903017d0a/backgroundimagelive/campanas-b.png" />
-  </programme>
-  <programme start="20200621213000 +0000" stop="20200621220000 +0000" channel="Win Sports +">
-    <title lang="en">Clubland</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96e140b6df34f34817921/schedule-image/800-600-00000.png" />
-  </programme>
-  <programme start="20200621220000 +0000" stop="20200622000000 +0000" channel="Win Sports +">
-    <title lang="en">Nacional vs. Junior</title>
-    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
-  </programme>
-  <programme start="20200622000000 +0000" stop="20200622020000 +0000" channel="Win Sports +">
-    <title lang="en">Junior vs. Nacional</title>
-    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
-  </programme>
-  <programme start="20200622020000 +0000" stop="20200622023000 +0000" channel="Win Sports +">
-    <title lang="en">Win+ Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96e949a2346081612188f/backgroundimagelive/win-noticias-b.png" />
-  </programme>
-  <programme start="20200622023000 +0000" stop="20200622030000 +0000" channel="Win Sports +">
-    <title lang="en">Clubland</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96ed28e515308a54b00b5/schedule-image/800-600-00000.png" />
-  </programme>
+  <channel id="Canal CDF HD">
+    <display-name lang="es">Canal CDF HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CDF Premium">
+    <display-name lang="es">Canal CDF Premium</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal GolTV Latinoamérica">
+    <display-name lang="es">Canal GolTV Latinoamérica</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Adrenalina Sports Network">
+    <display-name lang="es">Canal Adrenalina Sports Network</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Movistar Fórmula 1">
+    <display-name lang="es">Canal Movistar Fórmula 1</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/movistar_formula_1-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Barça TV ">
+    <display-name lang="es">Canal Barça TV </display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/barca_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Real Madrid TV">
+    <display-name lang="es">Canal Real Madrid TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/real_madrid_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Eurosport 1 (España)">
+    <display-name lang="es">Canal Eurosport 1 (España)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_1-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Eurosport 2 (España)">
+    <display-name lang="es">Canal Eurosport 2 (España)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TUDN (Estados Unidos)">
+    <display-name lang="es">Canal TUDN (Estados Unidos)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20200622030000 +0000" stop="20200622040000 +0000" channel="Win Sports +">
     <title lang="en">Mesa de Análisis</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5ee96f218e515308a54b00be/backgroundimagelive/mesa-de-analisis-1920x800.png" />
@@ -159,49 +153,77 @@
     <title lang="en">Cali vs. Medellín</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621050000 +0000" stop="20200621060000 +0000" channel="Win Sports Básico">
-    <title lang="en">Los 100 Mejores Goles de 2015</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea83d4e88a2b74abe7387f/backgroundimagelive/especiales-win-b.png" />
-  </programme>
-  <programme start="20200621060000 +0000" stop="20200621080000 +0000" channel="Win Sports Básico">
-    <title lang="en">Junior vs. Medellín</title>
+  <programme start="20200623000000 +0000" stop="20200623020000 +0000" channel="Win Sports +">
+    <title lang="en">Medellín vs. Cali</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621080000 +0000" stop="20200621100000 +0000" channel="Win Sports Básico">
-    <title lang="en">Aguilas Doradas vs. Patriotas</title>
-    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
-  </programme>
-  <programme start="20200621110000 +0000" stop="20200621113000 +0000" channel="Win Sports Básico">
-    <title lang="en">Clubland</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8680862068075e3f9693/backgroundimagelive/1920-800-00000.png" />
-  </programme>
-  <programme start="20200621113000 +0000" stop="20200621120000 +0000" channel="Win Sports Básico">
-    <title lang="en">Win Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea86ed8a9d0902ea4a3b6b/backgroundimagelive/win-noticias-b.png" />
-  </programme>
-  <programme start="20200621140000 +0000" stop="20200621151500 +0000" channel="Win Sports Básico">
-    <title lang="en">Ciclovida Virtual</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea88208eeb200761fcc596/schedule-image/especiales-win-s.png" />
-  </programme>
-  <programme start="20200621200000 +0000" stop="20200621210000 +0000" channel="Win Sports Básico">
+  <programme start="20200623020000 +0000" stop="20200623023000 +0000" channel="Win Sports +">
     <title lang="en">Win+ Noticias</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea89185922d7258f79d369/backgroundimagelive/win-noticias-b.png" />
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eeab01e2eab2708dbd1d2e8/schedule-image/win-noticias-s.png" />
   </programme>
-  <programme start="20200621210000 +0000" stop="20200621213000 +0000" channel="Win Sports Básico">
+  <programme start="20200623023000 +0000" stop="20200623040000 +0000" channel="Win Sports +">
+    <title lang="en">Especiales Win Volviendo a la cancha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eeab06987fc773c14052e47/backgroundimagelive/especiales-win-b.png" />
+  </programme>
+  <programme start="20200623040000 +0000" stop="20200623043000 +0000" channel="Win Sports +">
     <title lang="en">Clubland</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8985d7a4b707c0990d65/backgroundimagelive/1920-800-00000.png" />
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eeab0a131ee2607175d90ea/schedule-image/800-600-00000.png" />
   </programme>
-  <programme start="20200621213000 +0000" stop="20200621220000 +0000" channel="Win Sports Básico">
-    <title lang="en">Campañas</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea89ce0da7ae37d7405a2e/schedule-image/campanas-s.png" />
+  <programme start="20200623063000 +0000" stop="20200623070000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eeab13a69a6ea08e07269d7/backgroundimagelive/win-noticias-b.png" />
   </programme>
-  <programme start="20200621220000 +0000" stop="20200622000000 +0000" channel="Win Sports Básico">
-    <title lang="en">Liga BetPlay</title>
+  <programme start="20200623070000 +0000" stop="20200623080000 +0000" channel="Win Sports +">
+    <title lang="en">Los 100 Mejores Goles de 2015</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eeab1b12eab2708dbd1d307/backgroundimagelive/especiales-win-b.png" />
+  </programme>
+  <programme start="20200623080000 +0000" stop="20200623100000 +0000" channel="Win Sports +">
+    <title lang="en">Nacional vs. Tolima</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200622020000 +0000" stop="20200622030000 +0000" channel="Win Sports Básico">
+  <programme start="20200623100000 +0000" stop="20200623103000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcbfa2b9ec107b7b587cb/backgroundimagelive/win-noticias-b.png" />
+  </programme>
+  <programme start="20200623113000 +0000" stop="20200623120000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcc67f0f10f644aaa72bb/backgroundimagelive/win-noticias-b.png" />
+  </programme>
+  <programme start="20200623120000 +0000" stop="20200623140000 +0000" channel="Win Sports +">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcc9a023b6d07a736f337/backgroundimagelive/primer-toque.png" />
+  </programme>
+  <programme start="20200623140000 +0000" stop="20200623160000 +0000" channel="Win Sports +">
+    <title lang="en">Millonarios vs. Once Caldas</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20200623160000 +0000" stop="20200623170000 +0000" channel="Win Sports +">
     <title lang="en">Mesa de Análisis</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eea8a76c9641207bd383129/schedule-image/mesa-de-analisis-800x600.png" />
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcce42b9ec107b7b587df/backgroundimagelive/mesa-de-analisis-1920x800.png" />
+  </programme>
+  <programme start="20200623170000 +0000" stop="20200623173000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcd0f78588407bde9f71e/backgroundimagelive/win-noticias-b.png" />
+  </programme>
+  <programme start="20200623173000 +0000" stop="20200623193000 +0000" channel="Win Sports +">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcd42cce88b071d3acf5d/backgroundimagelive/primer-toque.png" />
+  </programme>
+  <programme start="20200623193000 +0000" stop="20200623200000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcd812b9ec107b7b587ec/backgroundimagelive/win-noticias-b.png" />
+  </programme>
+  <programme start="20200623200000 +0000" stop="20200623220000 +0000" channel="Win Sports +">
+    <title lang="en">Nacional vs. Jaguares</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20200623220000 +0000" stop="20200623230000 +0000" channel="Win Sports +">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcdd12b9ec107b7b5880b/backgroundimagelive/saque-largo-b.png" />
+  </programme>
+  <programme start="20200623230000 +0000" stop="20200624003000 +0000" channel="Win Sports +">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcdf8bb9986446c5246c3/backgroundimagelive/conexion-b.png" />
   </programme>
   <programme start="20200622030000 +0000" stop="20200622033000 +0000" channel="Win Sports Básico">
     <title lang="en">Win+ Noticias</title>
@@ -263,491 +285,85 @@
     <title lang="en">América vs. Quindío (2016)</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621055000 +0000" stop="20200621064000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago Fire</title>
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="es">Declaración de guerra</sub-title>
-    <desc lang="es">Un incendio enfurecido consume un complejo de apartamentos de 25 pisos, atrapando a las víctimas en los pisos superiores.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Lauren German</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-fire-s07e02-declaracion-de-guerra_l_l.jpg" />
-    <episode-num system="onscreen">S7 E2</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623000000 +0000" stop="20200623013000 +0000" channel="Win Sports Básico">
+    <title lang="en">Volviendo a la cancha</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621064000 +0000" stop="20200621073000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago Med</title>
-    <title lang="en">Chicago Med</title>
-    <sub-title lang="es">Cuándo soltar</sub-title>
-    <desc lang="es">Los médicos y las enfermeras del Chicago Med están en alerta roja cuando una enorme cantidad de pacientes entra de emergencia luego de un espantoso incendio en un edificio de apartamentos.(n)</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Ato Essandoh</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-med-s04e02-cuando-soltar_l_l.jpg" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200623013000 +0000" stop="20200623020000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win + Noticias</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621073000 +0000" stop="20200621081500 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago P.D.</title>
-    <title lang="en">Chicago P.D</title>
-    <sub-title lang="es">Finales</sub-title>
-    <desc lang="es">Después de descubrir la verdadera causa del incendio en el rascacielos, la Unidad de Inteligencia se apresura a buscar al hombre responsable. Y para Halstead, es un asunto personal.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Robert Wisdom</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s06e02-finales_l_l.jpg" />
-    <episode-num system="onscreen">S6 E2</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200623020000 +0000" stop="20200623023000 +0000" channel="Win Sports Básico">
+    <title lang="en">Clubland</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcd46cce88b071d3acf63/backgroundimagelive/clubland-b.png" />
   </programme>
-  <programme start="20200621081500 +0000" stop="20200621090000 +0000" channel="PE - Universal Channel">
-    <title lang="es">FBI</title>
-    <title lang="en">FBI</title>
-    <sub-title lang="es">Sueños americanos</sub-title>
-    <desc lang="es">Jess LaCroix de la Fugitive Task Force se une al caso de un grupo de niños secuestrados cuando el sospechoso es un supremacista blanco al que detuvo hace años.(n)</desc>
-    <credits>
-      <actor>Jeremy Sisto</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Assibey Blake</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_fbi-s02e18-suenos-americanos_l_l.jpg" />
-    <episode-num system="onscreen">S2 E18</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623023000 +0000" stop="20200623033000 +0000" channel="Win Sports Básico">
+    <title lang="en">Mesa de Análisis</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebcde51902fe65994b69a8/backgroundimagelive/mesa-b.png" />
   </programme>
-  <programme start="20200621090000 +0000" stop="20200621094500 +0000" channel="PE - Universal Channel">
-    <title lang="es">MacGyver</title>
-    <title lang="en">MacGyver</title>
-    <sub-title lang="es">Murdoc + Esposas</sub-title>
-    <desc lang="es">Los asesinos que Murdoc ha estado reuniendo se vuelven en su contra y lo venden a Phoenix. Pero el mentor de Murdoc, Nicholas Helman, quiere ver muerto a Murdoc y hará lo imposible por matarlo.(n)</desc>
-    <credits>
-      <actor>Sandrine Holt</actor>
-      <actor>George Eads</actor>
-      <actor>Justin Hires</actor>
-      <actor>Lucas Till</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s02e15-murdoc-esposas_l_l.jpg" />
-    <episode-num system="onscreen">S2 E15</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623033000 +0000" stop="20200623040000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win + Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebd110db2d792b159d2c74/backgroundimagelive/win-noticias-b.png" />
   </programme>
-  <programme start="20200621094500 +0000" stop="20200621103000 +0000" channel="PE - Universal Channel">
-    <title lang="es">MacGyver</title>
-    <title lang="en">MacGyver</title>
-    <sub-title lang="es">Hamaca + Balcón</sub-title>
-    <desc lang="es">El hijo de un criminal de guerra serbio lleva a su flamante esposa a un exclusivo castillo francés para pasar su luna de miel, y Matty le ordena a Leanna que trabaje de incógnito para averiguar dónde se encuentra el padre.(n)</desc>
-    <credits>
-      <actor>Sandrine Holt</actor>
-      <actor>George Eads</actor>
-      <actor>Justin Hires</actor>
-      <actor>Lucas Till</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s02e16-hamaca-balcon_l_l.jpg" />
-    <episode-num system="onscreen">S2 E16</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623050000 +0000" stop="20200623060000 +0000" channel="Win Sports Básico">
+    <title lang="en">100 mejores goles de 2017</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebd2054df69041af9d09ff/schedule-image/especiales-win-s.png" />
   </programme>
-  <programme start="20200621103000 +0000" stop="20200621110000 +0000" channel="PE - Universal Channel">
-    <title lang="es">It Takes a Killer</title>
-    <title lang="en">It Takes a Killer</title>
-    <sub-title lang="es">La joven asesina</sub-title>
-    <desc lang="es">Una adolescente desempleada, madre y su flamante esposo idean un plan para matar a un hombre inocente que conocen a través de Craiglist. El resultado final es un ataque salvaje con arma blanca que sacude a una pequeña comunidad.(n)</desc>
-    <credits>
-      <actor>Charles Adams</actor>
-      <actor>Michael Hill</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Judy Ho</actor>
-      <actor>Donald M. Krause</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Jillian Nolde</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_it-takes-a-killer-s01e36-la-joven-asesina_l_l.jpg" />
-    <episode-num system="onscreen">S1 E36</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200623060000 +0000" stop="20200623080000 +0000" channel="Win Sports Básico">
+    <title lang="en">Boyacá Chicó vs. Equidad</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621110000 +0000" stop="20200621140000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Programación pagada</title>
-    <desc lang="es">Te presentamos la carta abierta de nuestra programación, disfruta de nuestros estrenos y presentaciones hechos y seleccionados especialmente para ti.(n)</desc>
-    <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_programacion-pagada_l_l.jpg" />
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623080000 +0000" stop="20200623100000 +0000" channel="Win Sports Básico">
+    <title lang="en">Huila vs. Cali</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621140000 +0000" stop="20200621143000 +0000" channel="PE - Universal Channel">
-    <title lang="es">It Takes a Killer</title>
-    <title lang="en">It Takes a Killer</title>
-    <sub-title lang="es">Master Bob</sub-title>
-    <desc lang="es">La población de una ciudad de Michigan queda sin palabras cuando un respetado empresario de bienes raíces se convierte en el sospechoso número uno en la muerte de su esposa.(n)</desc>
-    <credits>
-      <actor>Charles Adams</actor>
-      <actor>Michael Hill</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Judy Ho</actor>
-      <actor>Donald M. Krause</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Jillian Nolde</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_it-takes-a-killer-s01e33-master-bob_l_l.jpg" />
-    <episode-num system="onscreen">S1 E33</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200623100000 +0000" stop="20200623120000 +0000" channel="Win Sports Básico">
+    <title lang="en">Millonarios vs. Junior</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621143000 +0000" stop="20200621152500 +0000" channel="PE - Universal Channel">
-    <title lang="es">MacGyver</title>
-    <title lang="en">MacGyver</title>
-    <sub-title lang="es">Trampa para osos + Capo mafia</sub-title>
-    <desc lang="es">Mac, Jack y Riley se disponen a buscar a un mafioso convertido en informante después de ser secuestrado y llevado a Chernobyl por un jefe del crimen internacional. Mientras tanto, Bozer lucha por mantener en secreto a Matty.(n)</desc>
-    <credits>
-      <actor>Sandrine Holt</actor>
-      <actor>George Eads</actor>
-      <actor>Justin Hires</actor>
-      <actor>Lucas Till</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s02e17-trampa-para-osos-capo-mafia_l_l.jpg" />
-    <episode-num system="onscreen">S2 E17</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623120000 +0000" stop="20200623123000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win + Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebd95cdb2d792b159d2d1c/schedule-image/win-noticias-s.png" />
   </programme>
-  <programme start="20200621152500 +0000" stop="20200621162000 +0000" channel="PE - Universal Channel">
-    <title lang="es">MacGyver</title>
-    <title lang="en">MacGyver</title>
-    <sub-title lang="es">Riley + Avión</sub-title>
-    <desc lang="es">Mac y el equipo buscan a un ex técnico del gobierno que robó inteligencia clasificada y se cruzó con los Colton, quienes están cazando al mismo hombre por diferentes razones.(n)</desc>
-    <credits>
-      <actor>Sandrine Holt</actor>
-      <actor>George Eads</actor>
-      <actor>Justin Hires</actor>
-      <actor>Lucas Till</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s02e18-riley-avion_l_l.jpg" />
-    <episode-num system="onscreen">S2 E18</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623123000 +0000" stop="20200623133000 +0000" channel="Win Sports Básico">
+    <title lang="en">Score Mundial</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebdab869721f07806c43b1/backgroundimagelive/score-mundial-b.png" />
   </programme>
-  <programme start="20200621162000 +0000" stop="20200621171500 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Anónimo</sub-title>
-    <desc lang="es">Un caso se convierte en dos cuando un asesinato conduce a un violador serial que está transmitiendo enfermedades a sus víctimas y la única pista de los detectives es un sitio web para encuentros casuales y anónimos.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s11e11-anonimo-1_l_l.jpg" />
-    <episode-num system="onscreen">S11 E11</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623133000 +0000" stop="20200623140000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win + Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebdb3c872d1b0a1a679e97/backgroundimagelive/win-noticias-b.png" />
   </programme>
-  <programme start="20200621171500 +0000" stop="20200621181000 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Sombras</sub-title>
-    <desc lang="es">Benson y Stabler investigan la muerte de una pareja adinerada que fue hallada muerta en su cama y deben trabajar en conjunto con un detective de la división de fraude que está convencido de que la hija de la pareja cometió el crimen.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s11e12-sombras-1_l_l.jpg" />
-    <episode-num system="onscreen">S11 E12</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623140000 +0000" stop="20200623160000 +0000" channel="Win Sports Básico">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebdb8f1902fe65994b6aad/backgroundimagelive/primer-toque.png" />
   </programme>
-  <programme start="20200621181000 +0000" stop="20200621190500 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Políticamente correcto</sub-title>
-    <desc lang="es">Los detectives investigan el caso de una violación que se convirtió en asesinato, pero la investigación se ve obstaculizada por una lesbiana prominente que tiene su propias ideas.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s11e13-politicamente-correcto-1_l_l.jpg" />
-    <episode-num system="onscreen">S11 E13</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623160000 +0000" stop="20200623170000 +0000" channel="Win Sports Básico">
+    <title lang="en">Detrás de la Gloria Nacional campeón 2015-2</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebdbf0857796073428532e/schedule-image/detas-1.png" />
   </programme>
-  <programme start="20200621190500 +0000" stop="20200621200000 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Saviour</sub-title>
-    <desc lang="es">Stabler y Benson persiguen al asesino de una prostituta que cree que tiene una misión divina.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s11e14-saviour-1_l_l.jpg" />
-    <episode-num system="onscreen">S11 E14</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623170000 +0000" stop="20200623173000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win + Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebdc4274f62407a5cd6bed/backgroundimagelive/win-noticias-b.png" />
   </programme>
-  <programme start="20200621200000 +0000" stop="20200621205500 +0000" channel="PE - Universal Channel">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="en">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">Confidencial</sub-title>
-    <desc lang="es">Benson y Stabler investigan el secuestro de una mujer en un edificio que es propiedad de un inversionista muy poderoso y protegido.(n)</desc>
-    <credits>
-      <actor>Ice-T</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Mike Doyle</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s11e15-confidencial-1_l_l.jpg" />
-    <episode-num system="onscreen">S11 E15</episode-num>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
+  <programme start="20200623183000 +0000" stop="20200623203000 +0000" channel="Win Sports Básico">
+    <title lang="en">Nacional vs. Santa Fe (2014)</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20200621205500 +0000" stop="20200621215000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago P.D.</title>
-    <title lang="en">Chicago P.D</title>
-    <sub-title lang="es">Persiguiendo monstruos</sub-title>
-    <desc lang="es">Cuando una pandilla de El Salvador se infiltra en Chicago, la unidad de inteligencia trabaja con un detective visitante para terminar con las tácticas brutales del grupo.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Robert Wisdom</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e13-persiguiendo-monstruos_l_l.jpg" />
-    <episode-num system="onscreen">S5 E13</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200623203000 +0000" stop="20200623213000 +0000" channel="Win Sports Básico">
+    <title lang="en">Mesa de análisis</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebdfc212f8620790a88d86/backgroundimagelive/mesa-b.png" />
   </programme>
-  <programme start="20200621215000 +0000" stop="20200621224000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago P.D.</title>
-    <title lang="en">Chicago P.D</title>
-    <sub-title lang="es">Himno</sub-title>
-    <desc lang="es">La unidad de inteligencia investiga la muerte de un atleta universitario a quien mataron después de arrodillarse en señal de protesta.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Robert Wisdom</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e14-himno_l_l.jpg" />
-    <episode-num system="onscreen">S5 E14</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200623213000 +0000" stop="20200623220000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win + Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebe102a1e21f08b8963aa2/backgroundimagelive/win-noticias-b.png" />
   </programme>
-  <programme start="20200621224000 +0000" stop="20200621233000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago P.D.</title>
-    <title lang="en">Chicago P.D</title>
-    <sub-title lang="es">Hermandad</sub-title>
-    <desc lang="es">La unidad de inteligencia busca a un justiciero que mata a violadores. La investigación afecta a Burgess, que comienza a cuestionarse si los hombres que atacaron a su hermana realmente pagaron por sus acciones.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Robert Wisdom</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e15-hermandad_l_l.jpg" />
-    <episode-num system="onscreen">S5 E15</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
+  <programme start="20200623220000 +0000" stop="20200623230000 +0000" channel="Win Sports Básico">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebe14fb11aba0717dcde54/backgroundimagelive/saque-largo-b.png" />
   </programme>
-  <programme start="20200621233000 +0000" stop="20200622002000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago P.D.</title>
-    <title lang="en">Chicago P.D</title>
-    <sub-title lang="es">Perfiles</sub-title>
-    <desc lang="es">La unidad de inteligencia le pide ayuda al destacamento de bomberos 51 para ayudar a prevenir el último de una serie de ataques con bombas contra los medios de comunicación.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Robert Wisdom</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e16-profiles_l_l.jpg" />
-    <episode-num system="onscreen">S5 E16</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme start="20200622002000 +0000" stop="20200622011000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago P.D.</title>
-    <title lang="en">Chicago P.D</title>
-    <sub-title lang="es">Punto álgido</sub-title>
-    <desc lang="es">Un prominente concejal conocido por su trabajo de revitalización urbana es asesinado. Mientras tanto, Olinsky recibe un ultimátum por parte de Woods.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Robert Wisdom</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e17-punto-algido_l_l.jpg" />
-    <episode-num system="onscreen">S5 E17</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme start="20200622011000 +0000" stop="20200622020000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Chicago P.D.</title>
-    <title lang="en">Chicago P.D</title>
-    <sub-title lang="es">Fantasmas</sub-title>
-    <desc lang="es">Upton retoma una identidad encubierta para derribar una red de metanfetaminas dirigida por un ex contacto penal. Mientras, Voight se cobra un favor con Olinsky cuando aumenta la presión ejercida por Woods.(n)</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Robert Wisdom</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e18-fantasmas_l_l.jpg" />
-    <episode-num system="onscreen">S5 E18</episode-num>
-    <rating system="IMdb">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme start="20200622020000 +0000" stop="20200622035500 +0000" channel="PE - Universal Channel">
-    <title lang="es">Un espía y medio</title>
-    <title lang="en">Central Intelligence</title>
-    <desc lang="es">Un letal agente de la CIA, víctima de acoso escolar en su adolescencia, vuelve a casa para asistir a una reunión de antiguos alumnos, donde conseguirá ayuda para llevar a cabo sus planes.(n)</desc>
-    <credits>
-      <director>Rawson Marshall Thurber</director>
-      <actor>Jason Bateman</actor>
-      <actor>Aaron Paul</actor>
-      <actor>Danielle Nicolet</actor>
-      <actor>Amy Ryan</actor>
-      <actor>Dwayne Johnson</actor>
-      <actor>Ryan Hansen</actor>
-      <actor>Tim Griffin</actor>
-      <actor>Timothy John Smith</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_un-espia-y-medio-2016_l_l.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating system="IMdb">
-      <value>13+</value>
-    </rating>
-    <star-rating system="IMdb">
-      <value>6.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20200622035500 +0000" stop="20200622055000 +0000" channel="PE - Universal Channel">
-    <title lang="es">Novato en apuros</title>
-    <title lang="en">Ride Along</title>
-    <desc lang="es">Ben es un guardia de seguridad que se une a su cuñado policía en una patrulla de 24 horas en Atlanta, para demostrar que es digno de casarse con Ángela, la hermana de su nuevo compañero.(n)</desc>
-    <credits>
-      <director>Tim Story</director>
-      <actor>Laurence Fishburne</actor>
-      <actor>Bruce McGill</actor>
-      <actor>John Leguizamo</actor>
-      <actor>Ice Cube</actor>
-      <actor>Bryan Callen</actor>
-      <actor>Dragos Bucur</actor>
-      <actor>Gary Owen</actor>
-      <actor>Tika Sumpter</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_novato-en-apuros-2014_l_l.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating system="IMdb">
-      <value>Guía parental sugerida</value>
-    </rating>
-    <star-rating system="IMdb">
-      <value>6.2</value>
-    </star-rating>
+  <programme start="20200623230000 +0000" stop="20200624003000 +0000" channel="Win Sports Básico">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/5eebe20dbd588208a9c1b0dc/backgroundimagelive/conexion-b.png" />
   </programme>
   <programme start="20200622055000 +0000" stop="20200622064000 +0000" channel="PE - Universal Channel">
     <title lang="es">La ley y el orden: U.V.E.</title>
@@ -1112,6 +728,480 @@
       <value>14+</value>
     </rating>
   </programme>
+  <programme start="20200623002000 +0000" stop="20200623011000 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Plástica</sub-title>
+    <desc lang="es">La Unidad de Víctimas Especiales es convocada para investigar el caso de una joven que fue drogada y asaltada sexualmente. Esta afirma que fue abordada por un famoso cirujano famoso y su novia.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e11-plastica-1_l_l.jpg" />
+    <episode-num system="onscreen">S20 E11</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623011000 +0000" stop="20200623020000 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Querido Ben</sub-title>
+    <desc lang="es">Stone se ocupa de un antiguo caso no resuelto de un violador serial que consumió la carrera de su padre.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e12-querido-ben-1_l_l.jpg" />
+    <episode-num system="onscreen">S20 E12</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623020000 +0000" stop="20200623025000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago Fire</title>
+    <title lang="en">Chicago Fire</title>
+    <sub-title lang="es">Lo que vi</sub-title>
+    <desc lang="es">Una serie de robos sale a la luz después de que la llave de la caja de seguridad de una estación de bomberos desaparece. Al mismo tiempo, el sargento Hank Voight sospecha que un bombero puede estar involucrado.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Jesse Spencer</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Christian Stolte</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Eamonn Walker</actor>
+      <actor>Lauren German</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-fire-s07e15-lo-que-vi_l_l.jpg" />
+    <episode-num system="onscreen">S7 E15</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623025000 +0000" stop="20200623034000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago P.D.</title>
+    <title lang="en">Chicago P.D</title>
+    <sub-title lang="es">Hombres buenos</sub-title>
+    <desc lang="es">Usando la información de Cruz, el equipo de inteligencia persigue al equipo de robos que ha estado usando la llave de la caja de seguridad. Por otro lado, Voight está bajo presión para llevar a la tripulación ante la justicia.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Amy Morton</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Archie Kao</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Robert Wisdom</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s06e15-hombres-buenos_l_l.jpg" />
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200623034000 +0000" stop="20200623043000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago Med</title>
+    <title lang="en">Chicago Med</title>
+    <sub-title lang="es">Tenemos estas verdades</sub-title>
+    <desc lang="es">Los médicos y las enfermeras están en alerta máxima con la afluencia de pacientes en el hospital. Además, la exesposa del Dr. Charles aparece en la ciudad con importantes noticias.(n)</desc>
+    <credits>
+      <actor>Oliver Platt</actor>
+      <actor>Torrey DeVitto</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>Jeff Hephner</actor>
+      <actor>César Jaime</actor>
+      <actor>Marlyne Barrett</actor>
+      <actor>Colin Donnell</actor>
+      <actor>Ato Essandoh</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-med-s04e15-tenemos-estas-verdades_l_l.jpg" />
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200623043000 +0000" stop="20200623052000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago P.D.</title>
+    <title lang="en">Chicago P.D</title>
+    <sub-title lang="es">Encrucijada</sub-title>
+    <desc lang="es">Cuando Lindsay recibe una llamada de su madre, Bunny, en estado de pánico porque le han disparado a su novio, la joven debe encontrar la mejor manera de encarar la situación, ya que ahora su madre es sospechosa de asesinato.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Amy Morton</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Archie Kao</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Robert Wisdom</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s04e23-encrucijada_l_l.jpg" />
+    <episode-num system="onscreen">S4 E23</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200623052000 +0000" stop="20200623060500 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago P.D.</title>
+    <title lang="en">Chicago P.D</title>
+    <sub-title lang="es">Reforma</sub-title>
+    <desc lang="es">La inteligencia intenta romper un acuerdo de armas que provoca que inocentes espectadores reciban disparos.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Amy Morton</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Archie Kao</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Robert Wisdom</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e01-reforma_l_l.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200623060500 +0000" stop="20200623065000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Dr. House</title>
+    <title lang="en">House, M.D</title>
+    <sub-title lang="es">La decepción</sub-title>
+    <desc lang="es">Una mujer se desmaya en las carreras de caballos frente a House, y él debe pelear contra su nuevo jefe para lograr un diagnóstico.(n)</desc>
+    <credits>
+      <actor>Omar Epps</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Amber Tamblyn</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_dr-house-s02e09-la-decepcion_l_l.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623065000 +0000" stop="20200623073500 +0000" channel="PE - Universal Channel">
+    <title lang="es">Dr. House</title>
+    <title lang="en">House, M.D</title>
+    <sub-title lang="es">Problemas de comunicación</sub-title>
+    <desc lang="es">Tras sufrir un desmayo en la fiesta de jubilación de su redactor jefe, un periodista se golpea seriamente la cabeza. Al volver en sí se da cuenta de que no puede hablar correctamente y es trasladado al Hospital Princenton.(n)</desc>
+    <credits>
+      <actor>Omar Epps</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Amber Tamblyn</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_dr-house-s02e10-problemas-de-comunicacion_l_l.jpg" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623073500 +0000" stop="20200623082000 +0000" channel="PE - Universal Channel">
+    <title lang="es">MacGyver</title>
+    <title lang="en">MacGyver</title>
+    <sub-title lang="es">El surgimiento</sub-title>
+    <desc lang="es">Luego de perder al director de inteligencia, los agentes especiales del gobierno de Estados Unidos MacGyver y Dalton reclutan a un nuevo pirata informático, Riley Davis, y salen a buscar un virus robado.(n)</desc>
+    <credits>
+      <actor>Sandrine Holt</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+      <actor>Lucas Till</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_macgyver-s01e01-el-surgimiento_l_l.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623082000 +0000" stop="20200623103500 +0000" channel="PE - Universal Channel">
+    <title lang="es">Orgullo y prejuicio</title>
+    <title lang="en">Pride and Prejudice</title>
+    <desc lang="es">A fines del Siglo XVIII, las hermanas Bennet, hijas de una familia sin fortuna, buscan marido. Cuando un soltero rico y sus amigos se instalan en una mansión vecina, las Bennett se entusiasman con la posibilidad de conseguir pretendientes.(n)</desc>
+    <credits>
+      <director>Joe Wright</director>
+      <actor>Donald Sutherland</actor>
+      <actor>Jena Malone</actor>
+      <actor>Claudie Blakley</actor>
+      <actor>Pip Torrens</actor>
+      <actor>Keira Knightley</actor>
+      <actor>Kelly Reilly</actor>
+      <actor>Matthew MacFadyen</actor>
+      <actor>Rosamund Pike</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_orgullo-y-prejuicio-2005_l_l.jpg" />
+    <country lang="es">Francia</country>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+    <star-rating system="IMdb">
+      <value>7.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20200623103500 +0000" stop="20200623110000 +0000" channel="PE - Universal Channel">
+    <title lang="es">It Takes a Killer</title>
+    <title lang="en">It Takes a Killer</title>
+    <sub-title lang="es">Triángulo traicionero</sub-title>
+    <desc lang="es">Dos médicos prominentes, en dos ciudades diferentes, se encuentran enredados en una rivalidad apasionada por el afecto de una misma mujer.(n)</desc>
+    <credits>
+      <actor>Charles Adams</actor>
+      <actor>Michael Hill</actor>
+      <actor>Owen Thomas</actor>
+      <actor>Elton LeBlanc</actor>
+      <actor>Judy Ho</actor>
+      <actor>Donald M. Krause</actor>
+      <actor>Kerry Kelly Gridley</actor>
+      <actor>Jillian Nolde</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_it-takes-a-killer-s01e39-triangulo-traicionero_l_l.jpg" />
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200623110000 +0000" stop="20200623140000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Programación pagada</title>
+    <desc lang="es">Te presentamos la carta abierta de nuestra programación, disfruta de nuestros estrenos y presentaciones hechos y seleccionados especialmente para ti.(n)</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_programacion-pagada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623140000 +0000" stop="20200623145500 +0000" channel="PE - Universal Channel">
+    <title lang="es">Dr. House</title>
+    <title lang="en">House, M.D</title>
+    <sub-title lang="es">Necesidad saber</sub-title>
+    <desc lang="es">House y el equipo deben determinar que está produciendo fallas musculares a una paciente.(n)</desc>
+    <credits>
+      <actor>Omar Epps</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Amber Tamblyn</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_dr-house-s02e11-necesidad-saber_l_l.jpg" />
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623145500 +0000" stop="20200623155000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Dr. House</title>
+    <title lang="en">House, M.D</title>
+    <sub-title lang="es">Distracciones</sub-title>
+    <desc lang="es">Un paciente con quemaduras en el 40% de su cuerpo e inexplicables problemas neurológicos y cardiológicos es tratado por el equipo, mientras House se propone desmentir el estudio de un antiguo médico enemigo.(n)</desc>
+    <credits>
+      <actor>Omar Epps</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Amber Tamblyn</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_dr-house-s02e12-distracciones_l_l.jpg" />
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623155000 +0000" stop="20200623181000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Viaje a las estrellas</title>
+    <title lang="en">Star Trek</title>
+    <desc lang="es">Todo está preparado para el viaje inaugural de la nave más moderna que jamás se haya creado: la USS Enterprise. Su joven tripulación tiene una importante misión: encontrar una manera de detener al malvado Nero.(n)</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Ben Cross</actor>
+      <actor>Winona Ryder</actor>
+      <actor>Leonard Nimoy</actor>
+      <actor>Deep Roy</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Majel Barrett</actor>
+      <actor>Eric Bana</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_viaje-a-las-estrellas-2009_l_l.jpg" />
+    <country lang="es">EE. UU.</country>
+    <rating system="IMdb">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20200623181000 +0000" stop="20200623190500 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Parte 33</sub-title>
+    <desc lang="es">Mientras Stone procesa el caso de una mujer que mató a su esposo abusivo, Benson y su escuadrón luchan con el deber de testificar contra ella.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e14-parte-33-1_l_l.jpg" />
+    <episode-num system="onscreen">S20 E14</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623190500 +0000" stop="20200623200000 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Burdel</sub-title>
+    <desc lang="es">Benson y el equipo investigan la muerte de una prostituta en un burdel. Se preguntan si hubo juego sucio o si este podría ser el caso de un drogadicto que recayó, se dedicó a hacer trampas, se deprimió y se suicidó.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e15-burdel-1_l_l.jpg" />
+    <episode-num system="onscreen">S20 E15</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623200000 +0000" stop="20200623205500 +0000" channel="PE - Universal Channel">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+    <title lang="en">Law and Order: Special Victims Unit</title>
+    <sub-title lang="es">Enfrentar demonios</sub-title>
+    <desc lang="es">Benson y el equipo investigan la muerte de un hombre que creen que es un pedófilo. Cuando cavan más profundo, se dan cuenta de que las cosas no son lo que parecen.(n)</desc>
+    <credits>
+      <actor>Ice-T</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mike Doyle</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-u-v-e-s20e16-enfrentar-demonios-1_l_l.jpg" />
+    <episode-num system="onscreen">S20 E16</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623205500 +0000" stop="20200623215000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago Fire</title>
+    <title lang="en">Chicago Fire</title>
+    <sub-title lang="es">La gente que conocemos</sub-title>
+    <desc lang="es">Severide acepta donar médula ósea pero un accidente laboral hace que todo se trastoque. Casey y Dawson tratan de encontrar la armonía en el hogar.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Jesse Spencer</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Christian Stolte</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Eamonn Walker</actor>
+      <actor>Lauren German</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-fire-s05e10-la-gente-que-conocemos_l_l.jpg" />
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623215000 +0000" stop="20200623224000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago Fire</title>
+    <title lang="en">Chicago Fire</title>
+    <sub-title lang="es">Quién vive y quién muere</sub-title>
+    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Jesse Spencer</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Christian Stolte</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Eamonn Walker</actor>
+      <actor>Lauren German</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-fire-s05e11-quien-vive-y-quien-muere_l_l.jpg" />
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20200623224000 +0000" stop="20200623233000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago P.D.</title>
+    <title lang="en">Chicago P.D</title>
+    <sub-title lang="es">Lo que tienen los héroes</sub-title>
+    <desc lang="es">Se sospecha que un oficial de la patrulla musulmana causa la explosión de una furgoneta durante un festival callejero de Chicago cuando desaparece y la evidencia apunta a su participación.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Amy Morton</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Archie Kao</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Robert Wisdom</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e02-lo-que-tienen-los-heroes_l_l.jpg" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20200623233000 +0000" stop="20200624002000 +0000" channel="PE - Universal Channel">
+    <title lang="es">Chicago P.D.</title>
+    <title lang="en">Chicago P.D</title>
+    <sub-title lang="es">Promesa</sub-title>
+    <desc lang="es">Una joven latina es brutalmente asesinada y se sospecha que ha estado trabajando como mula hasta que se descubre un motivo diferente para su muerte.(n)</desc>
+    <credits>
+      <actor>Jon Seda</actor>
+      <actor>Amy Morton</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Archie Kao</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Robert Wisdom</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_chicago-p-d-s05e03-promesa_l_l.jpg" />
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
   <programme start="20200621005000 -0500" stop="20200621024000 -0500" channel="Canal HBO Xtreme">
     <title lang="es">Serpientes a bordo</title>
   </programme>
@@ -1225,31 +1315,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20200622230000 -0500" stop="20200623004500 -0500" channel="Canal HBO Xtreme">
-    <title lang="es">Upgrade</title>
-    <title lang="xx">Upgrade</title>
-    <desc lang="es">Tras la muerte de su esposa y quedando paralizado, un multimillonario le ofrece una cura experimental actualizándolo, ahora vengará la muerte de su esposa.(n)</desc>
-    <credits>
-      <actor>Logan Marshall-Green</actor>
-      <actor>Betty Gabriel</actor>
-      <actor>Harrison Gilbertson</actor>
-      <actor>Benedict Hardie</actor>
-      <actor>Christopher Kirby</actor>
-      <actor>Clayton Jacobson</actor>
-      <actor>Melanie Vallejo</actor>
-      <actor>Sachin Joab</actor>
-      <producer>Jason Blum</producer>
-      <producer>Kylie Du Fresne</producer>
-      <composer>Jed Palmer</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/upgrade.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200623004500 -0500" stop="20200623022500 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622004500 -0500" stop="20200622022500 -0500" channel="Canal HBO Xtreme">
     <title lang="es">8 minutos antes de morir</title>
     <title lang="xx">Source Code</title>
     <desc lang="es">Un soldado despierta en el cuerpo de alguien más con la misión de encontrar una bomba en menos de 8 minutos y evitar vuele en pedazos un tren de pasajeros.(n)</desc>
@@ -1270,13 +1336,13 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20200623022500 -0500" stop="20200623044000 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622022500 -0500" stop="20200622044000 -0500" channel="Canal HBO Xtreme">
     <title lang="es">El mundo perdido: Jurassic P</title>
   </programme>
-  <programme start="20200623044000 -0500" stop="20200623071000 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622044000 -0500" stop="20200622071000 -0500" channel="Canal HBO Xtreme">
     <title lang="es">El día del chacal</title>
   </programme>
-  <programme start="20200623071000 -0500" stop="20200623092500 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622071000 -0500" stop="20200622092500 -0500" channel="Canal HBO Xtreme">
     <title lang="es">Parque Jurásico</title>
     <title lang="xx">Jurassic Park</title>
     <desc lang="es">En una isla remota donde un parque temático con dinosaurios vivos está a punto de convertirse en mortal, ahora cinco personas deben luchar para sobrevivir.(n)</desc>
@@ -1300,19 +1366,19 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20200623092500 -0500" stop="20200623120000 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622092500 -0500" stop="20200622120000 -0500" channel="Canal HBO Xtreme">
     <title lang="es">El Código Da Vinci</title>
   </programme>
-  <programme start="20200623120000 -0500" stop="20200623140500 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622120000 -0500" stop="20200622140500 -0500" channel="Canal HBO Xtreme">
     <title lang="es">Parker</title>
   </programme>
-  <programme start="20200623140500 -0500" stop="20200623154000 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622140500 -0500" stop="20200622154000 -0500" channel="Canal HBO Xtreme">
     <title lang="es">Desde París con amor</title>
   </programme>
-  <programme start="20200623154000 -0500" stop="20200623173500 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622154000 -0500" stop="20200622173500 -0500" channel="Canal HBO Xtreme">
     <title lang="es">8 mile: Calle de las ilusiones</title>
   </programme>
-  <programme start="20200623173500 -0500" stop="20200623194000 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622173500 -0500" stop="20200622194000 -0500" channel="Canal HBO Xtreme">
     <title lang="es">El Justiciero (The Equalizer)</title>
     <title lang="xx">The Equalizer</title>
     <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos.(n)</desc>
@@ -1333,7 +1399,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20200623194000 -0500" stop="20200623212500 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622194000 -0500" stop="20200622212500 -0500" channel="Canal HBO Xtreme">
     <title lang="es">Intruso</title>
     <desc lang="es">Una joven pareja de casados compra la casa a un extraño vendedor, creen haber comprado el hogar para su familia, pero el vendedor tiene otros planes.(n)</desc>
     <credits>
@@ -1352,10 +1418,10 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20200623212500 -0500" stop="20200623230500 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622212500 -0500" stop="20200622230500 -0500" channel="Canal HBO Xtreme">
     <title lang="es">Las últimas horas</title>
   </programme>
-  <programme start="20200623230500 -0500" stop="20200624012000 -0500" channel="Canal HBO Xtreme">
+  <programme start="20200622230500 -0500" stop="20200623012000 -0500" channel="Canal HBO Xtreme">
     <title lang="es">Museum</title>
   </programme>
   <programme start="20200621010000 -0500" stop="20200621025900 -0500" channel="Canal Cinema Dinamita">
@@ -1438,5 +1504,1768 @@
   </programme>
   <programme start="20200622184500 -0500" stop="20200622203000 -0500" channel="Canal Cinema Dinamita">
     <title lang="es">Nora la michoacana</title>
+  </programme>
+  <programme start="20200622203000 -0500" stop="20200622224500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Tratante de blanca</title>
+  </programme>
+  <programme start="20200622224500 -0500" stop="20200623004500 -0500" channel="Canal Cinema Dinamita">
+    <title lang="es">Perras de barrio 3</title>
+  </programme>
+  <programme start="20200621003000 -0500" stop="20200621023000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Asian Games Jakarta 2018</title>
+  </programme>
+  <programme start="20200621023000 -0500" stop="20200621053000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Asian Games Jakarta 2018</title>
+  </programme>
+  <programme start="20200621053000 -0500" stop="20200621070000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Asian Games Jakarta 2018</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621073000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Fit for Life</title>
+  </programme>
+  <programme start="20200621073000 -0500" stop="20200621080000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Fit for Life</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621083000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Fit for Life</title>
+  </programme>
+  <programme start="20200621083000 -0500" stop="20200621090000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Fit for Life</title>
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621093000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Fit for Life</title>
+  </programme>
+  <programme start="20200621093000 -0500" stop="20200621100000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Fit for Life</title>
+  </programme>
+  <programme start="20200621100000 -0500" stop="20200621103000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Fit for Life</title>
+  </programme>
+  <programme start="20200621103000 -0500" stop="20200621110000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Olympic Channel</title>
+  </programme>
+  <programme start="20200621110000 -0500" stop="20200621120000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Olympic Channel</title>
+  </programme>
+  <programme start="20200621120000 -0500" stop="20200621123000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Story of Formula E</title>
+  </programme>
+  <programme start="20200621123000 -0500" stop="20200621150000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Esgrima</title>
+  </programme>
+  <programme start="20200621150000 -0500" stop="20200621162000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200621162000 -0500" stop="20200621173000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200621173000 -0500" stop="20200621190000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Badminton</title>
+  </programme>
+  <programme start="20200621190000 -0500" stop="20200621200000 -0500" channel="Canal Claro Sports">
+    <title lang="es">PGA Tour Internacional - Charles Schwab Challenge</title>
+  </programme>
+  <programme start="20200621200000 -0500" stop="20200621210000 -0500" channel="Canal Claro Sports">
+    <title lang="es">NASCAR Peak Mexico Series iRacing</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621220000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200621220000 -0500" stop="20200621230000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200621233000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Reto Tokio 2020 - Serie</title>
+  </programme>
+  <programme start="20200621233000 -0500" stop="20200622003000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Olympic Channel</title>
+  </programme>
+  <programme start="20200622233000 -0500" stop="20200623003000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Olympic Channel</title>
+  </programme>
+  <programme start="20200623003000 -0500" stop="20200623023000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Gimnasia artística varonil</title>
+  </programme>
+  <programme start="20200623023000 -0500" stop="20200623043000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Natación mariposa femenil</title>
+  </programme>
+  <programme start="20200623043000 -0500" stop="20200623070000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Lucha grecorromana</title>
+  </programme>
+  <programme start="20200623070000 -0500" stop="20200623073000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Vida Zen 360</title>
+  </programme>
+  <programme start="20200623073000 -0500" stop="20200623080000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Vida Zen 360</title>
+  </programme>
+  <programme start="20200623080000 -0500" stop="20200623083000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Vida Zen 360</title>
+  </programme>
+  <programme start="20200623083000 -0500" stop="20200623090000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Vida Zen 360</title>
+  </programme>
+  <programme start="20200623090000 -0500" stop="20200623093000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Vida Zen 360</title>
+  </programme>
+  <programme start="20200623093000 -0500" stop="20200623100000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Vida Zen 360</title>
+  </programme>
+  <programme start="20200623100000 -0500" stop="20200623103000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Vida Zen 360</title>
+  </programme>
+  <programme start="20200623103000 -0500" stop="20200623110000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Olympic Channel</title>
+  </programme>
+  <programme start="20200623120000 -0500" stop="20200623123000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Rafa Marquez</title>
+  </programme>
+  <programme start="20200623123000 -0500" stop="20200623140000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Esgrima</title>
+  </programme>
+  <programme start="20200623140000 -0500" stop="20200623160000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Clavados</title>
+  </programme>
+  <programme start="20200623160000 -0500" stop="20200623170000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Marca Claro radio</title>
+  </programme>
+  <programme start="20200623170000 -0500" stop="20200623180000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Juegos Olímpicos Río 2016</title>
+  </programme>
+  <programme start="20200623180000 -0500" stop="20200623183000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Sports Max</title>
+  </programme>
+  <programme start="20200623183000 -0500" stop="20200623190000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Deportes en Claro</title>
+  </programme>
+  <programme start="20200623190000 -0500" stop="20200623200000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Marca Claro radio</title>
+  </programme>
+  <programme start="20200623200000 -0500" stop="20200623210000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200623210000 -0500" stop="20200623220000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200623220000 -0500" stop="20200623223000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Deportes en Claro</title>
+  </programme>
+  <programme start="20200623223000 -0500" stop="20200623233000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Marca Claro radio</title>
+  </programme>
+  <programme start="20200623233000 -0500" stop="20200624000000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Deportes en Claro</title>
+  </programme>
+  <programme start="20200621023000 -0500" stop="20200621030000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Magazine Champions League</title>
+  </programme>
+  <programme start="20200621030000 -0500" stop="20200621050000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Hellas Verona vs. Cagliari</title>
+  </programme>
+  <programme start="20200621050000 -0500" stop="20200621060000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Juego Sagrado</title>
+  </programme>
+  <programme start="20200621060000 -0500" stop="20200621070000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">River Plate campeón</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621073000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Das Ligahaus</title>
+  </programme>
+  <programme start="20200621073000 -0500" stop="20200621083000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20200621083000 -0500" stop="20200621090000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Top Goals II</title>
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621110000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20200621110000 -0500" stop="20200621120000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">UEFA Champions League Classic</title>
+  </programme>
+  <programme start="20200621120000 -0500" stop="20200621150000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">UFC 224</title>
+  </programme>
+  <programme start="20200621150000 -0500" stop="20200621180000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Gervonta Davis vs. Yuriorkis Gamboa</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621190000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20200621190000 -0500" stop="20200621210000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">UEFA Champions League Classic</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621230000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Superliga a la carta</title>
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200622000000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Juego Sagrado</title>
+  </programme>
+  <programme start="20200622000000 -0500" stop="20200622020000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Fox Sports Clásico</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622040000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Bournemouth vs. Crystal Palace</title>
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622060000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20200622060000 -0500" stop="20200622070000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Fox Sports Radio</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622080000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Juego Sagrado</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622090000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622100000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622110000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622120000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622130000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">90 minutos de futbol</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622133000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20200622133000 -0500" stop="20200622153000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Fiorentina vs. Brescia En Vivo</title>
+  </programme>
+  <programme start="20200622153000 -0500" stop="20200622163000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">90 minutos de futbol</title>
+  </programme>
+  <programme start="20200622163000 -0500" stop="20200622170000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20200622170000 -0500" stop="20200622180000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622190000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Fox Sports Radio</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622200000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20200622200000 -0500" stop="20200622210000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">90 minutos de futbol</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622230000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623010000 -0500" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Fiorentina vs. Brescia</title>
+  </programme>
+  <programme start="20200621010000 -0500" stop="20200621020000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200621020000 -0500" stop="20200621030000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200621030000 -0500" stop="20200621040000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Peloton All-Star Ride</title>
+  </programme>
+  <programme start="20200621040000 -0500" stop="20200621060000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Torino vs. Parma</title>
+  </programme>
+  <programme start="20200621060000 -0500" stop="20200621070000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">2017 IAAF World U18 Championsh</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621080000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Indoor Championship</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621090000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Indoor Championship</title>
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621100000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200621100000 -0500" stop="20200621110000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200621110000 -0500" stop="20200621120000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Peloton All-Star Ride</title>
+  </programme>
+  <programme start="20200621120000 -0500" stop="20200621140000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Torino vs. Parma</title>
+  </programme>
+  <programme start="20200621140000 -0500" stop="20200621150000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">2017 IAAF World U18 Championsh</title>
+  </programme>
+  <programme start="20200621150000 -0500" stop="20200621160000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Indoor Championship</title>
+  </programme>
+  <programme start="20200621160000 -0500" stop="20200621170000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Indoor Championship</title>
+  </programme>
+  <programme start="20200621170000 -0500" stop="20200621180000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621190000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200621190000 -0500" stop="20200621210000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Inter vs. Sampdoria</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621220000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Detail</title>
+  </programme>
+  <programme start="20200621220000 -0500" stop="20200621230000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Half-Marathon Champ</title>
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200622000500 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Race Walking Team</title>
+  </programme>
+  <programme start="20200622000500 -0500" stop="20200622010300 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Race Walking Team</title>
+  </programme>
+  <programme start="20200622010300 -0500" stop="20200622020000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622030000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622050000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Inter vs. Sampdoria</title>
+  </programme>
+  <programme start="20200622050000 -0500" stop="20200622060000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Detail</title>
+  </programme>
+  <programme start="20200622060000 -0500" stop="20200622070000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Half-Marathon Champ</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622080500 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Race Walking Team</title>
+  </programme>
+  <programme start="20200622080500 -0500" stop="20200622090300 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Race Walking Team</title>
+  </programme>
+  <programme start="20200622090300 -0500" stop="20200622100000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622110000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622130000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Inter vs. Sampdoria</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622140000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Detail</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622150000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Half-Marathon Champ</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622160500 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Race Walking Team</title>
+  </programme>
+  <programme start="20200622160500 -0500" stop="20200622170300 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World Race Walking Team</title>
+  </programme>
+  <programme start="20200622170300 -0500" stop="20200622180000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622190000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622223000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Chiefs vs. Rams</title>
+  </programme>
+  <programme start="20200622223000 -0500" stop="20200622230000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">Patriots vs. Rams</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal ESPN+ Latinoamérica">
+    <title lang="es">IAAF World U-20 Championships</title>
+  </programme>
+  <programme start="20200621000500 -0500" stop="20200621022500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol Copa Chile</title>
+  </programme>
+  <programme start="20200621031000 -0500" stop="20200621041000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Dosis de Fútbol</title>
+  </programme>
+  <programme start="20200621041000 -0500" stop="20200621060000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200621060000 -0500" stop="20200621070000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Dosis de Fútbol</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621090000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621093000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20200621093000 -0500" stop="20200621102000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200621102000 -0500" stop="20200621120000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621120000 -0500" stop="20200621134500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621134500 -0500" stop="20200621152500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621152500 -0500" stop="20200621170500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621170500 -0500" stop="20200621184500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621184500 -0500" stop="20200621204500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621204500 -0500" stop="20200621212500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200621212500 -0500" stop="20200621230500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol Copa América Femenina Chile 2018 Repetición</title>
+  </programme>
+  <programme start="20200621230500 -0500" stop="20200622004500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Chile vs. Suecia Repetición</title>
+  </programme>
+  <programme start="20200622004500 -0500" stop="20200622022500 -0500" channel="Canal CDF Básico">
+    <title lang="es">USA vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200622022500 -0500" stop="20200622040500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Tailandia vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200622040500 -0500" stop="20200622060000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622081000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200622081000 -0500" stop="20200622085000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200622085000 -0500" stop="20200622093500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200622093500 -0500" stop="20200622100500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E31</episode-num>
+  </programme>
+  <programme start="20200622100500 -0500" stop="20200622103500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20200622103500 -0500" stop="20200622121500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200622121500 -0500" stop="20200622140000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622150000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622160000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622180000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622190000 -0500" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622201500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200622201500 -0500" stop="20200622220000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200622220000 -0500" stop="20200622230000 -0500" channel="Canal CDF Básico">
+    <title lang="es">Dosis de Fútbol</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623001500 -0500" channel="Canal CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200621030500 -0500" stop="20200621041000 -0500" channel="Canal CDF HD">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200621041000 -0500" stop="20200621060000 -0500" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200621060000 -0500" stop="20200621080000 -0500" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621094000 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621094000 -0500" stop="20200621112500 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621112500 -0500" stop="20200621115000 -0500" channel="Canal CDF HD">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme start="20200621115000 -0500" stop="20200621122000 -0500" channel="Canal CDF HD">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme start="20200621122000 -0500" stop="20200621131000 -0500" channel="Canal CDF HD">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200621131000 -0500" stop="20200621145000 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621145000 -0500" stop="20200621163000 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621163000 -0500" stop="20200621181000 -0500" channel="Canal CDF HD">
+    <title lang="es">USA vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200621181000 -0500" stop="20200621195000 -0500" channel="Canal CDF HD">
+    <title lang="es">Tailandia vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200621195000 -0500" stop="20200621213000 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621213000 -0500" stop="20200621233000 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621233000 -0500" stop="20200622001000 -0500" channel="Canal CDF HD">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200622233000 -0500" stop="20200623001000 -0500" channel="Canal CDF HD">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200623001000 -0500" stop="20200623010000 -0500" channel="Canal CDF HD">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623024000 -0500" channel="Canal CDF HD">
+    <title lang="es">Chile vs. Suecia Repetición</title>
+  </programme>
+  <programme start="20200623024000 -0500" stop="20200623042000 -0500" channel="Canal CDF HD">
+    <title lang="es">USA vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200623042000 -0500" stop="20200623060000 -0500" channel="Canal CDF HD">
+    <title lang="es">Tailandia vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200623060000 -0500" stop="20200623070000 -0500" channel="Canal CDF HD">
+    <title lang="es">Dosis de Fútbol</title>
+  </programme>
+  <programme start="20200623070000 -0500" stop="20200623081000 -0500" channel="Canal CDF HD">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200623081000 -0500" stop="20200623085000 -0500" channel="Canal CDF HD">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200623085000 -0500" stop="20200623093500 -0500" channel="Canal CDF HD">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200623093500 -0500" stop="20200623100500 -0500" channel="Canal CDF HD">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E31</episode-num>
+  </programme>
+  <programme start="20200623100500 -0500" stop="20200623103500 -0500" channel="Canal CDF HD">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20200623103500 -0500" stop="20200623121500 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200623121500 -0500" stop="20200623140000 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200623140000 -0500" stop="20200623150000 -0500" channel="Canal CDF HD">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200623150000 -0500" stop="20200623160000 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200623160000 -0500" stop="20200623180000 -0500" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200623180000 -0500" stop="20200623190000 -0500" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200623190000 -0500" stop="20200623201500 -0500" channel="Canal CDF HD">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200623201500 -0500" stop="20200623220000 -0500" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200623220000 -0500" stop="20200623230000 -0500" channel="Canal CDF HD">
+    <title lang="es">Dosis de Fútbol</title>
+  </programme>
+  <programme start="20200623230000 -0500" stop="20200624001500 -0500" channel="Canal CDF HD">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200621030500 -0500" stop="20200621041000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200621041000 -0500" stop="20200621060000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200621060000 -0500" stop="20200621080000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621094000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621094000 -0500" stop="20200621112500 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621112500 -0500" stop="20200621115000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme start="20200621115000 -0500" stop="20200621122000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme start="20200621122000 -0500" stop="20200621131000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200621131000 -0500" stop="20200621145000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621145000 -0500" stop="20200621163000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621163000 -0500" stop="20200621181000 -0500" channel="Canal CDF Premium">
+    <title lang="es">USA vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200621181000 -0500" stop="20200621195000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Tailandia vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200621195000 -0500" stop="20200621213000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621213000 -0500" stop="20200621233000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200621233000 -0500" stop="20200622001000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200622233000 -0500" stop="20200623001000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200623001000 -0500" stop="20200623010000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623024000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Chile vs. Suecia Repetición</title>
+  </programme>
+  <programme start="20200623024000 -0500" stop="20200623042000 -0500" channel="Canal CDF Premium">
+    <title lang="es">USA vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200623042000 -0500" stop="20200623060000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Tailandia vs. Chile Repetición</title>
+  </programme>
+  <programme start="20200623060000 -0500" stop="20200623070000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Dosis de Fútbol</title>
+  </programme>
+  <programme start="20200623070000 -0500" stop="20200623081000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200623081000 -0500" stop="20200623085000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Campeones del Siglo XXI</title>
+  </programme>
+  <programme start="20200623085000 -0500" stop="20200623093500 -0500" channel="Canal CDF Premium">
+    <title lang="es">Clubes Nuestra historia</title>
+  </programme>
+  <programme start="20200623093500 -0500" stop="20200623100500 -0500" channel="Canal CDF Premium">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E31</episode-num>
+  </programme>
+  <programme start="20200623100500 -0500" stop="20200623103500 -0500" channel="Canal CDF Premium">
+    <title lang="es">Capitán Tsubasa</title>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20200623103500 -0500" stop="20200623121500 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200623121500 -0500" stop="20200623140000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200623140000 -0500" stop="20200623150000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200623150000 -0500" stop="20200623160000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200623160000 -0500" stop="20200623180000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200623180000 -0500" stop="20200623190000 -0500" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200623190000 -0500" stop="20200623201500 -0500" channel="Canal CDF Premium">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200623201500 -0500" stop="20200623220000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200623220000 -0500" stop="20200623230000 -0500" channel="Canal CDF Premium">
+    <title lang="es">Dosis de Fútbol</title>
+  </programme>
+  <programme start="20200623230000 -0500" stop="20200624001500 -0500" channel="Canal CDF Premium">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200621010000 -0500" stop="20200621030000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Nacional vs. Rampla Juniors</title>
+  </programme>
+  <programme start="20200621030000 -0500" stop="20200621040000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20200621040000 -0500" stop="20200621043000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20200621043000 -0500" stop="20200621063000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Liga de Quito vs. El Nacional</title>
+  </programme>
+  <programme start="20200621063000 -0500" stop="20200621083000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Vitesse vs. Ajax</title>
+  </programme>
+  <programme start="20200621083000 -0500" stop="20200621103000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Emelec vs. Macara</title>
+  </programme>
+  <programme start="20200621103000 -0500" stop="20200621123000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Macara vs. Emelec</title>
+  </programme>
+  <programme start="20200621123000 -0500" stop="20200621133000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20200621133000 -0500" stop="20200621153000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Nacional vs. Peñarol</title>
+  </programme>
+  <programme start="20200621153000 -0500" stop="20200621160000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20200621160000 -0500" stop="20200621180000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Holanda vs. Portugal</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621190000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20200621190000 -0500" stop="20200621210000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Holanda vs. Rusia</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621213000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Perú</title>
+  </programme>
+  <programme start="20200621213000 -0500" stop="20200621233000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Lyon vs. Marsella</title>
+  </programme>
+  <programme start="20200621233000 -0500" stop="20200622000000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+  <programme start="20200622000000 -0500" stop="20200622010000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+  <programme start="20200622010000 -0500" stop="20200622030000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Delfin vs. Barcelona</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622033000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Perú</title>
+  </programme>
+  <programme start="20200622033000 -0500" stop="20200622043000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+  <programme start="20200622043000 -0500" stop="20200622063000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Les Herbiers vs. PSG</title>
+  </programme>
+  <programme start="20200622063000 -0500" stop="20200622070000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622073000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20200622073000 -0500" stop="20200622093000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Aucas vs. Liga de Quito</title>
+  </programme>
+  <programme start="20200622093000 -0500" stop="20200622113000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Liga de Quito vs. Aucas</title>
+  </programme>
+  <programme start="20200622113000 -0500" stop="20200622120000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Perú</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622130000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622150000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Nacional vs. Peñarol</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622170000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Nacional vs. Peñarol</title>
+  </programme>
+  <programme start="20200622170000 -0500" stop="20200622190000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Liga de Quito vs. Barcelona</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622193000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20200622193000 -0500" stop="20200622213000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Telstar vs. Ajax</title>
+  </programme>
+  <programme start="20200622213000 -0500" stop="20200622223000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+  <programme start="20200622223000 -0500" stop="20200622230000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623010000 -0500" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Deportivo Cuenca vs. Liga de Quito</title>
+  </programme>
+  <programme start="20200621002000 -0500" stop="20200621010000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200621010000 -0500" stop="20200621011500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200621011500 -0500" stop="20200621014000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20200621014000 -0500" stop="20200621023000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20200621023000 -0500" stop="20200621032500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200621032500 -0500" stop="20200621044500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Diego Lopes vs. Marco Beltran</title>
+  </programme>
+  <programme start="20200621044500 -0500" stop="20200621054000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20200621054000 -0500" stop="20200621061000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Gran Fondo NY 2: Nueva York</title>
+  </programme>
+  <programme start="20200621061000 -0500" stop="20200621070500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200621070500 -0500" stop="20200621080000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621083000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20200621083000 -0500" stop="20200621090000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621100000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20200621100000 -0500" stop="20200621105500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20200621105500 -0500" stop="20200621114500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200621114500 -0500" stop="20200621121000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Gran Fondo NY 2: Nueva York</title>
+  </programme>
+  <programme start="20200621121000 -0500" stop="20200621130000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20200621130000 -0500" stop="20200621133000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20200621133000 -0500" stop="20200621140000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20200621140000 -0500" stop="20200621150000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20200621150000 -0500" stop="20200621155000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200621155000 -0500" stop="20200621173000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Ruano vs. Beltrán Repetición</title>
+  </programme>
+  <programme start="20200621173000 -0500" stop="20200621210000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621220500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Rony Jason vs. Edgar Diaz Repetición</title>
+  </programme>
+  <programme start="20200621220500 -0500" stop="20200621230000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200621235500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">De la Torre vs. Cossio Repetición</title>
+  </programme>
+  <programme start="20200621235500 -0500" stop="20200622010000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200622235500 -0500" stop="20200623010000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623014000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">De la Torre vs. Cossio Repetición</title>
+  </programme>
+  <programme start="20200623014000 -0500" stop="20200623020000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Gran Fondo NY 3: Cozumel Repetición</title>
+  </programme>
+  <programme start="20200623020000 -0500" stop="20200623025000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200623025000 -0500" stop="20200623032000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20200623032000 -0500" stop="20200623041500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20200623041500 -0500" stop="20200623044500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Gran Fondo NY 3: Cozumel Repetición</title>
+  </programme>
+  <programme start="20200623044500 -0500" stop="20200623054000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200623054000 -0500" stop="20200623061000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20200623061000 -0500" stop="20200623070500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
+  <programme start="20200623070500 -0500" stop="20200623080000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200623080000 -0500" stop="20200623090000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20200623090000 -0500" stop="20200623093000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20200623093000 -0500" stop="20200623100000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20200623100000 -0500" stop="20200623110000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20200623110000 -0500" stop="20200623114500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20200623114500 -0500" stop="20200623121000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20200623121000 -0500" stop="20200623130000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20200623130000 -0500" stop="20200623140000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20200623140000 -0500" stop="20200623143000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20200623143000 -0500" stop="20200623150000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20200623150000 -0500" stop="20200623160000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20200623160000 -0500" stop="20200623170000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Comentando el Fútbol</title>
+  </programme>
+  <programme start="20200623170000 -0500" stop="20200623195500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20200623195500 -0500" stop="20200623210000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20200623210000 -0500" stop="20200623213000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20200623213000 -0500" stop="20200623220000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20200623220000 -0500" stop="20200623230000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20200623230000 -0500" stop="20200624001000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20200621002500 -0500" stop="20200621022500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP China 2007</title>
+  </programme>
+  <programme start="20200621022500 -0500" stop="20200621031500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Vamos sobre ruedas</title>
+  </programme>
+  <programme start="20200621031500 -0500" stop="20200621044000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">F3 Virtual</title>
+  </programme>
+  <programme start="20200621044000 -0500" stop="20200621051500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Parque Cerrado</title>
+  </programme>
+  <programme start="20200621051500 -0500" stop="20200621054500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Fuera de Pista</title>
+  </programme>
+  <programme start="20200621054500 -0500" stop="20200621074500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP Baréin 2005</title>
+  </programme>
+  <programme start="20200621074500 -0500" stop="20200621082500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Parque Cerrado</title>
+  </programme>
+  <programme start="20200621082500 -0500" stop="20200621084500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">El ojo de Fábrega</title>
+  </programme>
+  <programme start="20200621084500 -0500" stop="20200621093500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Vamos sobre ruedas</title>
+  </programme>
+  <programme start="20200621093500 -0500" stop="20200621113000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP de Austria Carrera</title>
+  </programme>
+  <programme start="20200621113000 -0500" stop="20200621121000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Gran Prix</title>
+  </programme>
+  <programme start="20200621121000 -0500" stop="20200621125500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Vamos sobre ruedas</title>
+  </programme>
+  <programme start="20200621125500 -0500" stop="20200621150900 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP Hungría 2006</title>
+  </programme>
+  <programme start="20200621150900 -0500" stop="20200621152600 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Súbete al GP Italia</title>
+  </programme>
+  <programme start="20200621152600 -0500" stop="20200621161500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Vamos sobre ruedas</title>
+  </programme>
+  <programme start="20200621161500 -0500" stop="20200621180500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP Brasil 2005</title>
+  </programme>
+  <programme start="20200621180500 -0500" stop="20200621183500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Gran Prix</title>
+  </programme>
+  <programme start="20200621183500 -0500" stop="20200621191500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Gran Prix</title>
+  </programme>
+  <programme start="20200621191500 -0500" stop="20200621195000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Gran Prix</title>
+  </programme>
+  <programme start="20200621195000 -0500" stop="20200621220500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP Europa 2007</title>
+  </programme>
+  <programme start="20200621220500 -0500" stop="20200621225000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Vamos sobre ruedas</title>
+  </programme>
+  <programme start="20200621225000 -0500" stop="20200621232500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Parque Cerrado</title>
+  </programme>
+  <programme start="20200621232500 -0500" stop="20200621235500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Fuera de Pista</title>
+  </programme>
+  <programme start="20200621235500 -0500" stop="20200622020000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP de España Carrera</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622024000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Parque Cerrado</title>
+  </programme>
+  <programme start="20200622024000 -0500" stop="20200622043500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP Francia 2004</title>
+  </programme>
+  <programme start="20200622043500 -0500" stop="20200622052500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Vamos sobre ruedas</title>
+  </programme>
+  <programme start="20200622052500 -0500" stop="20200622060500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Parque Cerrado</title>
+  </programme>
+  <programme start="20200622060500 -0500" stop="20200622075500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP de Bélgica Carrera</title>
+  </programme>
+  <programme start="20200622075500 -0500" stop="20200622084500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Vamos sobre ruedas</title>
+  </programme>
+  <programme start="20200622084500 -0500" stop="20200622111000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP de Alemania Carrera</title>
+  </programme>
+  <programme start="20200622111000 -0500" stop="20200622114000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Fuera de Pista</title>
+  </programme>
+  <programme start="20200622114000 -0500" stop="20200622120000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Súbete al GP Austria</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622135500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP de Austria Carrera</title>
+  </programme>
+  <programme start="20200622135500 -0500" stop="20200622160000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP de Baréin Carrera</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622180500 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP de Brasil Carrera</title>
+  </programme>
+  <programme start="20200622180500 -0500" stop="20200622190000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Vamos sobre ruedas</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622193000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">Parque Cerrado</title>
+  </programme>
+  <programme start="20200622193000 -0500" stop="20200622215000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP de Abu Dabi Carrera</title>
+  </programme>
+  <programme start="20200622215000 -0500" stop="20200623000000 -0500" channel="Canal Movistar Fórmula 1">
+    <title lang="es">GP de Singapur Carrera</title>
+  </programme>
+  <programme start="20200621003000 -0500" stop="20200621021500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Mallorca-Barcelona</title>
+  </programme>
+  <programme start="20200621021500 -0500" stop="20200621044500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200621044500 -0500" stop="20200621050000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Temps de joc. 600" de fútbol</title>
+  </programme>
+  <programme start="20200621050000 -0500" stop="20200621053000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200621053000 -0500" stop="20200621064500 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200621064500 -0500" stop="20200621070000 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621084500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Unicaja - Barça</title>
+  </programme>
+  <programme start="20200621084500 -0500" stop="20200621090000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barcelona - Athletic</title>
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621091500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barça News Flash</title>
+  </programme>
+  <programme start="20200621091500 -0500" stop="20200621110000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barcelona-Leganés</title>
+  </programme>
+  <programme start="20200621110000 -0500" stop="20200621111500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barça News Flash</title>
+  </programme>
+  <programme start="20200621111500 -0500" stop="20200621114500 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200621114500 -0500" stop="20200621133000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Mallorca-Barcelona</title>
+  </programme>
+  <programme start="20200621133000 -0500" stop="20200621134500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200621134500 -0500" stop="20200621140000 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200621140000 -0500" stop="20200621141500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barça News Flash</title>
+  </programme>
+  <programme start="20200621141500 -0500" stop="20200621161500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Juventus - Barcelona</title>
+  </programme>
+  <programme start="20200621161500 -0500" stop="20200621170000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200621170000 -0500" stop="20200621180000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Hora B</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621191500 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200621191500 -0500" stop="20200621200000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200621200000 -0500" stop="20200621203000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200621203000 -0500" stop="20200621213000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Hora B</title>
+  </programme>
+  <programme start="20200621213000 -0500" stop="20200621234500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Juventus - Barcelona</title>
+  </programme>
+  <programme start="20200621234500 -0500" stop="20200622003000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200622234500 -0500" stop="20200623003000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200623003000 -0500" stop="20200623010000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Jugadors de llegenda</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623020000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Hora B</title>
+  </programme>
+  <programme start="20200623020000 -0500" stop="20200623023000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200623023000 -0500" stop="20200623033000 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200623033000 -0500" stop="20200623034500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200623034500 -0500" stop="20200623040000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Temps de joc. 600" de fútbol</title>
+  </programme>
+  <programme start="20200623040000 -0500" stop="20200623054500 -0500" channel="Canal Barça TV ">
+    <title lang="es">FC Barcelona - Tau Vitoria</title>
+  </programme>
+  <programme start="20200623054500 -0500" stop="20200623060000 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200623060000 -0500" stop="20200623063000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200623063000 -0500" stop="20200623070000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200623070000 -0500" stop="20200623084500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barcelona - Ath. Bilbao</title>
+  </programme>
+  <programme start="20200623084500 -0500" stop="20200623090000 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200623091500 -0500" stop="20200623094500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200623094500 -0500" stop="20200623104500 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200623104500 -0500" stop="20200623110000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200623111500 -0500" stop="20200623130000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barcelona - Athletic</title>
+  </programme>
+  <programme start="20200623130000 -0500" stop="20200623140000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Recorda, Míster</title>
+  </programme>
+  <programme start="20200623141500 -0500" stop="20200623150000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Hora B</title>
+  </programme>
+  <programme start="20200623150000 -0500" stop="20200623164500 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200623164500 -0500" stop="20200623170000 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200623170000 -0500" stop="20200623171500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barça News Flash</title>
+  </programme>
+  <programme start="20200623171500 -0500" stop="20200623180000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Hora B</title>
+  </programme>
+  <programme start="20200623180000 -0500" stop="20200623183000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200623183000 -0500" stop="20200623200000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barça - KIROLBET Baskonia</title>
+  </programme>
+  <programme start="20200623200000 -0500" stop="20200623201500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barça TV</title>
+  </programme>
+  <programme start="20200623201500 -0500" stop="20200623203000 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200623203000 -0500" stop="20200623211500 -0500" channel="Canal Barça TV ">
+    <title lang="es">Hora B</title>
+  </programme>
+  <programme start="20200623211500 -0500" stop="20200623230000 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200623230000 -0500" stop="20200623231500 -0500" channel="Canal Barça TV ">
+    <title lang="es">600'' de futbol</title>
+  </programme>
+  <programme start="20200623231500 -0500" stop="20200624010000 -0500" channel="Canal Barça TV ">
+    <title lang="es">Barça - KIROLBET Baskonia</title>
+  </programme>
+  <programme start="20200621010000 -0500" stop="20200621012000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+  </programme>
+  <programme start="20200621012000 -0500" stop="20200621030000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Ajax - Real Madrid</title>
+  </programme>
+  <programme start="20200621030000 -0500" stop="20200621031500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Aprende inglés con</title>
+  </programme>
+  <programme start="20200621031500 -0500" stop="20200621050500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Barça Lassa - Real Madrid. 4°</title>
+  </programme>
+  <programme start="20200621050500 -0500" stop="20200621070000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Real Madrid-Valencia</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621084500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+  </programme>
+  <programme start="20200621084500 -0500" stop="20200621091500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Conecta Informativo</title>
+  </programme>
+  <programme start="20200621091500 -0500" stop="20200621094000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+  </programme>
+  <programme start="20200621094000 -0500" stop="20200621111500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Un perro de otro mundo</title>
+  </programme>
+  <programme start="20200621111500 -0500" stop="20200621120000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">30 Minutos</title>
+  </programme>
+  <programme start="20200621120000 -0500" stop="20200621130000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Marco Asensio, el desafío</title>
+  </programme>
+  <programme start="20200621130000 -0500" stop="20200621150000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+  </programme>
+  <programme start="20200621150000 -0500" stop="20200621160000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy jugamos la cuenta atrás</title>
+  </programme>
+  <programme start="20200621160000 -0500" stop="20200621175000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy jugamos Minuto a minuto</title>
+  </programme>
+  <programme start="20200621175000 -0500" stop="20200621191500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy jugamos El análisis</title>
+  </programme>
+  <programme start="20200621191500 -0500" stop="20200621223000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+  </programme>
+  <programme start="20200621223000 -0500" stop="20200621225500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Historias con alma</title>
+  </programme>
+  <programme start="20200621225500 -0500" stop="20200621232500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Historias con alma</title>
+  </programme>
+  <programme start="20200621232500 -0500" stop="20200622010000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Historia que tú hiciste</title>
+  </programme>
+  <programme start="20200622232500 -0500" stop="20200623010000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Historia que tú hiciste</title>
+  </programme>
+  <programme start="20200623010000 -0500" stop="20200623011500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+  </programme>
+  <programme start="20200623011500 -0500" stop="20200623030000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Real Madrid-Borussia Dortmund</title>
+  </programme>
+  <programme start="20200623031500 -0500" stop="20200623045000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+  </programme>
+  <programme start="20200623045000 -0500" stop="20200623064000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Real Madrid-Barcelona</title>
+  </programme>
+  <programme start="20200623064000 -0500" stop="20200623083000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Historia que tú hiciste</title>
+  </programme>
+  <programme start="20200623083000 -0500" stop="20200623084000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Conecta Informativo</title>
+  </programme>
+  <programme start="20200623084000 -0500" stop="20200623094000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Marco Asensio, el desafío</title>
+  </programme>
+  <programme start="20200623094000 -0500" stop="20200623112500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Lucky luke</title>
+  </programme>
+  <programme start="20200623112500 -0500" stop="20200623153000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Real Madrid Conecta</title>
+  </programme>
+  <programme start="20200623153000 -0500" stop="20200623165500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Objetivo terrorista</title>
+  </programme>
+  <programme start="20200623165500 -0500" stop="20200623183000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Libertad para morir</title>
+  </programme>
+  <programme start="20200623183000 -0500" stop="20200623193000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Marco Asensio, el desafío</title>
+  </programme>
+  <programme start="20200623193000 -0500" stop="20200623211500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Real Madrid-Valencia</title>
+  </programme>
+  <programme start="20200623211500 -0500" stop="20200623213000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">15 Minutos</title>
+  </programme>
+  <programme start="20200623213000 -0500" stop="20200623214500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">15 Minutos</title>
+  </programme>
+  <programme start="20200623214500 -0500" stop="20200623220000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">15 Minutos</title>
+  </programme>
+  <programme start="20200623220000 -0500" stop="20200623223000 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">30 Minutos</title>
+  </programme>
+  <programme start="20200623223000 -0500" stop="20200623225500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Historias con alma</title>
+  </programme>
+  <programme start="20200623225500 -0500" stop="20200623232500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Historias con alma</title>
+  </programme>
+  <programme start="20200623232500 -0500" stop="20200624010500 -0500" channel="Canal Real Madrid TV">
+    <title lang="es">Historia que tú hiciste</title>
+  </programme>
+  <programme start="20200621013000 -0500" stop="20200621023000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">eSports WTCR Championship</title>
+  </programme>
+  <programme start="20200621023000 -0500" stop="20200621033000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200621033000 -0500" stop="20200621043000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200621043000 -0500" stop="20200621053000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200621053000 -0500" stop="20200621080000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Masters de snooker</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621093000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Strade Bianche</title>
+  </programme>
+  <programme start="20200621093000 -0500" stop="20200621111500 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Milán-San Remo</title>
+  </programme>
+  <programme start="20200621111500 -0500" stop="20200621122000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200621122000 -0500" stop="20200621134000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Ultimate Tennis Showdown</title>
+  </programme>
+  <programme start="20200621134000 -0500" stop="20200621142500 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Masters de snooker</title>
+  </programme>
+  <programme start="20200621142500 -0500" stop="20200621163000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Liga noruega</title>
+  </programme>
+  <programme start="20200621163000 -0500" stop="20200621173000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">eSports WTCR Championship</title>
+  </programme>
+  <programme start="20200621173000 -0500" stop="20200621183000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">eSports WTCR Championship</title>
+  </programme>
+  <programme start="20200621183000 -0500" stop="20200621193000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Automovilismo Mundial de</title>
+  </programme>
+  <programme start="20200621193000 -0500" stop="20200621210000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Masters de snooker</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621230000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Mundial de snooker</title>
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200622000000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20200622000000 -0500" stop="20200622003000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20200622003000 -0500" stop="20200622013000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">eSports WTCR Championship</title>
+  </programme>
+  <programme start="20200622013000 -0500" stop="20200622023000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">eSports WTCR Championship</title>
+  </programme>
+  <programme start="20200622023000 -0500" stop="20200622040000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622053000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622053000 -0500" stop="20200622063000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Mundial de snooker</title>
+  </programme>
+  <programme start="20200622063000 -0500" stop="20200622080000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Mundial de snooker</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622083000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">10a etapa Caravaca-Alhama de Murcia</title>
+  </programme>
+  <programme start="20200622083000 -0500" stop="20200622090000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">13a etapa Coín-Tomares</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622093000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">21a etapa Arroyomolinos-Madrid</title>
+  </programme>
+  <programme start="20200622093000 -0500" stop="20200622103000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Gran Premio de Montreal</title>
+  </programme>
+  <programme start="20200622103000 -0500" stop="20200622113000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Gran Premio</title>
+  </programme>
+  <programme start="20200622113000 -0500" stop="20200622130000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Paris-Tours</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622143000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622143000 -0500" stop="20200622160000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622163000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">FIA Formula E Top 100</title>
+  </programme>
+  <programme start="20200622163000 -0500" stop="20200622170000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">FIA Formula E Top 100</title>
+  </programme>
+  <programme start="20200622170000 -0500" stop="20200622180000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Mundial de Fórmula E</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622184500 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Mundial de Fórmula E</title>
+  </programme>
+  <programme start="20200622184500 -0500" stop="20200622193000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Mundial de Fórmula E</title>
+  </programme>
+  <programme start="20200622193000 -0500" stop="20200622210000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Mundial de snooker</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622230000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">Mundial de snooker</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200622233000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">FIA Formula E Top 100</title>
+  </programme>
+  <programme start="20200622233000 -0500" stop="20200623000000 -0500" channel="Canal Eurosport 1 (España)">
+    <title lang="es">FIA Formula E Top 100</title>
+  </programme>
+  <programme start="20200621003000 -0500" stop="20200621013000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200621013000 -0500" stop="20200621023000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200621023000 -0500" stop="20200621033000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Volta ciclista a Catalunya</title>
+  </programme>
+  <programme start="20200621033000 -0500" stop="20200621043000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Vuelta a Alemania</title>
+  </programme>
+  <programme start="20200621043000 -0500" stop="20200621053000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Volta ciclista a Catalunya</title>
+  </programme>
+  <programme start="20200621053000 -0500" stop="20200621064500 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">París-Niza</title>
+  </programme>
+  <programme start="20200621064500 -0500" stop="20200621080000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">París-Niza</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621093000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200621093000 -0500" stop="20200621110000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200621110000 -0500" stop="20200621123000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200621123000 -0500" stop="20200621140000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200621140000 -0500" stop="20200621160000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200621160000 -0500" stop="20200621180000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Masters de snooker</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621193000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Masters de snooker</title>
+  </programme>
+  <programme start="20200621193000 -0500" stop="20200621210000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Clásica ciclista de San Sebastián</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621223000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200621223000 -0500" stop="20200622000000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622000000 -0500" stop="20200622013000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622013000 -0500" stop="20200622023000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622023000 -0500" stop="20200622040000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Strade Bianche</title>
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622054500 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Milán-San Remo</title>
+  </programme>
+  <programme start="20200622054500 -0500" stop="20200622070000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Clásica ciclista de San Sebastián</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622080000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Vuelta al Algarve</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622090000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622103000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622103000 -0500" stop="20200622120000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622130000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622140000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622150000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">eSports WTCR Championship</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622160000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">eSports WTCR Championship</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622173000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Mundial de snooker</title>
+  </programme>
+  <programme start="20200622173000 -0500" stop="20200622193000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Mundial de snooker</title>
+  </programme>
+  <programme start="20200622193000 -0500" stop="20200622201500 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Gran Premio Impanis-Van Petegem</title>
+  </programme>
+  <programme start="20200622201500 -0500" stop="20200622210000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Paris-Tours</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622223000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200622223000 -0500" stop="20200623000000 -0500" channel="Canal Eurosport 2 (España)">
+    <title lang="es">Adria Tour</title>
+  </programme>
+  <programme start="20200621010000 -0500" stop="20200621020000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+  <programme start="20200621020000 -0500" stop="20200621030000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200621030000 -0500" stop="20200621040000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+  <programme start="20200621040000 -0500" stop="20200621050000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200621050000 -0500" stop="20200621060000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+  <programme start="20200621060000 -0500" stop="20200621070000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200621070000 -0500" stop="20200621073000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">UEFA Euro Archive</title>
+  </programme>
+  <programme start="20200621073000 -0500" stop="20200621080000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">UEFA Euro Archive</title>
+  </programme>
+  <programme start="20200621080000 -0500" stop="20200621090000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200621090000 -0500" stop="20200621093000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">UEFA Champions League Magazine</title>
+  </programme>
+  <programme start="20200621093000 -0500" stop="20200621100000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">UEFA Champions League Magazine</title>
+  </programme>
+  <programme start="20200621100000 -0500" stop="20200621110000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200621110000 -0500" stop="20200621113000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">El Bernabéu aplaudió a Ronaldinho</title>
+  </programme>
+  <programme start="20200621113000 -0500" stop="20200621123000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200621123000 -0500" stop="20200621133000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">UEFA Euro Archive</title>
+  </programme>
+  <programme start="20200621133000 -0500" stop="20200621140000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">UEFA Euro Archive</title>
+  </programme>
+  <programme start="20200621140000 -0500" stop="20200621150000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Versus</title>
+  </programme>
+  <programme start="20200621150000 -0500" stop="20200621160000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">República Deportiva</title>
+  </programme>
+  <programme start="20200621160000 -0500" stop="20200621170000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Paderborn 07 vs. Borussia Mönchengladbach</title>
+  </programme>
+  <programme start="20200621170000 -0500" stop="20200621180000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200621180000 -0500" stop="20200621190000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Wembley 92, fue mágico</title>
+  </programme>
+  <programme start="20200621190000 -0500" stop="20200621200000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200621200000 -0500" stop="20200621210000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Fútbol según Johan Cruyff</title>
+  </programme>
+  <programme start="20200621210000 -0500" stop="20200621220000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Samuel Eto'o</title>
+  </programme>
+  <programme start="20200621220000 -0500" stop="20200621230000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200621230000 -0500" stop="20200622000000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">República Deportiva</title>
+  </programme>
+  <programme start="20200622000000 -0500" stop="20200622010000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20200622010000 -0500" stop="20200622020000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200622020000 -0500" stop="20200622030000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20200622030000 -0500" stop="20200622040000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200622040000 -0500" stop="20200622050000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20200622050000 -0500" stop="20200622060000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200622070000 -0500" stop="20200622080000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20200622080000 -0500" stop="20200622090000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">República Deportiva</title>
+  </programme>
+  <programme start="20200622090000 -0500" stop="20200622100000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+  <programme start="20200622100000 -0500" stop="20200622110000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Lo Mejor de UEFA Qualfiers</title>
+  </programme>
+  <programme start="20200622110000 -0500" stop="20200622120000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Lo Mejor de UEFA Qualfiers</title>
+  </programme>
+  <programme start="20200622120000 -0500" stop="20200622130000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Lo Mejor de UEFA Qualfiers</title>
+  </programme>
+  <programme start="20200622130000 -0500" stop="20200622140000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Lo Mejor de UEFA Qualfiers</title>
+  </programme>
+  <programme start="20200622140000 -0500" stop="20200622150000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Lo Mejor de UEFA Qualfiers</title>
+  </programme>
+  <programme start="20200622150000 -0500" stop="20200622153000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Javier "Chicharito" Hernandez, los mejores goles con El Tri</title>
+  </programme>
+  <programme start="20200622153000 -0500" stop="20200622160000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Cuauhtémoc Blanco, mejores goles con América</title>
+  </programme>
+  <programme start="20200622160000 -0500" stop="20200622170000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Camino a la gloria</title>
+  </programme>
+  <programme start="20200622170000 -0500" stop="20200622180000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Lo mejor de la MLS</title>
+  </programme>
+  <programme start="20200622180000 -0500" stop="20200622190000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Misión Europa</title>
+  </programme>
+  <programme start="20200622190000 -0500" stop="20200622200000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Camino a la gloria</title>
+  </programme>
+  <programme start="20200622200000 -0500" stop="20200622210000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+  <programme start="20200622210000 -0500" stop="20200622220000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Misión Europa</title>
+  </programme>
+  <programme start="20200622230000 -0500" stop="20200623000000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Camino a la gloria</title>
   </programme>
 </tv>
