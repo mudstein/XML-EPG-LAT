@@ -3,100 +3,28 @@
   <channel id="ESPNU">
     <display-name lang="en">ESPNU</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPNU.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ESPN">
     <display-name lang="en">ESPN</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPN.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ESPN2">
     <display-name lang="en">ESPN2</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPN2.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ESPN Deportes">
     <display-name lang="en">ESPN Deportes</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPND.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ESPNEWS">
     <display-name lang="en">ESPNEWS</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPNEWS.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
-  <programme start="20200630013000 -0700" stop="20200630043000 -0700" channel="ESPNU">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">2019: Baylor vs. Oklahoma</sub-title>
-    <desc lang="en">Big 12 Championship. From Dec. 7, 2019.(n)</desc>
-  </programme>
-  <programme start="20200630043000 -0700" stop="20200630070000 -0700" channel="ESPNU">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">2019: Arkansas at Alabama</sub-title>
-    <desc lang="en">From Oct. 26, 2019.(n)</desc>
-  </programme>
-  <programme start="20200630070000 -0700" stop="20200630080000 -0700" channel="ESPNU">
-    <title lang="en">1186 To Omaha: 2015 Virginia Baseball</title>
-    <desc lang="en">Chronicling the Cavaliers' run to the 2015 College World Series title. Plus, a look at how this team in particular overcame adversity to bring an NCAA title home to Virginia.(n)</desc>
-  </programme>
-  <programme start="20200630080000 -0700" stop="20200630110000 -0700" channel="ESPNU">
-    <title lang="en">College Baseball</title>
-    <sub-title lang="en">2016: Clemson vs. Western Carolina</sub-title>
-    <desc lang="en">NCAA Regional. From June 6, 2016.(n)</desc>
-  </programme>
-  <programme start="20200630110000 -0700" stop="20200630140000 -0700" channel="ESPNU">
-    <title lang="en">College Baseball</title>
-    <sub-title lang="en">2010 College World Series: Final, Game 2 -- South Carolina vs. UCLA</sub-title>
-    <desc lang="en">From June 29, 2010.(n)</desc>
-  </programme>
-  <programme start="20200630140000 -0700" stop="20200630170000 -0700" channel="ESPNU">
-    <title lang="en">College Baseball</title>
-    <sub-title lang="en">2018: Texas A&amp;M at Texas</sub-title>
-    <desc lang="en">NCAA Regional. From June 2, 2018.(n)</desc>
-  </programme>
-  <programme start="20200630170000 -0700" stop="20200630180000 -0700" channel="ESPNU">
-    <title lang="en">ESPN's Greatest All-Time College Baseball Team</title>
-  </programme>
-  <programme start="20200630180000 -0700" stop="20200630210000 -0700" channel="ESPNU">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">2020 CFP Championship</sub-title>
-    <desc lang="en">Quarterback and 2019 Heisman Trophy winner Joe Burrow leads the undefeated LSU Tigers against defending national champion Clemson in a thrilling national championship contest from New Orleans.(n)</desc>
-  </programme>
-  <programme start="20200630210000 -0700" stop="20200701000000 -0700" channel="ESPNU">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">2019: Ohio State at Nebraska</sub-title>
-    <desc lang="en">From Sept. 28, 2019.(n)</desc>
-  </programme>
-  <programme start="20200701000000 -0700" stop="20200701030000 -0700" channel="ESPNU">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">2019: Baylor vs. Oklahoma</sub-title>
-    <desc lang="en">Big 12 Championship. From Dec. 7, 2019.(n)</desc>
-  </programme>
-  <programme start="20200701030000 -0700" stop="20200701060000 -0700" channel="ESPNU">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">2019: Michigan at Penn State</sub-title>
-    <desc lang="en">From Oct. 19, 2019.(n)</desc>
-  </programme>
-  <programme start="20200701060000 -0700" stop="20200701090000 -0700" channel="ESPNU">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">2019: LSU at Texas</sub-title>
-    <desc lang="en">From Sept. 7, 2019.(n)</desc>
-  </programme>
-  <programme start="20200701090000 -0700" stop="20200701093000 -0700" channel="ESPNU">
-    <title lang="en">Gymratts</title>
-    <sub-title lang="en">Florida Gators Basketball</sub-title>
-    <desc lang="en">A look at the Gators high-intensity team workouts and a tour of their training facility, as they prepare for the upcoming college basketball season.(n)</desc>
-  </programme>
-  <programme start="20200701093000 -0700" stop="20200701110000 -0700" channel="ESPNU">
-    <title lang="en">College Tennis</title>
-    <sub-title lang="en">2019 ITA Malibu Masters</sub-title>
-    <desc lang="en">Women's Championship.(n)</desc>
-  </programme>
-  <programme start="20200701110000 -0700" stop="20200701130000 -0700" channel="ESPNU">
-    <title lang="en">College Tennis</title>
-    <sub-title lang="en">2019 ITA Malibu Masters</sub-title>
-    <desc lang="en">Men's Championship.(n)</desc>
-  </programme>
   <programme start="20200701130000 -0700" stop="20200701150000 -0700" channel="ESPNU">
     <title lang="en">College Tennis</title>
     <sub-title lang="en">ITA All-American Championship</sub-title>
@@ -132,116 +60,118 @@
     <sub-title lang="en">2019 ITA Malibu Masters</sub-title>
     <desc lang="en">Men's Championship.(n)</desc>
   </programme>
-  <programme start="20200630000000 -0700" stop="20200630010000 -0700" channel="ESPN">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200702010000 -0700" stop="20200702030000 -0700" channel="ESPNU">
+    <title lang="en">College Tennis</title>
+    <sub-title lang="en">ITA All-American Championship</sub-title>
+    <desc lang="en">Women's Championship.(n)</desc>
   </programme>
-  <programme start="20200630010000 -0700" stop="20200630015500 -0700" channel="ESPN">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200702030000 -0700" stop="20200702050000 -0700" channel="ESPNU">
+    <title lang="en">College Tennis</title>
+    <sub-title lang="en">ITA All-American Championship</sub-title>
+    <desc lang="en">Men's Championship.(n)</desc>
   </programme>
-  <programme start="20200630015500 -0700" stop="20200630022500 -0700" channel="ESPN">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200702050000 -0700" stop="20200702070000 -0700" channel="ESPNU">
+    <title lang="en">College Tennis</title>
+    <sub-title lang="en">ITA Fall Championship</sub-title>
+    <desc lang="en">Women's Championship.(n)</desc>
   </programme>
-  <programme start="20200630022500 -0700" stop="20200630053000 -0700" channel="ESPN">
-    <title lang="en">Korean Baseball</title>
-    <sub-title lang="en">Doosan Bears at Kiwoom Heroes</sub-title>
-    <desc lang="en">From Gocheok Sky Dome in Seoul,, Korea, Republic of.(n)</desc>
+  <programme start="20200702070000 -0700" stop="20200702090000 -0700" channel="ESPNU">
+    <title lang="en">College Tennis</title>
+    <sub-title lang="en">ITA Fall Championship</sub-title>
+    <desc lang="en">Men's Championship.(n)</desc>
   </programme>
-  <programme start="20200630053000 -0700" stop="20200630073000 -0700" channel="ESPN">
-    <title lang="en">Get Up</title>
-    <desc lang="en">Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.(n)</desc>
+  <programme start="20200702090000 -0700" stop="20200702110000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2000 Orange Bowl: Alabama vs. Michigan</sub-title>
+    <desc lang="en">From Jan. 1, 2000.(n)</desc>
   </programme>
-  <programme start="20200630073000 -0700" stop="20200630093000 -0700" channel="ESPN">
-    <title lang="en">First Take</title>
-    <desc lang="en">Max Kellerman joins Molly Qerim Rose and Stephen A. Smith to debate the hottest topics in sports.(n)</desc>
+  <programme start="20200702110000 -0700" stop="20200702130000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2004 Orange Bowl: Florida State vs. Miami</sub-title>
+    <desc lang="en">Florida State takes on Miami in the Orange Bowl. From Jan. 1, 2004.(n)</desc>
   </programme>
-  <programme start="20200630093000 -0700" stop="20200630110000 -0700" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
+  <programme start="20200702130000 -0700" stop="20200702150000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2012 Discover Orange Bowl: Clemson vs. West Virginia</sub-title>
+    <desc lang="en">From Jan. 4, 2012.(n)</desc>
   </programme>
-  <programme start="20200630110000 -0700" stop="20200630120000 -0700" channel="ESPN">
-    <title lang="en">NFL Live</title>
-    <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
+  <programme start="20200702150000 -0700" stop="20200702180000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2014 Discover Orange Bowl: Clemson vs. Ohio State</sub-title>
+    <desc lang="en">Tajh Boyd throws for 378 yards and five touchdowns, Sammy Watkins has a record-setting night with 16 catches for 227 yards, and No. 12 Clemson rallies to beat No. 7 Ohio State in the Orange Bowl. From Jan. 3, 2014.(n)</desc>
   </programme>
-  <programme start="20200630120000 -0700" stop="20200630130000 -0700" channel="ESPN">
-    <title lang="en">NBA: The Jump</title>
-    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  <programme start="20200702180000 -0700" stop="20200702210000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2016 Capital One Orange Bowl: Michigan vs. Florida State</sub-title>
+    <desc lang="en">From Dec. 30, 2016.(n)</desc>
   </programme>
-  <programme start="20200630130000 -0700" stop="20200630132000 -0700" channel="ESPN">
-    <title lang="en">Jalen &amp; Jacoby</title>
-    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  <programme start="20200702210000 -0700" stop="20200702230000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2007: Georgia at Alabama</sub-title>
+    <desc lang="en">From Sept. 22, 2007.(n)</desc>
   </programme>
-  <programme start="20200630132000 -0700" stop="20200630134000 -0700" channel="ESPN">
-    <title lang="en">Highly Questionable</title>
-    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  <programme start="20200702230000 -0700" stop="20200703020000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2008: Oklahoma vs. Texas</sub-title>
+    <desc lang="en">From Oct. 11, 2008.(n)</desc>
   </programme>
-  <programme start="20200630134000 -0700" stop="20200630140000 -0700" channel="ESPN">
-    <title lang="en">Around the Horn</title>
-    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  <programme start="20200703020000 -0700" stop="20200703050000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2006: Michigan at Ohio State</sub-title>
+    <desc lang="en">Troy Smith leads the No. 1 Ohio State Buckeyes to a dazzling 42-39 win over No. 2 Michigan and captures the Big Ten title and a spot in the national championship. From Nov. 18, 2006.(n)</desc>
   </programme>
-  <programme start="20200630140000 -0700" stop="20200630150000 -0700" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
+  <programme start="20200703050000 -0700" stop="20200703080000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2008: USC at UCLA</sub-title>
+    <desc lang="en">From Dec. 6, 2008.(n)</desc>
   </programme>
-  <programme start="20200630150000 -0700" stop="20200630160000 -0700" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
+  <programme start="20200703080000 -0700" stop="20200703100000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">2007: Georgia at Alabama</sub-title>
+    <desc lang="en">From Sept. 22, 2007.(n)</desc>
   </programme>
-  <programme start="20200630160000 -0700" stop="20200630163000 -0700" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
+  <programme start="20200703100000 -0700" stop="20200703110000 -0700" channel="ESPNU">
+    <title lang="en">SEC Storied</title>
+    <sub-title lang="en">Shaq &amp; Dale</sub-title>
+    <desc lang="en">Former basketball great Shaquille O'Neal returns to LSU to visit Dale Brown, the coach who helped make it all possible.(n)</desc>
   </programme>
-  <programme start="20200630163000 -0700" stop="20200630170000 -0700" channel="ESPN">
-    <title lang="en">ESPN Films</title>
-    <sub-title lang="en">Blackfeet Boxing: Not Invisible</sub-title>
+  <programme start="20200703110000 -0700" stop="20200703130000 -0700" channel="ESPNU">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">1986: Kentucky at LSU</sub-title>
+    <desc lang="en">From Jan. 29, 1986.(n)</desc>
   </programme>
-  <programme start="20200630170000 -0700" stop="20200630200000 -0700" channel="ESPN">
-    <title lang="en">Boxing</title>
-    <sub-title lang="en">Alex Saucedo vs. Sonny Fredrickson</sub-title>
+  <programme start="20200703130000 -0700" stop="20200703150000 -0700" channel="ESPNU">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">2010 O'Reilly Auto Parts CBE Classic: San Diego State at Gonzaga</sub-title>
+    <desc lang="en">From Nov. 16, 2010.(n)</desc>
   </programme>
-  <programme start="20200630200000 -0700" stop="20200630210000 -0700" channel="ESPN">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200703150000 -0700" stop="20200703170000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">1991 Sugar Bowl: Tennessee vs. Virginia</sub-title>
+    <desc lang="en">The Volunteers of Tennessee take on the Cavaliers of Virginia in the 1991 Sugar Bowl.(n)</desc>
   </programme>
-  <programme start="20200630210000 -0700" stop="20200630220000 -0700" channel="ESPN">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200703170000 -0700" stop="20200703180000 -0700" channel="ESPNU">
+    <title lang="en">Johnny Majors: Straight Ahead</title>
   </programme>
-  <programme start="20200630220000 -0700" stop="20200630230000 -0700" channel="ESPN">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200703180000 -0700" stop="20200703200000 -0700" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">1977 Sugar Bowl: Georgia vs. Pittsburgh</sub-title>
+    <desc lang="en">1977 Sugar Bowl -- Georgia vs. Pittsburgh.(n)</desc>
   </programme>
-  <programme start="20200630230000 -0700" stop="20200701015500 -0700" channel="ESPN">
-    <title lang="en">Boxing</title>
-    <sub-title lang="en">Alex Saucedo vs. Sonny Fredrickson</sub-title>
+  <programme start="20200703200000 -0700" stop="20200703210000 -0700" channel="ESPNU">
+    <title lang="en">College Football 150: The American Game</title>
+    <sub-title lang="en">The Culture</sub-title>
+    <desc lang="en">College football is more than just a sport -- it's a cultural phenomenon. To understand the game, you have to understand how much everything around it matters too -- from the team colors to the uniforms to the bands, the mascots and more.(n)</desc>
   </programme>
-  <programme start="20200701015500 -0700" stop="20200701022500 -0700" channel="ESPN">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200703210000 -0700" stop="20200703230000 -0700" channel="ESPNU">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">1986: Kentucky at LSU</sub-title>
+    <desc lang="en">From Jan. 29, 1986.(n)</desc>
   </programme>
-  <programme start="20200701022500 -0700" stop="20200701053000 -0700" channel="ESPN">
-    <title lang="en">Korean Baseball</title>
-    <sub-title lang="en">Hanwha Eagles at KIA Tigers</sub-title>
-    <desc lang="en">From KIA Challengers Field in Gwangju, Gwangju Gwang'yeogsi, Korea, Republic of.(n)</desc>
-  </programme>
-  <programme start="20200701053000 -0700" stop="20200701073000 -0700" channel="ESPN">
-    <title lang="en">Get Up</title>
-    <desc lang="en">Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.(n)</desc>
-  </programme>
-  <programme start="20200701073000 -0700" stop="20200701093000 -0700" channel="ESPN">
-    <title lang="en">First Take</title>
-    <desc lang="en">Max Kellerman joins Molly Qerim Rose and Stephen A. Smith to debate the hottest topics in sports.(n)</desc>
-  </programme>
-  <programme start="20200701093000 -0700" stop="20200701102500 -0700" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
-  </programme>
-  <programme start="20200701102500 -0700" stop="20200701123000 -0700" channel="ESPN">
-    <title lang="en">Italian Serie A Soccer</title>
-    <sub-title lang="en">Bologna vs. Cagliari</sub-title>
-    <desc lang="en">From Renato Dall'Ara Stadium in Bologna, Emilia-Romagna, Italy.(n)</desc>
+  <programme start="20200703230000 -0700" stop="20200704010000 -0700" channel="ESPNU">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">2010: San Diego State at Gonzaga</sub-title>
+    <desc lang="en">From Nov. 16, 2010.(n)</desc>
   </programme>
   <programme start="20200701123000 -0700" stop="20200701143000 -0700" channel="ESPN">
     <title lang="en">Italian Serie A Soccer</title>
@@ -263,6 +193,7 @@
   </programme>
   <programme start="20200701180000 -0700" stop="20200701200000 -0700" channel="ESPN">
     <title lang="en">Born To Play</title>
+    <desc lang="en">Spending a season with the Boston Renegades, a women's tackle football team on a path for redemption after going undefeated and losing the championship the previous year.(n)</desc>
   </programme>
   <programme start="20200701200000 -0700" stop="20200701210000 -0700" channel="ESPN">
     <title lang="en">SportsCenter With Scott Van Pelt</title>
@@ -280,115 +211,174 @@
     <title lang="en">SportsCenter With Scott Van Pelt</title>
     <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
   </programme>
-  <programme start="20200630000000 -0700" stop="20200630010000 -0700" channel="ESPN2">
+  <programme start="20200702000000 -0700" stop="20200702010000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200702010000 -0700" stop="20200702015500 -0700" channel="ESPN">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200702015500 -0700" stop="20200702022500 -0700" channel="ESPN">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200702022500 -0700" stop="20200702053000 -0700" channel="ESPN">
+    <title lang="en">Korean Baseball</title>
+    <sub-title lang="en">Doosan Bears at Kiwoom Heroes</sub-title>
+    <desc lang="en">From Gocheok Sky Dome in Seoul,, Korea, Republic of.(n)</desc>
+  </programme>
+  <programme start="20200702053000 -0700" stop="20200702073000 -0700" channel="ESPN">
+    <title lang="en">Get Up</title>
+    <desc lang="en">Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.(n)</desc>
+  </programme>
+  <programme start="20200702073000 -0700" stop="20200702093000 -0700" channel="ESPN">
+    <title lang="en">First Take</title>
+    <desc lang="en">Max Kellerman joins Molly Qerim Rose and Stephen A. Smith to debate the hottest topics in sports.(n)</desc>
+  </programme>
+  <programme start="20200702093000 -0700" stop="20200702110000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
+  </programme>
+  <programme start="20200702110000 -0700" stop="20200702120000 -0700" channel="ESPN">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
+  </programme>
+  <programme start="20200702120000 -0700" stop="20200702130000 -0700" channel="ESPN">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  </programme>
+  <programme start="20200702130000 -0700" stop="20200702132000 -0700" channel="ESPN">
+    <title lang="en">Jalen &amp; Jacoby</title>
+    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  </programme>
+  <programme start="20200702132000 -0700" stop="20200702134000 -0700" channel="ESPN">
+    <title lang="en">Highly Questionable</title>
+    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  </programme>
+  <programme start="20200702134000 -0700" stop="20200702140000 -0700" channel="ESPN">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  </programme>
+  <programme start="20200702140000 -0700" stop="20200702150000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
+  </programme>
+  <programme start="20200702150000 -0700" stop="20200702160000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
+  </programme>
+  <programme start="20200702160000 -0700" stop="20200702170000 -0700" channel="ESPN">
     <title lang="en">Backstory</title>
     <sub-title lang="en">The Decision</sub-title>
     <desc lang="en">In July 2010, ESPN aired ``The Decision,'' a live primetime special in which LeBron James, the biggest NBA free agent ever, announced he was leaving Cleveland for Miami. The criticism was massive. Don Van Natta Jr. explores the far-reaching impact.(n)</desc>
   </programme>
-  <programme start="20200630010000 -0700" stop="20200630020000 -0700" channel="ESPN2">
-    <title lang="en">NFL Live</title>
-    <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
+  <programme start="20200702170000 -0700" stop="20200702200000 -0700" channel="ESPN">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Jose Pedraza vs. Mikkel LesPierre</sub-title>
+    <desc lang="en">From MGM Grand Conference Center in Las Vegas.(n)</desc>
   </programme>
-  <programme start="20200630020000 -0700" stop="20200630030000 -0700" channel="ESPN2">
+  <programme start="20200702200000 -0700" stop="20200702210000 -0700" channel="ESPN">
     <title lang="en">SportsCenter With Scott Van Pelt</title>
     <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
   </programme>
-  <programme start="20200630030000 -0700" stop="20200630070000 -0700" channel="ESPN2">
-    <title lang="en">Golic &amp; Wingo</title>
-    <desc lang="en">"Golic &amp; Wingo" is a one-stop-morning-shop for the biggest sports stories of the day -- delivered with insight, expert analysis and unrivaled access. From sports to pop culture to entertainment and more. Every day.(n)</desc>
+  <programme start="20200702210000 -0700" stop="20200702220000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
   </programme>
-  <programme start="20200630070000 -0700" stop="20200630090000 -0700" channel="ESPN2">
+  <programme start="20200702220000 -0700" stop="20200702230000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200702230000 -0700" stop="20200703000000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200703000000 -0700" stop="20200703010000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200703010000 -0700" stop="20200703015500 -0700" channel="ESPN">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200703015500 -0700" stop="20200703022500 -0700" channel="ESPN">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200703022500 -0700" stop="20200703053000 -0700" channel="ESPN">
+    <title lang="en">Korean Baseball</title>
+    <sub-title lang="en">LG Twins at Samsung Lions</sub-title>
+    <desc lang="en">From Daegu Samsung Lions Park in Daegu, Daegu Gwang'yeogsi, Korea, Republic of.(n)</desc>
+  </programme>
+  <programme start="20200703053000 -0700" stop="20200703073000 -0700" channel="ESPN">
     <title lang="en">Get Up</title>
     <desc lang="en">Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.(n)</desc>
   </programme>
-  <programme start="20200630090000 -0700" stop="20200630110000 -0700" channel="ESPN2">
+  <programme start="20200703073000 -0700" stop="20200703093000 -0700" channel="ESPN">
     <title lang="en">First Take</title>
     <desc lang="en">Max Kellerman joins Molly Qerim Rose and Stephen A. Smith to debate the hottest topics in sports.(n)</desc>
   </programme>
-  <programme start="20200630110000 -0700" stop="20200630120000 -0700" channel="ESPN2">
+  <programme start="20200703093000 -0700" stop="20200703110000 -0700" channel="ESPN">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200630120000 -0700" stop="20200630130000 -0700" channel="ESPN2">
+  <programme start="20200703110000 -0700" stop="20200703120000 -0700" channel="ESPN">
     <title lang="en">NFL Live</title>
     <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
   </programme>
-  <programme start="20200630130000 -0700" stop="20200630140000 -0700" channel="ESPN2">
+  <programme start="20200703120000 -0700" stop="20200703130000 -0700" channel="ESPN">
     <title lang="en">NBA: The Jump</title>
     <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
   </programme>
-  <programme start="20200630140000 -0700" stop="20200630143000 -0700" channel="ESPN2">
-    <title lang="en">First Take Extra</title>
-    <desc lang="en">Highlighting the hottest topics and debates of the day with Stephen A. Smith, Max Kellerman, and Molly Qerim Rose.(n)</desc>
-  </programme>
-  <programme start="20200630143000 -0700" stop="20200630150000 -0700" channel="ESPN2">
-    <title lang="en">Max on Boxing</title>
-    <desc lang="en">A weekly boxing show with analyst Max Kellerman.(n)</desc>
-  </programme>
-  <programme start="20200630150000 -0700" stop="20200630152000 -0700" channel="ESPN2">
+  <programme start="20200703130000 -0700" stop="20200703132000 -0700" channel="ESPN">
     <title lang="en">Jalen &amp; Jacoby</title>
     <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
   </programme>
-  <programme start="20200630152000 -0700" stop="20200630154000 -0700" channel="ESPN2">
+  <programme start="20200703132000 -0700" stop="20200703134000 -0700" channel="ESPN">
     <title lang="en">Highly Questionable</title>
     <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
   </programme>
-  <programme start="20200630154000 -0700" stop="20200630160000 -0700" channel="ESPN2">
+  <programme start="20200703134000 -0700" stop="20200703140000 -0700" channel="ESPN">
     <title lang="en">Around the Horn</title>
     <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
   </programme>
-  <programme start="20200630160000 -0700" stop="20200630200000 -0700" channel="ESPN2">
-    <title lang="en">NBA2K League</title>
-    <sub-title lang="en">Week 8, Day 2</sub-title>
+  <programme start="20200703140000 -0700" stop="20200703150000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200630200000 -0700" stop="20200630210000 -0700" channel="ESPN2">
-    <title lang="en">NFL Live</title>
-    <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
+  <programme start="20200703150000 -0700" stop="20200703160000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200630210000 -0700" stop="20200630220000 -0700" channel="ESPN2">
-    <title lang="en">World of X Games</title>
-    <sub-title lang="en">The 2020 Mint 400</sub-title>
+  <programme start="20200703160000 -0700" stop="20200703180000 -0700" channel="ESPN">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie to be announced.(n)</desc>
   </programme>
-  <programme start="20200630220000 -0700" stop="20200630230000 -0700" channel="ESPN2">
-    <title lang="en">World of X Games</title>
-    <sub-title lang="en">25 Years of X Games</sub-title>
-    <desc lang="en">Top moments from the past 25 years of action from the X Games.(n)</desc>
+  <programme start="20200703180000 -0700" stop="20200703193000 -0700" channel="ESPN">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">The Good, The Bad, The Hungry</sub-title>
+    <desc lang="en">An analysis of competitive eating's most storied pair -- Japan's Takeru ``Kobi'' Kobayashi and Californian Joey Chestnut. Includes candid interviews with both competitors.(n)</desc>
   </programme>
-  <programme start="20200630230000 -0700" stop="20200701000000 -0700" channel="ESPN2">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200703193000 -0700" stop="20200703203000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200701000000 -0700" stop="20200701010000 -0700" channel="ESPN2">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200703203000 -0700" stop="20200703213000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200701010000 -0700" stop="20200701020000 -0700" channel="ESPN2">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200703213000 -0700" stop="20200703223000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200701020000 -0700" stop="20200701030000 -0700" channel="ESPN2">
-    <title lang="en">SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  <programme start="20200703223000 -0700" stop="20200703233000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200701030000 -0700" stop="20200701070000 -0700" channel="ESPN2">
-    <title lang="en">Golic &amp; Wingo</title>
-    <desc lang="en">"Golic &amp; Wingo" is a one-stop-morning-shop for the biggest sports stories of the day -- delivered with insight, expert analysis and unrivaled access. From sports to pop culture to entertainment and more. Every day.(n)</desc>
-  </programme>
-  <programme start="20200701070000 -0700" stop="20200701090000 -0700" channel="ESPN2">
-    <title lang="en">Get Up</title>
-    <desc lang="en">Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.(n)</desc>
-  </programme>
-  <programme start="20200701090000 -0700" stop="20200701110000 -0700" channel="ESPN2">
-    <title lang="en">First Take</title>
-    <desc lang="en">Max Kellerman joins Molly Qerim Rose and Stephen A. Smith to debate the hottest topics in sports.(n)</desc>
-  </programme>
-  <programme start="20200701110000 -0700" stop="20200701120000 -0700" channel="ESPN2">
-    <title lang="en">NFL Live</title>
-    <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
-  </programme>
-  <programme start="20200701120000 -0700" stop="20200701123000 -0700" channel="ESPN2">
-    <title lang="en">NBA: The Jump</title>
-    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  <programme start="20200703233000 -0700" stop="20200704003000 -0700" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
   <programme start="20200701123000 -0700" stop="20200701143000 -0700" channel="ESPN2">
     <title lang="en">Italian Serie A Soccer</title>
@@ -406,6 +396,7 @@
   <programme start="20200701160000 -0700" stop="20200701200000 -0700" channel="ESPN2">
     <title lang="en">NBA2K League</title>
     <sub-title lang="en">Week 8, Day 3</sub-title>
+    <desc lang="en">Wizards District Gaming and Jazz Gaming face off to battle for second place in the NBA 2K League standings.(n)</desc>
   </programme>
   <programme start="20200701200000 -0700" stop="20200701210000 -0700" channel="ESPN2">
     <title lang="en">NFL Live</title>
@@ -422,99 +413,176 @@
   </programme>
   <programme start="20200701220000 -0700" stop="20200702010000 -0700" channel="ESPN2">
     <title lang="en">UFC 245: Usman vs. Covington</title>
+    <desc lang="en">A championship tripleheader for only the third time in UFC history as a part of UFC's biggest card and final event of 2019. In the main event, UFC welterweight champion Kamaru Usman defends his title against Colby Covington.(n)</desc>
   </programme>
-  <programme start="20200630020000 -0700" stop="20200630030000 -0700" channel="ESPN Deportes">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  <programme start="20200702010000 -0700" stop="20200702020000 -0700" channel="ESPN2">
+    <title lang="en">Backstory</title>
+    <sub-title lang="en">The Decision</sub-title>
+    <desc lang="en">In July 2010, ESPN aired ``The Decision,'' a live primetime special in which LeBron James, the biggest NBA free agent ever, announced he was leaving Cleveland for Miami. The criticism was massive. Don Van Natta Jr. explores the far-reaching impact.(n)</desc>
   </programme>
-  <programme start="20200630030000 -0700" stop="20200630040000 -0700" channel="ESPN Deportes">
+  <programme start="20200702020000 -0700" stop="20200702030000 -0700" channel="ESPN2">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200702030000 -0700" stop="20200702070000 -0700" channel="ESPN2">
+    <title lang="en">Golic &amp; Wingo</title>
+    <desc lang="en">"Golic &amp; Wingo" is a one-stop-morning-shop for the biggest sports stories of the day -- delivered with insight, expert analysis and unrivaled access. From sports to pop culture to entertainment and more. Every day.(n)</desc>
+  </programme>
+  <programme start="20200702070000 -0700" stop="20200702090000 -0700" channel="ESPN2">
+    <title lang="en">Get Up</title>
+    <desc lang="en">Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.(n)</desc>
+  </programme>
+  <programme start="20200702090000 -0700" stop="20200702110000 -0700" channel="ESPN2">
+    <title lang="en">First Take</title>
+    <desc lang="en">Max Kellerman joins Molly Qerim Rose and Stephen A. Smith to debate the hottest topics in sports.(n)</desc>
+  </programme>
+  <programme start="20200702110000 -0700" stop="20200702120000 -0700" channel="ESPN2">
     <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200630040000 -0700" stop="20200630070000 -0700" channel="ESPN Deportes">
-    <title lang="en">Jorge Ramos y su banda</title>
-    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
+  <programme start="20200702120000 -0700" stop="20200702130000 -0700" channel="ESPN2">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
   </programme>
-  <programme start="20200630070000 -0700" stop="20200630080000 -0700" channel="ESPN Deportes">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  <programme start="20200702130000 -0700" stop="20200702140000 -0700" channel="ESPN2">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
   </programme>
-  <programme start="20200630080000 -0700" stop="20200630103000 -0700" channel="ESPN Deportes">
-    <title lang="en">UFC Fight Night: Poirier vs. Hooker</title>
-    <desc lang="en">Sean Woodson vs. Julian Erosa, peso catch. Además, Gian Villante vs. Maurice Greene (peso pesado), Mike Perry vs. Mickey Gall (peso wélter) y Dustin Poirier vs. Dan Hooker (peso ligero). Desde el UFC Apex en Las Vegas.(n)</desc>
+  <programme start="20200702140000 -0700" stop="20200702143000 -0700" channel="ESPN2">
+    <title lang="en">First Take Extra</title>
+    <desc lang="en">Highlighting the hottest topics and debates of the day with Stephen A. Smith, Max Kellerman, and Molly Qerim Rose.(n)</desc>
   </programme>
-  <programme start="20200630103000 -0700" stop="20200630123000 -0700" channel="ESPN Deportes">
-    <title lang="en">Fútbol Costarricense Primera División</title>
-    <sub-title lang="en">Deportivo Saprissa vs. Alajuelense</sub-title>
-    <desc lang="en">Final, partido de vuelta. Alajuelense recibe a Saprissa. Desde el estadio Ricardo Saprissa Aymá, en Tibás, San José.(n)</desc>
+  <programme start="20200702143000 -0700" stop="20200702150000 -0700" channel="ESPN2">
+    <title lang="en">Max on Boxing</title>
+    <desc lang="en">A weekly boxing show with analyst Max Kellerman.(n)</desc>
   </programme>
-  <programme start="20200630123000 -0700" stop="20200630130000 -0700" channel="ESPN Deportes">
-    <title lang="en">The Undefeated Presents</title>
-    <sub-title lang="en">Unapologetic: The Black Female Athlete</sub-title>
+  <programme start="20200702150000 -0700" stop="20200702152000 -0700" channel="ESPN2">
+    <title lang="en">Jalen &amp; Jacoby</title>
+    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
   </programme>
-  <programme start="20200630130000 -0700" stop="20200630160000 -0700" channel="ESPN Deportes">
-    <title lang="en">Jorge Ramos y su banda</title>
-    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
+  <programme start="20200702152000 -0700" stop="20200702154000 -0700" channel="ESPN2">
+    <title lang="en">Highly Questionable</title>
+    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
   </programme>
-  <programme start="20200630160000 -0700" stop="20200630163000 -0700" channel="ESPN Deportes">
-    <title lang="en">Cronómetro</title>
-    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
+  <programme start="20200702154000 -0700" stop="20200702160000 -0700" channel="ESPN2">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
   </programme>
-  <programme start="20200630163000 -0700" stop="20200630170000 -0700" channel="ESPN Deportes">
-    <title lang="en">Ahora o nunca</title>
-    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
+  <programme start="20200702160000 -0700" stop="20200702200000 -0700" channel="ESPN2">
+    <title lang="en">NBA2K League</title>
+    <sub-title lang="en">Week 8, Day 4</sub-title>
+    <desc lang="en">Top ranked Raptors Uprising GC is back to face Gen.G Tigers of Shanghai as Week 8 of the NBA 2K League continues.(n)</desc>
   </programme>
-  <programme start="20200630170000 -0700" stop="20200630203000 -0700" channel="ESPN Deportes">
-    <title lang="en">Boxeo</title>
-    <sub-title lang="en">Alex Saucedo vs. Sonny Fredrickson</sub-title>
-    <desc lang="en">Combate por el peso superliviano. Alex Saucedo (29-1-0, 19 KOs) enfrenta a Sonny Fredrickson (21-2-0, 14 KOs). Desde el MGM Grand Garden Arena, en Las Vegas.(n)</desc>
+  <programme start="20200702200000 -0700" stop="20200702210000 -0700" channel="ESPN2">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
   </programme>
-  <programme start="20200630203000 -0700" stop="20200630210000 -0700" channel="ESPN Deportes">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  <programme start="20200702210000 -0700" stop="20200702220000 -0700" channel="ESPN2">
+    <title lang="en">Backstory</title>
+    <sub-title lang="en">The Decision</sub-title>
+    <desc lang="en">In July 2010, ESPN aired ``The Decision,'' a live primetime special in which LeBron James, the biggest NBA free agent ever, announced he was leaving Cleveland for Miami. The criticism was massive. Don Van Natta Jr. explores the far-reaching impact.(n)</desc>
   </programme>
-  <programme start="20200630210000 -0700" stop="20200630220000 -0700" channel="ESPN Deportes">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  <programme start="20200702220000 -0700" stop="20200702222000 -0700" channel="ESPN2">
+    <title lang="en">Jalen &amp; Jacoby</title>
+    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
   </programme>
-  <programme start="20200630220000 -0700" stop="20200630230000 -0700" channel="ESPN Deportes">
+  <programme start="20200702222000 -0700" stop="20200702224000 -0700" channel="ESPN2">
+    <title lang="en">Highly Questionable</title>
+    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  </programme>
+  <programme start="20200702224000 -0700" stop="20200702230000 -0700" channel="ESPN2">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  </programme>
+  <programme start="20200702230000 -0700" stop="20200703010000 -0700" channel="ESPN2">
+    <title lang="en">UFC 237: Namajunas vs. Andrade</title>
+    <desc lang="en">Rose Namajunas vs. Jessica Andrade, Anderson Silva vs. Jared Cannonier, Jose Aldo vs. Alexander Volkanovski, Thiago Alves vs. Laureano Staropoli and Irene Aldana vs. Bethe Correia. From May 11, 2019.(n)</desc>
+  </programme>
+  <programme start="20200703010000 -0700" stop="20200703013000 -0700" channel="ESPN2">
+    <title lang="en">First Take Extra</title>
+    <desc lang="en">Highlighting the hottest topics and debates of the day with Stephen A. Smith, Max Kellerman, and Molly Qerim Rose.(n)</desc>
+  </programme>
+  <programme start="20200703013000 -0700" stop="20200703015500 -0700" channel="ESPN2">
+    <title lang="en">Formula 1: Welcome to the Weekend</title>
+  </programme>
+  <programme start="20200703015500 -0700" stop="20200703033000 -0700" channel="ESPN2">
+    <title lang="en">Formula 1 Racing</title>
+    <sub-title lang="en">Rolex Austrian Grand Prix, Practice 1</sub-title>
+  </programme>
+  <programme start="20200703033000 -0700" stop="20200703055500 -0700" channel="ESPN2">
+    <title lang="en">Golic &amp; Wingo</title>
+    <desc lang="en">"Golic &amp; Wingo" is a one-stop-morning-shop for the biggest sports stories of the day -- delivered with insight, expert analysis and unrivaled access. From sports to pop culture to entertainment and more. Every day.(n)</desc>
+  </programme>
+  <programme start="20200703055500 -0700" stop="20200703073000 -0700" channel="ESPN2">
+    <title lang="en">Formula 1 Racing</title>
+    <sub-title lang="en">Rolex Austrian Grand Prix, Practice 2</sub-title>
+  </programme>
+  <programme start="20200703073000 -0700" stop="20200703090000 -0700" channel="ESPN2">
+    <title lang="en">Get Up</title>
+    <desc lang="en">Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.(n)</desc>
+  </programme>
+  <programme start="20200703090000 -0700" stop="20200703110000 -0700" channel="ESPN2">
+    <title lang="en">First Take</title>
+    <desc lang="en">Max Kellerman joins Molly Qerim Rose and Stephen A. Smith to debate the hottest topics in sports.(n)</desc>
+  </programme>
+  <programme start="20200703110000 -0700" stop="20200703120000 -0700" channel="ESPN2">
     <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200630230000 -0700" stop="20200701020000 -0700" channel="ESPN Deportes">
-    <title lang="en">Jorge Ramos y su banda</title>
-    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
-  </programme>
-  <programme start="20200701020000 -0700" stop="20200701030000 -0700" channel="ESPN Deportes">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200701030000 -0700" stop="20200701040500 -0700" channel="ESPN Deportes">
+  <programme start="20200703120000 -0700" stop="20200703130000 -0700" channel="ESPN2">
     <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
   </programme>
-  <programme start="20200701040500 -0700" stop="20200701051000 -0700" channel="ESPN Deportes">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  <programme start="20200703130000 -0700" stop="20200703140000 -0700" channel="ESPN2">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
   </programme>
-  <programme start="20200701051000 -0700" stop="20200701061500 -0700" channel="ESPN Deportes">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  <programme start="20200703140000 -0700" stop="20200703150000 -0700" channel="ESPN2">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
   </programme>
-  <programme start="20200701061500 -0700" stop="20200701071500 -0700" channel="ESPN Deportes">
-    <title lang="en">Top Rank Classic Fights</title>
-    <sub-title lang="en">Floyd Mayweather vs. Manny Pacquiao</sub-title>
-    <desc lang="en">Combate desarrollado el 2 de mayo de 2015.(n)</desc>
+  <programme start="20200703150000 -0700" stop="20200703152000 -0700" channel="ESPN2">
+    <title lang="en">Jalen &amp; Jacoby</title>
+    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
   </programme>
-  <programme start="20200701071500 -0700" stop="20200701101500 -0700" channel="ESPN Deportes">
-    <title lang="en">Boxeo</title>
-    <sub-title lang="en">Alex Saucedo vs. Sonny Fredrickson</sub-title>
-    <desc lang="en">Combate por el peso superliviano. Alex Saucedo (29-1-0, 19 KOs) enfrenta a Sonny Fredrickson (21-2-0, 14 KOs). Desde el MGM Grand Garden Arena, en Las Vegas.(n)</desc>
+  <programme start="20200703152000 -0700" stop="20200703154000 -0700" channel="ESPN2">
+    <title lang="en">Highly Questionable</title>
+    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
   </programme>
-  <programme start="20200701101500 -0700" stop="20200701123000 -0700" channel="ESPN Deportes">
-    <title lang="en">Fútbol Serie A</title>
-    <sub-title lang="en">Bologna vs. Cagliari</sub-title>
-    <desc lang="en">Jornada 29 de la Serie A. Bologna recibe a Cagliari. El último enfrentamiento oficial entre ambos equipos, disputado el 30 de octubre de 2019, finalizó en victoria 3-2 de los sardos. Desde el estadio Renato Dall'Ara, en Bolonia.(n)</desc>
+  <programme start="20200703154000 -0700" stop="20200703160000 -0700" channel="ESPN2">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  </programme>
+  <programme start="20200703160000 -0700" stop="20200703170000 -0700" channel="ESPN2">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Analysts break down the latest news in the NFL, offering views on players, coaches and management.(n)</desc>
+  </programme>
+  <programme start="20200703170000 -0700" stop="20200703180000 -0700" channel="ESPN2">
+    <title lang="en">Backstory</title>
+    <sub-title lang="en">The Decision</sub-title>
+    <desc lang="en">In July 2010, ESPN aired ``The Decision,'' a live primetime special in which LeBron James, the biggest NBA free agent ever, announced he was leaving Cleveland for Miami. The criticism was massive. Don Van Natta Jr. explores the far-reaching impact.(n)</desc>
+  </programme>
+  <programme start="20200703180000 -0700" stop="20200703200000 -0700" channel="ESPN2">
+    <title lang="en">The 2020 ESPYS</title>
+    <desc lang="en">Celebrating inspiring humanitarian efforts and the year in sports. Virtually hosted by Sue Bird, Megan Rapinoe and Russell Wilson.(n)</desc>
+  </programme>
+  <programme start="20200703200000 -0700" stop="20200703210000 -0700" channel="ESPN2">
+    <title lang="en">2007 Nathan's Hot Dog Eating Contest</title>
+    <desc lang="en">From July 4, 2007 in Coney Island, N.Y.(n)</desc>
+  </programme>
+  <programme start="20200703210000 -0700" stop="20200703220000 -0700" channel="ESPN2">
+    <title lang="en">2008 Nathan's Hot Dog Eating Contest</title>
+    <desc lang="en">From July 4, 2008 in Coney Island, N.Y.(n)</desc>
+  </programme>
+  <programme start="20200703220000 -0700" stop="20200703233000 -0700" channel="ESPN2">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">The Good, The Bad, The Hungry</sub-title>
+    <desc lang="en">An analysis of competitive eating's most storied pair -- Japan's Takeru ``Kobi'' Kobayashi and Californian Joey Chestnut. Includes candid interviews with both competitors.(n)</desc>
+  </programme>
+  <programme start="20200703233000 -0700" stop="20200704000000 -0700" channel="ESPN2">
+    <title lang="en">UFC Sound Waves</title>
+    <sub-title lang="en">Conor McGregor</sub-title>
+    <desc lang="en">With never-before-heard audio, fans get closer to some of his most remarkable fights than ever before. Also, listen in on McGregor's crazed fanbase, relive his best press conference moments and hear what it's like to live ``The Mac Life.''.(n)</desc>
   </programme>
   <programme start="20200701123000 -0700" stop="20200701144500 -0700" channel="ESPN Deportes">
     <title lang="en">Fútbol Serie A</title>
@@ -555,142 +623,144 @@
     <title lang="en">Jorge Ramos y su banda</title>
     <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
   </programme>
-  <programme start="20200630000000 -0700" stop="20200630010000 -0700" channel="ESPNEWS">
-    <title lang="en">NBA: The Jump</title>
-    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  <programme start="20200702020000 -0700" stop="20200702030000 -0700" channel="ESPN Deportes">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
   </programme>
-  <programme start="20200630010000 -0700" stop="20200630012000 -0700" channel="ESPNEWS">
-    <title lang="en">Jalen &amp; Jacoby</title>
-    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  <programme start="20200702030000 -0700" stop="20200702040000 -0700" channel="ESPN Deportes">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
   </programme>
-  <programme start="20200630012000 -0700" stop="20200630014000 -0700" channel="ESPNEWS">
-    <title lang="en">Highly Questionable</title>
-    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  <programme start="20200702040000 -0700" stop="20200702070000 -0700" channel="ESPN Deportes">
+    <title lang="en">Jorge Ramos y su banda</title>
+    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
   </programme>
-  <programme start="20200630014000 -0700" stop="20200630020000 -0700" channel="ESPNEWS">
-    <title lang="en">Around the Horn</title>
-    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  <programme start="20200702070000 -0700" stop="20200702080000 -0700" channel="ESPN Deportes">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
   </programme>
-  <programme start="20200630020000 -0700" stop="20200630030000 -0700" channel="ESPNEWS">
-    <title lang="en">E:60</title>
-    <sub-title lang="en">Imperfect: The Roy Halladay Story</sub-title>
-    <desc lang="en">On the 10th anniversary of his perfect game, and more than two years after his tragic death, Halladay's family speaks for the first time on camera about his struggles with addiction and mental health, and the details of his fatal plane crash.(n)</desc>
+  <programme start="20200702080000 -0700" stop="20200702090000 -0700" channel="ESPN Deportes">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
   </programme>
-  <programme start="20200630030000 -0700" stop="20200630070000 -0700" channel="ESPNEWS">
-    <title lang="en">Golic &amp; Wingo</title>
-    <desc lang="en">"Golic &amp; Wingo" is a one-stop-morning-shop for the biggest sports stories of the day -- delivered with insight, expert analysis and unrivaled access. From sports to pop culture to entertainment and more. Every day.(n)</desc>
+  <programme start="20200702090000 -0700" stop="20200702110000 -0700" channel="ESPN Deportes">
+    <title lang="en">Fútbol Serie A</title>
+    <sub-title lang="en">Lecce vs. Sampdoria</sub-title>
+    <desc lang="en">Jornada 29 de la Serie A. Lecce recibe a Sampdoria. El último enfrentamiento oficial entre los Giallorossi y el Grifone, disputado el 30 de octubre de 2019, finalizó igualado 1-1. Desde el estadio Via del Mare, en Lecce.(n)</desc>
   </programme>
-  <programme start="20200630070000 -0700" stop="20200630100000 -0700" channel="ESPNEWS">
-    <title lang="en">The Dan Le Batard Show With Stugotz</title>
-    <desc lang="en">Dan Le Batard discusses top stories in sports.(n)</desc>
+  <programme start="20200702110000 -0700" stop="20200702130000 -0700" channel="ESPN Deportes">
+    <title lang="en">Fútbol Serie A</title>
+    <sub-title lang="en">Hellas Verona vs. Parma</sub-title>
+    <desc lang="en">Jornada 29 de la Serie A. Hellas Verona recibe a Parma. Los parmesanos suman 3 partidos oficiales sin vencer a los Gialloblù, con 1 igualdad y 2 caídas. Desde el estadio Marcantonio Bentegodi, en Verona.(n)</desc>
   </programme>
-  <programme start="20200630100000 -0700" stop="20200630120000 -0700" channel="ESPNEWS">
-    <title lang="en">First Take, Your Take</title>
-    <desc lang="en">The best of Stephen A. Smith's sports takes and debates with Max Kellerman. Fans get a chance to call-in and interact with Jason Fitz as he advances the topics debated on that day's broadcast.(n)</desc>
+  <programme start="20200702130000 -0700" stop="20200702160000 -0700" channel="ESPN Deportes">
+    <title lang="en">Jorge Ramos y su banda</title>
+    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
   </programme>
-  <programme start="20200630120000 -0700" stop="20200630150000 -0700" channel="ESPNEWS">
-    <title lang="en">ESPN Radio Afternoons</title>
-    <desc lang="en">Covering the sports news of the day in an entertaining and informative way. Featuring the top analysts and experts in their field.(n)</desc>
+  <programme start="20200702160000 -0700" stop="20200702163000 -0700" channel="ESPN Deportes">
+    <title lang="en">Cronómetro</title>
+    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
   </programme>
-  <programme start="20200630150000 -0700" stop="20200630160000 -0700" channel="ESPNEWS">
-    <title lang="en">NBA: The Jump</title>
-    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  <programme start="20200702163000 -0700" stop="20200702170000 -0700" channel="ESPN Deportes">
+    <title lang="en">Ahora o nunca</title>
+    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
   </programme>
-  <programme start="20200630160000 -0700" stop="20200630162000 -0700" channel="ESPNEWS">
-    <title lang="en">Jalen &amp; Jacoby</title>
-    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  <programme start="20200702170000 -0700" stop="20200702200000 -0700" channel="ESPN Deportes">
+    <title lang="en">Boxeo</title>
+    <sub-title lang="en">Jose Pedraza vs. Mikkel LesPierre</sub-title>
+    <desc lang="en">Desde el MGM Grand Conference Center en Las Vegas.(n)</desc>
   </programme>
-  <programme start="20200630162000 -0700" stop="20200630164000 -0700" channel="ESPNEWS">
-    <title lang="en">Highly Questionable</title>
-    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  <programme start="20200702200000 -0700" stop="20200702210000 -0700" channel="ESPN Deportes">
+    <title lang="en">Top Rank Classic Fights</title>
+    <sub-title lang="en">Erik Morales vs. Marco Antonio Barrera I</sub-title>
+    <desc lang="en">Pelea disputada el 19 de febrero del 2000 en el Mandalay Bay de Las Vegas, Nevada.(n)</desc>
   </programme>
-  <programme start="20200630164000 -0700" stop="20200630170000 -0700" channel="ESPNEWS">
-    <title lang="en">Around the Horn</title>
-    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  <programme start="20200702210000 -0700" stop="20200702220000 -0700" channel="ESPN Deportes">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
   </programme>
-  <programme start="20200630170000 -0700" stop="20200630173000 -0700" channel="ESPNEWS">
-    <title lang="en">Around the Horn</title>
-    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  <programme start="20200702220000 -0700" stop="20200702230000 -0700" channel="ESPN Deportes">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
   </programme>
-  <programme start="20200630173000 -0700" stop="20200630180000 -0700" channel="ESPNEWS">
-    <title lang="en">Pardon the Interruption</title>
-    <desc lang="en">Opinions regarding the day's top sports stories.(n)</desc>
+  <programme start="20200702230000 -0700" stop="20200703015500 -0700" channel="ESPN Deportes">
+    <title lang="en">Jorge Ramos y su banda</title>
+    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
   </programme>
-  <programme start="20200630180000 -0700" stop="20200630183000 -0700" channel="ESPNEWS">
-    <title lang="en">Jalen &amp; Jacoby</title>
-    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  <programme start="20200703015500 -0700" stop="20200703033000 -0700" channel="ESPN Deportes">
+    <title lang="en">Automovilismo Fórmula 1</title>
+    <sub-title lang="en">Gran Premio de Austria, práctica 1</sub-title>
+    <desc lang="en">Práctica 1 de la primera fecha del calendario 2020 de la Fórmula 1. Desde el circuito Red Bull Ring, en Spielberg.(n)</desc>
   </programme>
-  <programme start="20200630183000 -0700" stop="20200630190000 -0700" channel="ESPNEWS">
-    <title lang="en">UFC Main Event</title>
-    <sub-title lang="en">Namajunas vs. Kowalkiewicz</sub-title>
-    <desc lang="en">From Philips Arena in Atlanta, Rose Namajunas (6-2) looks to take down Karolina Kowalkiewicz (9-0). Namajunas, a takedown specialist will look to bring her opponent to the ground in this fight.(n)</desc>
+  <programme start="20200703033000 -0700" stop="20200703040000 -0700" channel="ESPN Deportes">
+    <title lang="en">UFC Ultimate Knockouts</title>
+    <sub-title lang="en">Knockouts from 2014</sub-title>
+    <desc lang="en">Los mejores knockouts del 2014.(n)</desc>
   </programme>
-  <programme start="20200630190000 -0700" stop="20200630193000 -0700" channel="ESPNEWS">
-    <title lang="en">NBA: The Jump</title>
-    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  <programme start="20200703040000 -0700" stop="20200703050000 -0700" channel="ESPN Deportes">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
   </programme>
-  <programme start="20200630193000 -0700" stop="20200630200000 -0700" channel="ESPNEWS">
-    <title lang="en">Pardon the Interruption</title>
-    <desc lang="en">Opinions regarding the day's top sports stories.(n)</desc>
+  <programme start="20200703050000 -0700" stop="20200703055500 -0700" channel="ESPN Deportes">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
   </programme>
-  <programme start="20200630200000 -0700" stop="20200630202000 -0700" channel="ESPNEWS">
-    <title lang="en">Jalen &amp; Jacoby</title>
-    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  <programme start="20200703055500 -0700" stop="20200703073000 -0700" channel="ESPN Deportes">
+    <title lang="en">Automovilismo Fórmula 1</title>
+    <sub-title lang="en">Gran Premio de Austria, práctica 2</sub-title>
+    <desc lang="en">Práctica 2 de la primera fecha del calendario 2020 de la Fórmula 1. Desde el circuito Red Bull Ring, en Spielberg.(n)</desc>
   </programme>
-  <programme start="20200630202000 -0700" stop="20200630204000 -0700" channel="ESPNEWS">
-    <title lang="en">Highly Questionable</title>
-    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  <programme start="20200703073000 -0700" stop="20200703080000 -0700" channel="ESPN Deportes">
+    <title lang="en">The Undefeated Presents</title>
+    <sub-title lang="en">Unapologetic: The Black Female Athlete</sub-title>
   </programme>
-  <programme start="20200630204000 -0700" stop="20200630210000 -0700" channel="ESPNEWS">
-    <title lang="en">Around the Horn</title>
-    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  <programme start="20200703080000 -0700" stop="20200703090000 -0700" channel="ESPN Deportes">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
   </programme>
-  <programme start="20200630210000 -0700" stop="20200630220000 -0700" channel="ESPNEWS">
-    <title lang="en">X Games</title>
-    <desc lang="en">Extreme sports action from the X Games competition.(n)</desc>
+  <programme start="20200703090000 -0700" stop="20200703100000 -0700" channel="ESPN Deportes">
+    <title lang="en">Top Rank Classic Fights</title>
+    <sub-title lang="en">Erik Morales vs. Marco Antonio Barrera I</sub-title>
+    <desc lang="en">Pelea disputada el 19 de febrero del 2000 en el Mandalay Bay de Las Vegas, Nevada.(n)</desc>
   </programme>
-  <programme start="20200630220000 -0700" stop="20200630230000 -0700" channel="ESPNEWS">
-    <title lang="en">World of X Games</title>
-    <sub-title lang="en">25 Years of X Games</sub-title>
-    <desc lang="en">Top moments from the past 25 years of action from the X Games.(n)</desc>
+  <programme start="20200703100000 -0700" stop="20200703130000 -0700" channel="ESPN Deportes">
+    <title lang="en">Boxeo</title>
+    <sub-title lang="en">Jose Pedraza vs. Mikkel LesPierre</sub-title>
+    <desc lang="en">Desde el MGM Grand Conference Center en Las Vegas.(n)</desc>
   </programme>
-  <programme start="20200630230000 -0700" stop="20200701000000 -0700" channel="ESPNEWS">
-    <title lang="en">World of X Games</title>
-    <sub-title lang="en">Real Street 2020</sub-title>
-    <desc lang="en">The all-video competition is back with the world's most established street skaters battling for X Games gold. Athletes include: Franky Villani, Clive Dixon, Chase Webb, Jamie Foy, Dakota Servold and Kevin Baekkel.(n)</desc>
+  <programme start="20200703130000 -0700" stop="20200703160000 -0700" channel="ESPN Deportes">
+    <title lang="en">Jorge Ramos y su banda</title>
+    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
   </programme>
-  <programme start="20200701000000 -0700" stop="20200701010000 -0700" channel="ESPNEWS">
-    <title lang="en">NBA: The Jump</title>
-    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  <programme start="20200703160000 -0700" stop="20200703163000 -0700" channel="ESPN Deportes">
+    <title lang="en">Cronómetro</title>
+    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
   </programme>
-  <programme start="20200701010000 -0700" stop="20200701012000 -0700" channel="ESPNEWS">
-    <title lang="en">Jalen &amp; Jacoby</title>
-    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  <programme start="20200703163000 -0700" stop="20200703170000 -0700" channel="ESPN Deportes">
+    <title lang="en">Ahora o nunca</title>
+    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
   </programme>
-  <programme start="20200701012000 -0700" stop="20200701014000 -0700" channel="ESPNEWS">
-    <title lang="en">Highly Questionable</title>
-    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  <programme start="20200703170000 -0700" stop="20200703190000 -0700" channel="ESPN Deportes">
+    <title lang="en">Campeones al ataque</title>
+    <desc lang="en">Un abogado es forzado a transformar a un grupo de niños indisciplinados en un equipo de hockey para competir.(n)</desc>
+    <date>1992</date>
   </programme>
-  <programme start="20200701014000 -0700" stop="20200701020000 -0700" channel="ESPNEWS">
-    <title lang="en">Around the Horn</title>
-    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  <programme start="20200703190000 -0700" stop="20200703210000 -0700" channel="ESPN Deportes">
+    <title lang="en">Fútbol Serie A</title>
+    <sub-title lang="en">Bologna vs. Cagliari</sub-title>
+    <desc lang="en">Jornada 29 de la Serie A. Bologna recibe a Cagliari. El último enfrentamiento oficial entre ambos equipos, disputado el 30 de octubre de 2019, finalizó en victoria 3-2 de los sardos. Desde el estadio Renato Dall'Ara, en Bolonia.(n)</desc>
   </programme>
-  <programme start="20200701020000 -0700" stop="20200701030000 -0700" channel="ESPNEWS">
-    <title lang="en">E:60</title>
-    <sub-title lang="en">Pro Basketball Stories</sub-title>
-    <desc lang="en">Grizzlies point guard Ja Morant shares his story of discovery; former NBA hopeful Isaiah Austin fights to play despite having Marfan syndrome; NBA halftime performer Red Panda; Chris Tucker on the obstacles of going to the same church as LeBron.(n)</desc>
+  <programme start="20200703210000 -0700" stop="20200703220000 -0700" channel="ESPN Deportes">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
   </programme>
-  <programme start="20200701030000 -0700" stop="20200701070000 -0700" channel="ESPNEWS">
-    <title lang="en">Golic &amp; Wingo</title>
-    <desc lang="en">"Golic &amp; Wingo" is a one-stop-morning-shop for the biggest sports stories of the day -- delivered with insight, expert analysis and unrivaled access. From sports to pop culture to entertainment and more. Every day.(n)</desc>
+  <programme start="20200703220000 -0700" stop="20200703230000 -0700" channel="ESPN Deportes">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
   </programme>
-  <programme start="20200701070000 -0700" stop="20200701100000 -0700" channel="ESPNEWS">
-    <title lang="en">The Dan Le Batard Show With Stugotz</title>
-    <desc lang="en">Dan Le Batard discusses top stories in sports.(n)</desc>
-  </programme>
-  <programme start="20200701100000 -0700" stop="20200701120000 -0700" channel="ESPNEWS">
-    <title lang="en">First Take, Your Take</title>
-    <desc lang="en">The best of Stephen A. Smith's sports takes and debates with Max Kellerman. Fans get a chance to call-in and interact with Jason Fitz as he advances the topics debated on that day's broadcast.(n)</desc>
+  <programme start="20200703230000 -0700" stop="20200704020000 -0700" channel="ESPN Deportes">
+    <title lang="en">Jorge Ramos y su banda</title>
+    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
   </programme>
   <programme start="20200701120000 -0700" stop="20200701150000 -0700" channel="ESPNEWS">
     <title lang="en">ESPN Radio Afternoons</title>
@@ -739,5 +809,168 @@
   <programme start="20200701230000 -0700" stop="20200702000000 -0700" channel="ESPNEWS">
     <title lang="en">Coco Gauff: The Lines Are The Same</title>
     <desc lang="en">A look back at Coco Gauff's win over Venus Williams at Wimbledon last year, and what she's been up to in 2020.(n)</desc>
+  </programme>
+  <programme start="20200702000000 -0700" stop="20200702003000 -0700" channel="ESPNEWS">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  </programme>
+  <programme start="20200702003000 -0700" stop="20200702010000 -0700" channel="ESPNEWS">
+    <title lang="en">SC Featured</title>
+    <sub-title lang="en">Who Says I Can't</sub-title>
+    <desc lang="en">The inspiring story of Rob Mendez, a successful California high school football coach who was born with no arms or legs.(n)</desc>
+  </programme>
+  <programme start="20200702010000 -0700" stop="20200702020000 -0700" channel="ESPNEWS">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200702020000 -0700" stop="20200702030000 -0700" channel="ESPNEWS">
+    <title lang="en">Backstory</title>
+    <sub-title lang="en">The Decision</sub-title>
+    <desc lang="en">In July 2010, ESPN aired ``The Decision,'' a live primetime special in which LeBron James, the biggest NBA free agent ever, announced he was leaving Cleveland for Miami. The criticism was massive. Don Van Natta Jr. explores the far-reaching impact.(n)</desc>
+  </programme>
+  <programme start="20200702030000 -0700" stop="20200702070000 -0700" channel="ESPNEWS">
+    <title lang="en">Golic &amp; Wingo</title>
+    <desc lang="en">"Golic &amp; Wingo" is a one-stop-morning-shop for the biggest sports stories of the day -- delivered with insight, expert analysis and unrivaled access. From sports to pop culture to entertainment and more. Every day.(n)</desc>
+  </programme>
+  <programme start="20200702070000 -0700" stop="20200702100000 -0700" channel="ESPNEWS">
+    <title lang="en">The Dan Le Batard Show With Stugotz</title>
+    <desc lang="en">Dan Le Batard discusses top stories in sports.(n)</desc>
+  </programme>
+  <programme start="20200702100000 -0700" stop="20200702120000 -0700" channel="ESPNEWS">
+    <title lang="en">First Take, Your Take</title>
+    <desc lang="en">The best of Stephen A. Smith's sports takes and debates with Max Kellerman. Fans get a chance to call-in and interact with Jason Fitz as he advances the topics debated on that day's broadcast.(n)</desc>
+  </programme>
+  <programme start="20200702120000 -0700" stop="20200702150000 -0700" channel="ESPNEWS">
+    <title lang="en">ESPN Radio Afternoons</title>
+    <desc lang="en">Covering the sports news of the day in an entertaining and informative way. Featuring the top analysts and experts in their field.(n)</desc>
+  </programme>
+  <programme start="20200702150000 -0700" stop="20200702160000 -0700" channel="ESPNEWS">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  </programme>
+  <programme start="20200702160000 -0700" stop="20200702162000 -0700" channel="ESPNEWS">
+    <title lang="en">Jalen &amp; Jacoby</title>
+    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  </programme>
+  <programme start="20200702162000 -0700" stop="20200702164000 -0700" channel="ESPNEWS">
+    <title lang="en">Highly Questionable</title>
+    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  </programme>
+  <programme start="20200702164000 -0700" stop="20200702170000 -0700" channel="ESPNEWS">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  </programme>
+  <programme start="20200702170000 -0700" stop="20200702173000 -0700" channel="ESPNEWS">
+    <title lang="en">First Take Extra</title>
+    <desc lang="en">Highlighting the hottest topics and debates of the day with Stephen A. Smith, Max Kellerman, and Molly Qerim Rose.(n)</desc>
+  </programme>
+  <programme start="20200702173000 -0700" stop="20200702180000 -0700" channel="ESPNEWS">
+    <title lang="en">E:60</title>
+    <sub-title lang="en">Game One</sub-title>
+    <desc lang="en">The story of ESPN's broadcast of a slow-pitch softball game between the Kentucky Bourbons and the Milwaukee Schlitz.(n)</desc>
+  </programme>
+  <programme start="20200702180000 -0700" stop="20200702190000 -0700" channel="ESPNEWS">
+    <title lang="en">Backstory</title>
+    <sub-title lang="en">The Decision</sub-title>
+    <desc lang="en">In July 2010, ESPN aired ``The Decision,'' a live primetime special in which LeBron James, the biggest NBA free agent ever, announced he was leaving Cleveland for Miami. The criticism was massive. Don Van Natta Jr. explores the far-reaching impact.(n)</desc>
+  </programme>
+  <programme start="20200702190000 -0700" stop="20200702200000 -0700" channel="ESPNEWS">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  </programme>
+  <programme start="20200702200000 -0700" stop="20200702202000 -0700" channel="ESPNEWS">
+    <title lang="en">Jalen &amp; Jacoby</title>
+    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  </programme>
+  <programme start="20200702202000 -0700" stop="20200702204000 -0700" channel="ESPNEWS">
+    <title lang="en">Highly Questionable</title>
+    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  </programme>
+  <programme start="20200702204000 -0700" stop="20200702210000 -0700" channel="ESPNEWS">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  </programme>
+  <programme start="20200702210000 -0700" stop="20200702230000 -0700" channel="ESPNEWS">
+    <title lang="en">Johnsonville ACL Cornhole Championships</title>
+    <sub-title lang="en">2020 ACL Pro Invitational Qualifier: Las Vegas</sub-title>
+    <desc lang="en">Singles championship. From Las Vegas.(n)</desc>
+  </programme>
+  <programme start="20200702230000 -0700" stop="20200703000000 -0700" channel="ESPNEWS">
+    <title lang="en">E:60</title>
+    <sub-title lang="en">Pro Football Stories</sub-title>
+    <desc lang="en">DeAndre Hopkins on his bond with his mother, who lost her eyesight in a horrific attack; inside the last days of the Raiders' Black Hole fan section; the ratings adjusters behind Madden NFL; twins Jason and Devon McCourty.(n)</desc>
+  </programme>
+  <programme start="20200703000000 -0700" stop="20200703010000 -0700" channel="ESPNEWS">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  </programme>
+  <programme start="20200703010000 -0700" stop="20200703020000 -0700" channel="ESPNEWS">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200703020000 -0700" stop="20200703030000 -0700" channel="ESPNEWS">
+    <title lang="en">SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his ``One Big Thing'' commentary.(n)</desc>
+  </programme>
+  <programme start="20200703030000 -0700" stop="20200703070000 -0700" channel="ESPNEWS">
+    <title lang="en">Golic &amp; Wingo</title>
+    <desc lang="en">"Golic &amp; Wingo" is a one-stop-morning-shop for the biggest sports stories of the day -- delivered with insight, expert analysis and unrivaled access. From sports to pop culture to entertainment and more. Every day.(n)</desc>
+  </programme>
+  <programme start="20200703070000 -0700" stop="20200703100000 -0700" channel="ESPNEWS">
+    <title lang="en">The Dan Le Batard Show With Stugotz</title>
+    <desc lang="en">Dan Le Batard discusses top stories in sports.(n)</desc>
+  </programme>
+  <programme start="20200703100000 -0700" stop="20200703120000 -0700" channel="ESPNEWS">
+    <title lang="en">First Take, Your Take</title>
+    <desc lang="en">The best of Stephen A. Smith's sports takes and debates with Max Kellerman. Fans get a chance to call-in and interact with Jason Fitz as he advances the topics debated on that day's broadcast.(n)</desc>
+  </programme>
+  <programme start="20200703120000 -0700" stop="20200703150000 -0700" channel="ESPNEWS">
+    <title lang="en">ESPN Radio Afternoons</title>
+    <desc lang="en">Covering the sports news of the day in an entertaining and informative way. Featuring the top analysts and experts in their field.(n)</desc>
+  </programme>
+  <programme start="20200703150000 -0700" stop="20200703160000 -0700" channel="ESPNEWS">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  </programme>
+  <programme start="20200703160000 -0700" stop="20200703162000 -0700" channel="ESPNEWS">
+    <title lang="en">Jalen &amp; Jacoby</title>
+    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  </programme>
+  <programme start="20200703162000 -0700" stop="20200703164000 -0700" channel="ESPNEWS">
+    <title lang="en">Highly Questionable</title>
+    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  </programme>
+  <programme start="20200703164000 -0700" stop="20200703170000 -0700" channel="ESPNEWS">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  </programme>
+  <programme start="20200703170000 -0700" stop="20200703180000 -0700" channel="ESPNEWS">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  </programme>
+  <programme start="20200703180000 -0700" stop="20200703190000 -0700" channel="ESPNEWS">
+    <title lang="en">E:60</title>
+    <sub-title lang="en">Pro Football Stories</sub-title>
+    <desc lang="en">DeAndre Hopkins on his bond with his mother, who lost her eyesight in a horrific attack; inside the last days of the Raiders' Black Hole fan section; the ratings adjusters behind Madden NFL; twins Jason and Devon McCourty.(n)</desc>
+  </programme>
+  <programme start="20200703190000 -0700" stop="20200703200000 -0700" channel="ESPNEWS">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  </programme>
+  <programme start="20200703200000 -0700" stop="20200703202000 -0700" channel="ESPNEWS">
+    <title lang="en">Jalen &amp; Jacoby</title>
+    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
+  </programme>
+  <programme start="20200703202000 -0700" stop="20200703204000 -0700" channel="ESPNEWS">
+    <title lang="en">Highly Questionable</title>
+    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
+  </programme>
+  <programme start="20200703204000 -0700" stop="20200703210000 -0700" channel="ESPNEWS">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
+  </programme>
+  <programme start="20200703210000 -0700" stop="20200704000000 -0700" channel="ESPNEWS">
+    <title lang="en">UFC 245: Usman vs. Covington</title>
+    <desc lang="en">Amanda Nunes vs. Germaine de Randamie, women's bantamweight title bout; Max Holloway vs. Alexander Volkanovski, featherweight title bout; Kamaru Usman vs. Colby Covington, welterweight title bout. From Las Vegas.(n)</desc>
   </programme>
 </tv>
