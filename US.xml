@@ -3,53 +3,58 @@
   <channel id="ESPNU">
     <display-name lang="en">ESPNU</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPNU.svg" />
-    <url>http://www.streamingtvguides.com.E</url>
+    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="ESPN">
     <display-name lang="en">ESPN</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPN.svg" />
-    <url>http://www.streamingtvguides.com.E</url>
+    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="ESPN2">
     <display-name lang="en">ESPN2</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPN2.svg" />
-    <url>http://www.streamingtvguides.com.E</url>
+    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="ESPN Deportes">
     <display-name lang="en">ESPN Deportes</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPND.svg" />
-    <url>http://www.streamingtvguides.com.E</url>
+    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="ESPNEWS">
     <display-name lang="en">ESPNEWS</display-name>
     <icon src="https://streamingtvguides.com/img/s/ESPNEWS.svg" />
-    <url>http://www.streamingtvguides.com.E</url>
+    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="NFL NETWORK">
     <display-name lang="en">NFL NETWORK</display-name>
     <icon src="https://streamingtvguides.com/img/s/NFLNET.svg" />
-    <url>http://www.streamingtvguides.com.E</url>
+    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="NBA TV">
     <display-name lang="en">NBA TV</display-name>
     <icon src="https://streamingtvguides.com/img/s/NBATV.svg" />
-    <url>http://www.streamingtvguides.com.E</url>
+    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="Tennis Channel">
     <display-name lang="en">Tennis Channel</display-name>
     <icon src="https://streamingtvguides.com/img/s/TENNIS.svg" />
-    <url>http://www.streamingtvguides.com.E</url>
+    <url>http://www.streamingtvguides.com</url>
   </channel>
-  <programme start="20200707150000 -0700" stop="20200707170000 -0700" channel="ESPNU">
-    <title lang="en">Women's College Basketball</title>
-    <sub-title lang="en">2013: Notre Dame at Tennessee</sub-title>
-    <desc lang="en">From Jan. 28, 2013.(n)</desc>
-  </programme>
-  <programme start="20200707170000 -0700" stop="20200707190000 -0700" channel="ESPNU">
-    <title lang="en">Women's College Basketball</title>
-    <sub-title lang="en">2012 NCAA Final, Baylor vs. Notre Dame</sub-title>
-    <desc lang="en">From April 3, 2012.(n)</desc>
-  </programme>
+  <channel id="Fox Sports 1">
+    <display-name lang="en">Fox Sports 1</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FS1.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="en">Fox Sports 2</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FS2.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="Fox Deportes">
+    <display-name lang="en">Fox Deportes</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FXDEP.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
   <programme start="20200707190000 -0700" stop="20200707210000 -0700" channel="ESPNU">
     <title lang="en">Women's College Basketball</title>
     <sub-title lang="en">2003: Georgetown vs. Connecticut</sub-title>
@@ -184,19 +189,6 @@
     <title lang="en">College Football</title>
     <sub-title lang="en">2005 Rose Bowl: Texas vs. Michigan</sub-title>
     <desc lang="en">From Jan. 1, 2005.(n)</desc>
-  </programme>
-  <programme start="20200707150000 -0700" stop="20200707160000 -0700" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
-  </programme>
-  <programme start="20200707160000 -0700" stop="20200707170000 -0700" channel="ESPN">
-    <title lang="en">E:60</title>
-    <desc lang="en">ESPN's morning sports magazine show, featuring the biggest names and stories in sports.(n)</desc>
-  </programme>
-  <programme start="20200707170000 -0700" stop="20200707200000 -0700" channel="ESPN">
-    <title lang="en">Boxing</title>
-    <sub-title lang="en">Ivan Baranchyk vs. Jose Zepeda</sub-title>
-    <desc lang="en">From MGM Grand Conference Center in Las Vegas.(n)</desc>
   </programme>
   <programme start="20200707200000 -0700" stop="20200707210000 -0700" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -362,33 +354,10 @@
     <sub-title lang="en">Carlos Takam vs. Jerry Forrest</sub-title>
     <desc lang="en">From MGM Grand Conference Center in Las Vegas.(n)</desc>
   </programme>
-  <programme start="20200707150000 -0700" stop="20200707152000 -0700" channel="ESPN2">
-    <title lang="en">Jalen &amp; Jacoby</title>
-    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
-  </programme>
-  <programme start="20200707152000 -0700" stop="20200707154000 -0700" channel="ESPN2">
-    <title lang="en">Highly Questionable</title>
-    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
-  </programme>
-  <programme start="20200707154000 -0700" stop="20200707160000 -0700" channel="ESPN2">
-    <title lang="en">Around the Horn</title>
-    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
-  </programme>
-  <programme start="20200707160000 -0700" stop="20200707163000 -0700" channel="ESPN2">
-    <title lang="en">NBA: The Jump</title>
-    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
-  </programme>
-  <programme start="20200707163000 -0700" stop="20200707170000 -0700" channel="ESPN2">
-    <title lang="en">Max on Boxing</title>
-    <desc lang="en">A weekly boxing show with analyst Max Kellerman.(n)</desc>
-  </programme>
-  <programme start="20200707170000 -0700" stop="20200707200000 -0700" channel="ESPN2">
-    <title lang="en">Eagles: Live From The Forum MMXVIII</title>
-    <desc lang="en">Highlights of the Eagles' three sold-out concerts from the Forum in Los Angeles in 2018. Presented by longtime Eagles fan Chris Berman.(n)</desc>
-  </programme>
   <programme start="20200707200000 -0700" stop="20200707210000 -0700" channel="ESPN2">
-    <title lang="en">UFC 251 Countdown: Usman vs. Burns</title>
-    <desc lang="en">Go inside the lives and training camps of UFC athletes preparing for the next UFC pay-per-view event.(n)</desc>
+    <title lang="en">E:60</title>
+    <sub-title lang="en">Pro Football Stories</sub-title>
+    <desc lang="en">DeAndre Hopkins on his bond with his mother, who lost her eyesight in a horrific attack; inside the last days of the Raiders' Black Hole fan section; the ratings adjusters behind Madden NFL; twins Jason and Devon McCourty.(n)</desc>
   </programme>
   <programme start="20200707210000 -0700" stop="20200707230000 -0700" channel="ESPN2">
     <title lang="en">Johnsonville ACL Cornhole Championships</title>
@@ -458,9 +427,8 @@
     <sub-title lang="en">Week 9, Day 2</sub-title>
   </programme>
   <programme start="20200708200000 -0700" stop="20200708210000 -0700" channel="ESPN2">
-    <title lang="en">E:60</title>
-    <sub-title lang="en">Pro Football Stories</sub-title>
-    <desc lang="en">DeAndre Hopkins on his bond with his mother, who lost her eyesight in a horrific attack; inside the last days of the Raiders' Black Hole fan section; the ratings adjusters behind Madden NFL; twins Jason and Devon McCourty.(n)</desc>
+    <title lang="en">UFC 251 Countdown: Usman vs. Burns</title>
+    <desc lang="en">Go inside the lives and training camps of UFC athletes preparing for the next UFC pay-per-view event.(n)</desc>
   </programme>
   <programme start="20200708210000 -0700" stop="20200708230000 -0700" channel="ESPN2">
     <title lang="en">Johnsonville ACL Cornhole Championships</title>
@@ -559,48 +527,31 @@
     <desc lang="en">Amanda Nunes vs. Germaine de Randamie, women's bantamweight title bout; Max Holloway vs. Alexander Volkanovski, featherweight title bout; Kamaru Usman vs. Colby Covington, welterweight title bout. From Las Vegas.(n)</desc>
   </programme>
   <programme start="20200709200000 -0700" stop="20200709203000 -0700" channel="ESPN2">
-    <title lang="en">NBA: The Jump</title>
-    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
-  </programme>
-  <programme start="20200709203000 -0700" stop="20200709210000 -0700" channel="ESPN2">
     <title lang="en">UFC Fight Flashback</title>
     <sub-title lang="en">Aldo vs. Mendes 2</sub-title>
     <desc lang="en">A look back at UFC 179 featuring Jose Aldo taking on Chad Mendes.(n)</desc>
+  </programme>
+  <programme start="20200709203000 -0700" stop="20200709210000 -0700" channel="ESPN2">
+    <title lang="en">UFC Fight Flashback</title>
+    <sub-title lang="en">Holloway vs. Aldo 2</sub-title>
+    <desc lang="en">Max Holloway takes on José Aldo in a UFC Featherweight Championship bout. From Dec. 2, 2017.(n)</desc>
   </programme>
   <programme start="20200709210000 -0700" stop="20200709213000 -0700" channel="ESPN2">
     <title lang="en">UFC Fight Flashback</title>
     <sub-title lang="en">Holloway vs. Ortega</sub-title>
   </programme>
-  <programme start="20200709213000 -0700" stop="20200709220000 -0700" channel="ESPN2">
-    <title lang="en">UFC Fight Flashback</title>
-    <sub-title lang="en">Holloway vs. Aldo 2</sub-title>
-    <desc lang="en">Max Holloway takes on José Aldo in a UFC Featherweight Championship bout. From Dec. 2, 2017.(n)</desc>
-  </programme>
-  <programme start="20200709220000 -0700" stop="20200709230000 -0700" channel="ESPN2">
+  <programme start="20200709213000 -0700" stop="20200709223000 -0700" channel="ESPN2">
     <title lang="en">UFC Unleashed</title>
     <sub-title lang="en">Namajunas vs. Andrade</sub-title>
     <desc lang="en">Three fights from some of the top talent the UFC has to offer. Featuring Romero vs. Costa, Barboza vs. Felder 2, and Namajunas vs. Andrade.(n)</desc>
   </programme>
+  <programme start="20200709223000 -0700" stop="20200709230000 -0700" channel="ESPN2">
+    <title lang="en">NBA: The Jump</title>
+    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
+  </programme>
   <programme start="20200709230000 -0700" stop="20200710000000 -0700" channel="ESPN2">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.(n)</desc>
-  </programme>
-  <programme start="20200707130000 -0700" stop="20200707160000 -0700" channel="ESPN Deportes">
-    <title lang="en">Jorge Ramos y su banda</title>
-    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
-  </programme>
-  <programme start="20200707160000 -0700" stop="20200707163000 -0700" channel="ESPN Deportes">
-    <title lang="en">Cronómetro</title>
-    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
-  </programme>
-  <programme start="20200707163000 -0700" stop="20200707170000 -0700" channel="ESPN Deportes">
-    <title lang="en">Ahora o nunca</title>
-    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
-  </programme>
-  <programme start="20200707170000 -0700" stop="20200707200000 -0700" channel="ESPN Deportes">
-    <title lang="en">Boxeo</title>
-    <sub-title lang="en">Ivan Baranchyk vs. Jose Zepeda</sub-title>
-    <desc lang="en">Desde el MGM Grand Conference Center en Las Vegas.(n)</desc>
   </programme>
   <programme start="20200707200000 -0700" stop="20200707210000 -0700" channel="ESPN Deportes">
     <title lang="en">The Undefeated Presents</title>
@@ -752,35 +703,6 @@
     <title lang="en">Jorge Ramos y su banda</title>
     <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
   </programme>
-  <programme start="20200707150000 -0700" stop="20200707153000 -0700" channel="ESPNEWS">
-    <title lang="en">NBA: The Jump</title>
-    <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
-  </programme>
-  <programme start="20200707153000 -0700" stop="20200707160000 -0700" channel="ESPNEWS">
-    <title lang="en">Max on Boxing</title>
-    <desc lang="en">A weekly boxing show with analyst Max Kellerman.(n)</desc>
-  </programme>
-  <programme start="20200707160000 -0700" stop="20200707162000 -0700" channel="ESPNEWS">
-    <title lang="en">Jalen &amp; Jacoby</title>
-    <desc lang="en">Jalen Rose and David Jacoby give the people what they want, breaking down the latest in sports and pop culture as only they can.(n)</desc>
-  </programme>
-  <programme start="20200707162000 -0700" stop="20200707164000 -0700" channel="ESPNEWS">
-    <title lang="en">Highly Questionable</title>
-    <desc lang="en">Sportswriter and radio host Dan Le Batard and others give their takes on sports issues in the news.(n)</desc>
-  </programme>
-  <programme start="20200707164000 -0700" stop="20200707170000 -0700" channel="ESPNEWS">
-    <title lang="en">Around the Horn</title>
-    <desc lang="en">Sportswriters around the country discuss sports issues.(n)</desc>
-  </programme>
-  <programme start="20200707170000 -0700" stop="20200707180000 -0700" channel="ESPNEWS">
-    <title lang="en">Backstory</title>
-    <sub-title lang="en">The Decision</sub-title>
-    <desc lang="en">In July 2010, ESPN aired ``The Decision,'' a live primetime special in which LeBron James, the biggest NBA free agent ever, announced he was leaving Cleveland for Miami. The criticism was massive. Don Van Natta Jr. explores the far-reaching impact.(n)</desc>
-  </programme>
-  <programme start="20200707180000 -0700" stop="20200707190000 -0700" channel="ESPNEWS">
-    <title lang="en">UFC 251 Countdown: Usman vs. Burns</title>
-    <desc lang="en">Go inside the lives and training camps of UFC athletes preparing for the next UFC pay-per-view event.(n)</desc>
-  </programme>
   <programme start="20200707190000 -0700" stop="20200707193000 -0700" channel="ESPNEWS">
     <title lang="en">NBA: The Jump</title>
     <desc lang="en">Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.(n)</desc>
@@ -861,8 +783,7 @@
   </programme>
   <programme start="20200708150000 -0700" stop="20200708160000 -0700" channel="ESPNEWS">
     <title lang="en">E:60</title>
-    <sub-title lang="en">Alex Smith - Project 11</sub-title>
-    <desc lang="en">An exclusive look inside Washington QB Alex Smith's recovery from a 2018 leg injury that nearly cost him his life. Smith opens up about battling flesh-eating bacteria, limb salvage measures, and what it was like to finally throw a football again.(n)</desc>
+    <desc lang="en">ESPN's morning sports magazine show, featuring the biggest names and stories in sports.(n)</desc>
   </programme>
   <programme start="20200708160000 -0700" stop="20200708170000 -0700" channel="ESPNEWS">
     <title lang="en">E:60</title>
@@ -917,9 +838,8 @@
     <desc lang="en">A look back at Coco Gauff's win over Venus Williams at Wimbledon last year, and what she's been up to in 2020.(n)</desc>
   </programme>
   <programme start="20200709020000 -0700" stop="20200709030000 -0700" channel="ESPNEWS">
-    <title lang="en">Backstory</title>
-    <sub-title lang="en">The Decision</sub-title>
-    <desc lang="en">In July 2010, ESPN aired ``The Decision,'' a live primetime special in which LeBron James, the biggest NBA free agent ever, announced he was leaving Cleveland for Miami. The criticism was massive. Don Van Natta Jr. explores the far-reaching impact.(n)</desc>
+    <title lang="en">E:60</title>
+    <desc lang="en">ESPN's morning sports magazine show, featuring the biggest names and stories in sports.(n)</desc>
   </programme>
   <programme start="20200709030000 -0700" stop="20200709070000 -0700" channel="ESPNEWS">
     <title lang="en">Golic &amp; Wingo</title>
@@ -993,19 +913,6 @@
   <programme start="20200709230000 -0700" stop="20200710000000 -0700" channel="ESPNEWS">
     <title lang="en">Red Bull Homestretch</title>
     <desc lang="en">Virtual motorsport racing that puts real-world drivers from different disciplines, including rallycross, rally, motocross, IndyCar and more to go against individuals with no real-world race experience.(n)</desc>
-  </programme>
-  <programme start="20200707150000 -0700" stop="20200707160000 -0700" channel="NFL NETWORK">
-    <title lang="en">NFL Replay</title>
-    <sub-title lang="en">2018 Week 15: Los Angeles Chargers vs. Kansas City Chiefs</sub-title>
-    <desc lang="en">From Dec. 13, 2018.(n)</desc>
-  </programme>
-  <programme start="20200707160000 -0700" stop="20200707170000 -0700" channel="NFL NETWORK">
-    <title lang="en">NFL Total Access</title>
-    <desc lang="en">NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.(n)</desc>
-  </programme>
-  <programme start="20200707170000 -0700" stop="20200707180000 -0700" channel="NFL NETWORK">
-    <title lang="en">NFL Replay</title>
-    <sub-title lang="en">2016 Week 7: San Diego Chargers vs. Atlanta Falcons</sub-title>
   </programme>
   <programme start="20200707180000 -0700" stop="20200707203000 -0700" channel="NFL NETWORK">
     <title lang="en">NFL Football</title>
@@ -1165,10 +1072,12 @@
   <programme start="20200709150000 -0700" stop="20200709153000 -0700" channel="NFL NETWORK">
     <title lang="en">Move the Sticks: 360</title>
     <sub-title lang="en">Joe Burrow</sub-title>
+    <desc lang="en">Daniel Jeremiah and Bucky Brooks provide a complete composite, which highlights Bengals quarterback Joe Burrow, through interviews with his family, teammates, and people closest to him.(n)</desc>
   </programme>
   <programme start="20200709153000 -0700" stop="20200709160000 -0700" channel="NFL NETWORK">
     <title lang="en">Move the Sticks: 360</title>
     <sub-title lang="en">Tua Tagovailoa</sub-title>
+    <desc lang="en">Daniel Jeremiah and Bucky Brooks provide a complete composite, which highlights Dolphins quarterback Tua Tagovailoa, through interviews with his family, teammates, and people closest to him.(n)</desc>
   </programme>
   <programme start="20200709160000 -0700" stop="20200709170000 -0700" channel="NFL NETWORK">
     <title lang="en">NFL Total Access</title>
@@ -1197,27 +1106,6 @@
     <title lang="en">College Football</title>
     <sub-title lang="en">2019 Black College Football Hall of Fame Classic: Alabama A&amp;M vs. Morehouse</sub-title>
     <desc lang="en">From Sept. 1, 2019 at Tom Benson Hall of Fame Stadium in Canton, Ohio.(n)</desc>
-  </programme>
-  <programme start="20200707150000 -0700" stop="20200707170000 -0700" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <sub-title lang="en">Los Angeles Clippers at Boston Celtics</sub-title>
-    <desc lang="en">Jayson Tatum has 39 points and the Boston Celtics pull away from the Los Angeles Clippers in the second overtime to win 141-133. From Feb. 12, 2020.(n)</desc>
-  </programme>
-  <programme start="20200707170000 -0700" stop="20200707173000 -0700" channel="NBA TV">
-    <title lang="en">Clippers Restart</title>
-    <desc lang="en">A look back at the first part of the season for Kawhi Leonard and the Los Angeles Clippers as they prepare for the restart of the 2019-20 campaign.(n)</desc>
-  </programme>
-  <programme start="20200707173000 -0700" stop="20200707180000 -0700" channel="NBA TV">
-    <title lang="en">High Tops: Vince Carter's Best Plays</title>
-    <desc lang="en">Half-Man/Half-Amazing, highlights of Vinsanity's best plays.(n)</desc>
-  </programme>
-  <programme start="20200707180000 -0700" stop="20200707183000 -0700" channel="NBA TV">
-    <title lang="en">Celtics Restart</title>
-    <desc lang="en">A look back at the first part of the season for Kemba Walker and the Boston Celtics as they prepare for the restart of the 2019-20 campaign.(n)</desc>
-  </programme>
-  <programme start="20200707183000 -0700" stop="20200707190000 -0700" channel="NBA TV">
-    <title lang="en">Celtics Restart</title>
-    <desc lang="en">A look back at the first part of the season for Kemba Walker and the Boston Celtics as they prepare for the restart of the 2019-20 campaign.(n)</desc>
   </programme>
   <programme start="20200707190000 -0700" stop="20200707200000 -0700" channel="NBA TV">
     <title lang="en">NBA on TNT</title>
@@ -1316,9 +1204,14 @@
     <sub-title lang="en">Philadelphia 76ers at Houston Rockets</sub-title>
     <desc lang="en">Ben Simmons leads Philadelphia with 29 points, 13 rebounds, 11 assists and four blocks but it wasn't enough as James Harden's 44 points, 11 rebounds and 11 assists propel the Houston Rockets to a 118-108 win over the 76ers. From Jan. 3, 2020.(n)</desc>
   </programme>
-  <programme start="20200708170000 -0700" stop="20200708180000 -0700" channel="NBA TV">
+  <programme start="20200708170000 -0700" stop="20200708173000 -0700" channel="NBA TV">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20200708173000 -0700" stop="20200708180000 -0700" channel="NBA TV">
+    <title lang="en">#NBATogether With Ernie Johnson</title>
+    <sub-title lang="en">Vince Carter</sub-title>
+    <desc lang="en">Vince Carter joins TNT's Inside the NBA host Ernie Johnson.(n)</desc>
   </programme>
   <programme start="20200708180000 -0700" stop="20200708183000 -0700" channel="NBA TV">
     <title lang="en">Rockets Restart</title>
@@ -1333,18 +1226,28 @@
     <title lang="en">Rockets Restart</title>
     <desc lang="en">A look back at the first part of the season for James Harden and the Houston Rockets as they prepare for the restart of the 2019-20 campaign.(n)</desc>
   </programme>
-  <programme start="20200708210000 -0700" stop="20200708220000 -0700" channel="NBA TV">
+  <programme start="20200708210000 -0700" stop="20200708213000 -0700" channel="NBA TV">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20200708213000 -0700" stop="20200708220000 -0700" channel="NBA TV">
+    <title lang="en">#NBATogether With Ernie Johnson</title>
+    <sub-title lang="en">Vince Carter</sub-title>
+    <desc lang="en">Vince Carter joins TNT's Inside the NBA host Ernie Johnson.(n)</desc>
   </programme>
   <programme start="20200708220000 -0700" stop="20200709000000 -0700" channel="NBA TV">
     <title lang="en">NBA TV Marquee Matchup</title>
     <sub-title lang="en">Houston Rockets at Washington Wizards</sub-title>
     <desc lang="en">James Harden needs every one of his 59 points against the Washington Wizards. Harden makes one of two free throws with 2.4 seconds left to give the Houston Rockets a 159-158 victory over Washington. From Oct. 30, 2019.(n)</desc>
   </programme>
-  <programme start="20200709000000 -0700" stop="20200709010000 -0700" channel="NBA TV">
+  <programme start="20200709000000 -0700" stop="20200709003000 -0700" channel="NBA TV">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20200709003000 -0700" stop="20200709010000 -0700" channel="NBA TV">
+    <title lang="en">#NBATogether With Ernie Johnson</title>
+    <sub-title lang="en">Vince Carter</sub-title>
+    <desc lang="en">Vince Carter joins TNT's Inside the NBA host Ernie Johnson.(n)</desc>
   </programme>
   <programme start="20200709010000 -0700" stop="20200709013000 -0700" channel="NBA TV">
     <title lang="en">Rockets Restart</title>
@@ -1362,9 +1265,14 @@
     <title lang="en">Clippers Restart</title>
     <desc lang="en">A look back at the first part of the season for Kawhi Leonard and the Los Angeles Clippers as they prepare for the restart of the 2019-20 campaign.(n)</desc>
   </programme>
-  <programme start="20200709030000 -0700" stop="20200709040000 -0700" channel="NBA TV">
+  <programme start="20200709030000 -0700" stop="20200709033000 -0700" channel="NBA TV">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20200709033000 -0700" stop="20200709040000 -0700" channel="NBA TV">
+    <title lang="en">#NBATogether With Ernie Johnson</title>
+    <sub-title lang="en">Vince Carter</sub-title>
+    <desc lang="en">Vince Carter joins TNT's Inside the NBA host Ernie Johnson.(n)</desc>
   </programme>
   <programme start="20200709040000 -0700" stop="20200709043000 -0700" channel="NBA TV">
     <title lang="en">Bucks Restart</title>
@@ -1374,9 +1282,14 @@
     <title lang="en">Lakers Restart</title>
     <desc lang="en">A look back at the first part of the season for LeBron James and the Los Angeles Lakers as they prepare for the restart of the 2019-20 campaign.(n)</desc>
   </programme>
-  <programme start="20200709050000 -0700" stop="20200709060000 -0700" channel="NBA TV">
+  <programme start="20200709050000 -0700" stop="20200709053000 -0700" channel="NBA TV">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20200709053000 -0700" stop="20200709060000 -0700" channel="NBA TV">
+    <title lang="en">#NBATogether With Ernie Johnson</title>
+    <sub-title lang="en">Vince Carter</sub-title>
+    <desc lang="en">Vince Carter joins TNT's Inside the NBA host Ernie Johnson.(n)</desc>
   </programme>
   <programme start="20200709060000 -0700" stop="20200709063000 -0700" channel="NBA TV">
     <title lang="en">Rockets Restart</title>
@@ -1386,9 +1299,14 @@
     <title lang="en">Celtics Restart</title>
     <desc lang="en">A look back at the first part of the season for Kemba Walker and the Boston Celtics as they prepare for the restart of the 2019-20 campaign.(n)</desc>
   </programme>
-  <programme start="20200709070000 -0700" stop="20200709080000 -0700" channel="NBA TV">
+  <programme start="20200709070000 -0700" stop="20200709073000 -0700" channel="NBA TV">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20200709073000 -0700" stop="20200709080000 -0700" channel="NBA TV">
+    <title lang="en">#NBATogether With Ernie Johnson</title>
+    <sub-title lang="en">Vince Carter</sub-title>
+    <desc lang="en">Vince Carter joins TNT's Inside the NBA host Ernie Johnson.(n)</desc>
   </programme>
   <programme start="20200709080000 -0700" stop="20200709100000 -0700" channel="NBA TV">
     <title lang="en">NBA TV Marquee Matchup</title>
@@ -1442,6 +1360,8 @@
   </programme>
   <programme start="20200709183000 -0700" stop="20200709190000 -0700" channel="NBA TV">
     <title lang="en">1-on-1 with Caron Butler</title>
+    <sub-title lang="en">Natasha Cloud and Shareef Abdur-Rahim</sub-title>
+    <desc lang="en">Natasha Cloud and Shareef Abdur-Rahim join NBA Champion and Vera Institute of Justice board member Caron Butler.(n)</desc>
   </programme>
   <programme start="20200709190000 -0700" stop="20200709200000 -0700" channel="NBA TV">
     <title lang="en">Inside the NBA</title>
@@ -1463,16 +1383,6 @@
   <programme start="20200709233000 -0700" stop="20200710000000 -0700" channel="NBA TV">
     <title lang="en">76ers Restart</title>
     <desc lang="en">A look back at the first part of the season for Joel Embiid and the Philadelphia 76ers as they prepare for the restart of the 2019-20 campaign.(n)</desc>
-  </programme>
-  <programme start="20200707143000 -0700" stop="20200707170000 -0700" channel="Tennis Channel">
-    <title lang="en">Wimbledon Encore</title>
-    <sub-title lang="en">2012 Wimbledon Ladies' Singles Final</sub-title>
-    <desc lang="en">Serena Williams vs. Agnieszka Radwanska.(n)</desc>
-  </programme>
-  <programme start="20200707170000 -0700" stop="20200707213000 -0700" channel="Tennis Channel">
-    <title lang="en">Wimbledon Encore</title>
-    <sub-title lang="en">2000 Gentlemen's Singles Championship</sub-title>
-    <desc lang="en">Pete Sampras vs. Pat Rafter.(n)</desc>
   </programme>
   <programme start="20200707213000 -0700" stop="20200708010000 -0700" channel="Tennis Channel">
     <title lang="en">Wimbledon Encore</title>
@@ -1561,5 +1471,546 @@
   <programme start="20200709233000 -0700" stop="20200710013000 -0700" channel="Tennis Channel">
     <title lang="en">Wimbledon Encore</title>
     <sub-title lang="en">2016 Ladies' Singles Championship: Serena Williams vs. Angelique Kerber</sub-title>
+  </programme>
+  <programme start="20200707200000 -0700" stop="20200708000000 -0700" channel="Fox Sports 1">
+    <title lang="en">WWE Royal Rumble</title>
+    <desc lang="en">The 30th annual Royal Rumble match; WWE Universal Champion Kevin Owens vs. Roman Reigns; WWE Champion AJ Styles vs. John Cena; RAW Women's Champion Charlotte Flair vs. Bayley; WWE Cruiserweight Champion Rich Swann vs. Neville. From San Antonio.(n)</desc>
+  </programme>
+  <programme start="20200708000000 -0700" stop="20200708003000 -0700" channel="Fox Sports 1">
+    <title lang="en">TMZ Sports</title>
+    <desc lang="en">Gossip and exclusive stories about athletes' personal lives.(n)</desc>
+  </programme>
+  <programme start="20200708003000 -0700" stop="20200708023000 -0700" channel="Fox Sports 1">
+    <title lang="en">Skip and Shannon: Undisputed</title>
+  </programme>
+  <programme start="20200708023000 -0700" stop="20200708030000 -0700" channel="Fox Sports 1">
+    <title lang="en">FOX Sports the Home Game</title>
+    <sub-title lang="en">John Smoltz and Kevin Youkilis</sub-title>
+    <desc lang="en">Hall of Famer John Smoltz faces off against his former Boston Red Sox teammate, two-time World Series champion Kevin Youkilis to see who knows more about sports and pop culture trivia. Hosted by Chris Myers.(n)</desc>
+  </programme>
+  <programme start="20200708030000 -0700" stop="20200708050000 -0700" channel="Fox Sports 1">
+    <title lang="en">Skip and Shannon: Undisputed</title>
+  </programme>
+  <programme start="20200708050000 -0700" stop="20200708053000 -0700" channel="Fox Sports 1">
+    <title lang="en">TMZ Sports</title>
+    <desc lang="en">Gossip and exclusive stories about athletes' personal lives.(n)</desc>
+  </programme>
+  <programme start="20200708053000 -0700" stop="20200708063000 -0700" channel="Fox Sports 1">
+    <title lang="en">First Things First</title>
+  </programme>
+  <programme start="20200708063000 -0700" stop="20200708090000 -0700" channel="Fox Sports 1">
+    <title lang="en">Skip and Shannon: Undisputed</title>
+  </programme>
+  <programme start="20200708090000 -0700" stop="20200708120000 -0700" channel="Fox Sports 1">
+    <title lang="en">The Herd with Colin Cowherd</title>
+  </programme>
+  <programme start="20200708120000 -0700" stop="20200708130000 -0700" channel="Fox Sports 1">
+    <title lang="en">Speak for Yourself</title>
+  </programme>
+  <programme start="20200708130000 -0700" stop="20200708150000 -0700" channel="Fox Sports 1">
+    <title lang="en">Skip and Shannon: Undisputed</title>
+  </programme>
+  <programme start="20200708150000 -0700" stop="20200708160000 -0700" channel="Fox Sports 1">
+    <title lang="en">NASCAR Race Hub</title>
+  </programme>
+  <programme start="20200708160000 -0700" stop="20200708190000 -0700" channel="Fox Sports 1">
+    <title lang="en">Greatest Races</title>
+    <sub-title lang="en">2018: NHRA Atlanta</sub-title>
+    <desc lang="en">From May 6, 2018.(n)</desc>
+  </programme>
+  <programme start="20200708190000 -0700" stop="20200708220000 -0700" channel="Fox Sports 1">
+    <title lang="en">Greatest Races: NASCAR</title>
+    <sub-title lang="en">2018: NHRA Las Vegas</sub-title>
+    <desc lang="en">From April 8, 2018.(n)</desc>
+  </programme>
+  <programme start="20200708220000 -0700" stop="20200708223000 -0700" channel="Fox Sports 1">
+    <title lang="en">TMZ Sports</title>
+    <desc lang="en">Gossip and exclusive stories about athletes' personal lives.(n)</desc>
+  </programme>
+  <programme start="20200708223000 -0700" stop="20200709003000 -0700" channel="Fox Sports 1">
+    <title lang="en">Skip and Shannon: Undisputed</title>
+  </programme>
+  <programme start="20200709003000 -0700" stop="20200709013000 -0700" channel="Fox Sports 1">
+    <title lang="en">Red Bull Signature Series</title>
+    <sub-title lang="en">Best of Hare Scramble</sub-title>
+    <desc lang="en">Highlights from the most famous off-road motorcycle race in the world: Erzbergrodeo Red Bull Hare Scramble.(n)</desc>
+  </programme>
+  <programme start="20200709013000 -0700" stop="20200709023000 -0700" channel="Fox Sports 1">
+    <title lang="en">Red Bull Soapbox</title>
+    <sub-title lang="en">2018: Johannesburg</sub-title>
+  </programme>
+  <programme start="20200709023000 -0700" stop="20200709050000 -0700" channel="Fox Sports 1">
+    <title lang="en">NRL Rugby</title>
+    <sub-title lang="en">North Queensland Cowboys vs. Sydney Roosters</sub-title>
+    <desc lang="en">From Queensland Country Bank Stadium in Townsville, Queensland, Australia.(n)</desc>
+  </programme>
+  <programme start="20200709050000 -0700" stop="20200709053000 -0700" channel="Fox Sports 1">
+    <title lang="en">TMZ Sports</title>
+    <desc lang="en">Gossip and exclusive stories about athletes' personal lives.(n)</desc>
+  </programme>
+  <programme start="20200709053000 -0700" stop="20200709063000 -0700" channel="Fox Sports 1">
+    <title lang="en">First Things First</title>
+  </programme>
+  <programme start="20200709063000 -0700" stop="20200709090000 -0700" channel="Fox Sports 1">
+    <title lang="en">Skip and Shannon: Undisputed</title>
+  </programme>
+  <programme start="20200709090000 -0700" stop="20200709120000 -0700" channel="Fox Sports 1">
+    <title lang="en">The Herd with Colin Cowherd</title>
+  </programme>
+  <programme start="20200709120000 -0700" stop="20200709130000 -0700" channel="Fox Sports 1">
+    <title lang="en">Speak for Yourself</title>
+  </programme>
+  <programme start="20200709130000 -0700" stop="20200709150000 -0700" channel="Fox Sports 1">
+    <title lang="en">Skip and Shannon: Undisputed</title>
+  </programme>
+  <programme start="20200709150000 -0700" stop="20200709160000 -0700" channel="Fox Sports 1">
+    <title lang="en">Unrivaled: Earnhardt vs. Gordon</title>
+    <desc lang="en">Exploring the relationship between racing legends Dale Earnhardt and Jeff Gordon on and off the track. A look behind the public facade to highlight the unpredictable intersection of their lives and personalities and their impacts on NASCAR.(n)</desc>
+  </programme>
+  <programme start="20200709160000 -0700" stop="20200709170000 -0700" channel="Fox Sports 1">
+    <title lang="en">NASCAR Race Hub</title>
+  </programme>
+  <programme start="20200709170000 -0700" stop="20200709190000 -0700" channel="Fox Sports 1">
+    <title lang="en">NASCAR Xfinity Racing Series</title>
+    <sub-title lang="en">Shady Rays 200</sub-title>
+    <desc lang="en">NASCAR Xfinity Series drivers get set for the first of two races in as many days at Kentucky Speedway with the Shady Rays 200. Chase Briscoe, who leads the Xfinity Series in victories in 2020, posted a top-five finish at Kentucky last season.(n)</desc>
+  </programme>
+  <programme start="20200709190000 -0700" stop="20200709210000 -0700" channel="Fox Sports 1">
+    <title lang="en">NASCAR Xfinity Racing Series</title>
+    <sub-title lang="en">Shady Rays 200</sub-title>
+    <desc lang="en">NASCAR Xfinity Series drivers get set for the first of two races in as many days at Kentucky Speedway with the Shady Rays 200. Chase Briscoe, who leads the Xfinity Series in victories in 2020, posted a top-five finish at Kentucky last season.(n)</desc>
+  </programme>
+  <programme start="20200709210000 -0700" stop="20200709213000 -0700" channel="Fox Sports 1">
+    <title lang="en">TMZ Sports</title>
+    <desc lang="en">Gossip and exclusive stories about athletes' personal lives.(n)</desc>
+  </programme>
+  <programme start="20200709213000 -0700" stop="20200709233000 -0700" channel="Fox Sports 1">
+    <title lang="en">WWE Friday Night SmackDown</title>
+  </programme>
+  <programme start="20200709233000 -0700" stop="20200710013000 -0700" channel="Fox Sports 1">
+    <title lang="en">World Armwrestling League</title>
+    <sub-title lang="en">Supermatch Showdown Series</sub-title>
+    <desc lang="en">From Los Angeles.(n)</desc>
+  </programme>
+  <programme start="20200707190000 -0700" stop="20200707200000 -0700" channel="Fox Sports 2">
+    <title lang="en">PBC Collection</title>
+    <sub-title lang="en">Easter vs. Commey</sub-title>
+    <desc lang="en">Robert Easter Jr. outlasts Richard Commey to earn a close split decision and win a 135-pound world title. From Sept. 9, 2016.(n)</desc>
+  </programme>
+  <programme start="20200707200000 -0700" stop="20200707210000 -0700" channel="Fox Sports 2">
+    <title lang="en">PBC Collection</title>
+    <sub-title lang="en">Dirrell vs. Han</sub-title>
+    <desc lang="en">From April 28, 2018.(n)</desc>
+  </programme>
+  <programme start="20200707210000 -0700" stop="20200707220000 -0700" channel="Fox Sports 2">
+    <title lang="en">PBC Collection</title>
+    <sub-title lang="en">Lipinets vs. Ghvamichava</sub-title>
+    <desc lang="en">From March 15, 2016.(n)</desc>
+  </programme>
+  <programme start="20200707220000 -0700" stop="20200707223000 -0700" channel="Fox Sports 2">
+    <title lang="en">PBC Collection</title>
+    <sub-title lang="en">Lipinets vs. Castillo</sub-title>
+    <desc lang="en">From July 15, 2016.(n)</desc>
+  </programme>
+  <programme start="20200707223000 -0700" stop="20200707230000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull: Air Race</title>
+    <sub-title lang="en">Dallas</sub-title>
+    <desc lang="en">From Texas Motor Speedway in Fort Worth, Texas.(n)</desc>
+  </programme>
+  <programme start="20200707230000 -0700" stop="20200708000000 -0700" channel="Fox Sports 2">
+    <title lang="en">PBC Collection</title>
+    <sub-title lang="en">Adrien Broner (USA) vs. Mikey Garcia (USA)</sub-title>
+    <desc lang="en">From July 29, 2017.(n)</desc>
+  </programme>
+  <programme start="20200708000000 -0700" stop="20200708013000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull: Air Race</title>
+    <sub-title lang="en">Ascot</sub-title>
+    <desc lang="en">From Ascot, England.(n)</desc>
+  </programme>
+  <programme start="20200708013000 -0700" stop="20200708030000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull: Air Race</title>
+    <sub-title lang="en">Fort Worth</sub-title>
+    <desc lang="en">From Fort Worth, Texas.(n)</desc>
+  </programme>
+  <programme start="20200708030000 -0700" stop="20200708043000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull: Air Race</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en">Some of the world's most skilled pilots fly into Nevada's Las Vegas Motor Speedway for Red Bull's high-speed, high-stakes race in the sky.(n)</desc>
+  </programme>
+  <programme start="20200708043000 -0700" stop="20200708060000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull: Air Race</title>
+    <sub-title lang="en">Spielberg</sub-title>
+    <desc lang="en">From Spielberg, Austria.(n)</desc>
+  </programme>
+  <programme start="20200708060000 -0700" stop="20200708070000 -0700" channel="Fox Sports 2">
+    <title lang="en">World Surf League Presents</title>
+    <sub-title lang="en">Men's &amp; Women's Pro Gold Coast</sub-title>
+    <desc lang="en">From Coolangatta, Australia.(n)</desc>
+  </programme>
+  <programme start="20200708070000 -0700" stop="20200708080000 -0700" channel="Fox Sports 2">
+    <title lang="en">World Surf League Presents</title>
+    <sub-title lang="en">The 2019 Rip Curl Pro Bells Beach</sub-title>
+    <desc lang="en">From April 17-27, 2019.(n)</desc>
+  </programme>
+  <programme start="20200708080000 -0700" stop="20200708090000 -0700" channel="Fox Sports 2">
+    <title lang="en">World Surf League Presents</title>
+    <sub-title lang="en">The 2019 Corona Bali Protected</sub-title>
+    <desc lang="en">Some of the best surfers in the world battle it out in the third event of the season, the Corona Bali Protected.(n)</desc>
+  </programme>
+  <programme start="20200708090000 -0700" stop="20200708100000 -0700" channel="Fox Sports 2">
+    <title lang="en">World Surf League Presents</title>
+    <sub-title lang="en">The 2019 Margaret River Pro</sub-title>
+    <desc lang="en">The world's best surfers touch down in the wild west of Australia for the fourth event of the season.(n)</desc>
+  </programme>
+  <programme start="20200708100000 -0700" stop="20200708110000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull Aces Wing Suit</title>
+    <desc lang="en">The worlds top pilots competing in the worlds first ever wing suit racing competition, launching from over 8500 ft and reaching speeds over 150 mph, 32 top pilots race head to head.(n)</desc>
+  </programme>
+  <programme start="20200708110000 -0700" stop="20200708123000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull Aces Wing Suit</title>
+    <desc lang="en">The worlds top pilots competing in the worlds first ever wing suit racing competition, launching from over 8500 ft and reaching speeds over 150 mph, 32 top pilots race head to head.(n)</desc>
+  </programme>
+  <programme start="20200708123000 -0700" stop="20200708150000 -0700" channel="Fox Sports 2">
+    <title lang="en">Ultimate Disc</title>
+    <sub-title lang="en">2018: Los Angeles Aviators vs. Austin Sol</sub-title>
+    <desc lang="en">From April 14, 2018.(n)</desc>
+  </programme>
+  <programme start="20200708150000 -0700" stop="20200708173000 -0700" channel="Fox Sports 2">
+    <title lang="en">Ultimate Disc</title>
+    <sub-title lang="en">2019 AUDL All-Star Game</sub-title>
+  </programme>
+  <programme start="20200708173000 -0700" stop="20200708183000 -0700" channel="Fox Sports 2">
+    <title lang="en">World Poker Tour</title>
+    <sub-title lang="en">LA Poker Classic - Part 1</sub-title>
+  </programme>
+  <programme start="20200708183000 -0700" stop="20200708193000 -0700" channel="Fox Sports 2">
+    <title lang="en">World Poker Tour</title>
+    <sub-title lang="en">LA Poker Classic - Part 2</sub-title>
+  </programme>
+  <programme start="20200708193000 -0700" stop="20200708203000 -0700" channel="Fox Sports 2">
+    <title lang="en">World Poker Tour</title>
+    <sub-title lang="en">LA Poker Classic - Part 3</sub-title>
+  </programme>
+  <programme start="20200708203000 -0700" stop="20200708213000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull Signature Series</title>
+    <sub-title lang="en">Best of Hare Scramble</sub-title>
+    <desc lang="en">Highlights from the most famous off-road motorcycle race in the world: Erzbergrodeo Red Bull Hare Scramble.(n)</desc>
+  </programme>
+  <programme start="20200708213000 -0700" stop="20200708223000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull Soapbox</title>
+    <sub-title lang="en">2018: Johannesburg</sub-title>
+  </programme>
+  <programme start="20200708223000 -0700" stop="20200709003000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull: Air Race</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en">The final stop of the 2016 season will see the Red Bull Air Race take to the stage at the Las Vegas Motor Speedway.(n)</desc>
+  </programme>
+  <programme start="20200709003000 -0700" stop="20200709013000 -0700" channel="Fox Sports 2">
+    <title lang="en">PBC Collection</title>
+    <sub-title lang="en">Pacquiao vs. Thurman</sub-title>
+    <desc lang="en">Boxing's only eight-division world champion Manny Pacquiao edges fellow welterweight champ Keith Thurman by split decision in a thrilling WBA 147-pound title fight in Las Vegas. From July 20, 2019.(n)</desc>
+  </programme>
+  <programme start="20200709013000 -0700" stop="20200709030000 -0700" channel="Fox Sports 2">
+    <title lang="en">PBC Collection</title>
+    <sub-title lang="en">Cherry vs. Douglas</sub-title>
+    <desc lang="en">From April 4, 2017.(n)</desc>
+  </programme>
+  <programme start="20200709030000 -0700" stop="20200709043000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull: Air Race</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en">The season kicks off above the crystal-blue waters of Abu Dhabi's famous Corniche.(n)</desc>
+  </programme>
+  <programme start="20200709043000 -0700" stop="20200709060000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull: Air Race</title>
+    <sub-title lang="en">Chiba</sub-title>
+    <desc lang="en">Coverage of the second round of the World Championship season. From Chiba, Japan.(n)</desc>
+  </programme>
+  <programme start="20200709060000 -0700" stop="20200709070000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull Signature Series</title>
+    <sub-title lang="en">Nitro Rallycross</sub-title>
+    <desc lang="en">The best rallycross drivers in the world race under, around and over the biggest track known to the sport. From Salt Lake City.(n)</desc>
+  </programme>
+  <programme start="20200709070000 -0700" stop="20200709080000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull Signature Series</title>
+    <sub-title lang="en">Red Bull Rippers</sub-title>
+    <desc lang="en">Premier men's and women's skateboarding from the iconic Bowl du Prado in the south of France.(n)</desc>
+  </programme>
+  <programme start="20200709080000 -0700" stop="20200709090000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull Signature Series</title>
+    <sub-title lang="en">Best of Hare Scramble</sub-title>
+    <desc lang="en">Highlights from the most famous off-road motorcycle race in the world: Erzbergrodeo Red Bull Hare Scramble.(n)</desc>
+  </programme>
+  <programme start="20200709090000 -0700" stop="20200709100000 -0700" channel="Fox Sports 2">
+    <title lang="en">Red Bull Soapbox</title>
+    <sub-title lang="en">2018: Johannesburg</sub-title>
+  </programme>
+  <programme start="20200709100000 -0700" stop="20200709150000 -0700" channel="Fox Sports 2">
+    <title lang="en">Horse Racing</title>
+    <sub-title lang="en">America's Day at the Races</sub-title>
+  </programme>
+  <programme start="20200709150000 -0700" stop="20200709160000 -0700" channel="Fox Sports 2">
+    <title lang="en">Bundesliga Season Ticket</title>
+    <sub-title lang="en">Season Review</sub-title>
+  </programme>
+  <programme start="20200709160000 -0700" stop="20200709163000 -0700" channel="Fox Sports 2">
+    <title lang="en">Bundesliga Report</title>
+    <sub-title lang="en">Secret Bundesliga Facts</sub-title>
+    <desc lang="en">An inside look at the dramatic moments from the Bundesliga season.(n)</desc>
+  </programme>
+  <programme start="20200709163000 -0700" stop="20200709170000 -0700" channel="Fox Sports 2">
+    <title lang="en">Bundesliga Report</title>
+    <sub-title lang="en">Bundesliga Champions</sub-title>
+  </programme>
+  <programme start="20200709170000 -0700" stop="20200709190000 -0700" channel="Fox Sports 2">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">Sheamus "toasts" Jeff Hardy's sobriety. Plus, a tribute to Sasha &amp; Bayley -- from Sasha &amp; Bayley.(n)</desc>
+  </programme>
+  <programme start="20200709190000 -0700" stop="20200709210000 -0700" channel="Fox Sports 2">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">PBC Fight Night: Julian Williams vs. Jeison Rosario</sub-title>
+    <desc lang="en">Unified 154-pound World Champion Julian Williams (27-1-1, 16 KOS) defends his WBA and IBF titles against Jeison Rosario (19-1-1, 13 KOs). Also: Chris Colbert vs. Jezreel Corrales, interim WBA super featheweight title. From Philadelphia.(n)</desc>
+  </programme>
+  <programme start="20200709210000 -0700" stop="20200709230000 -0700" channel="Fox Sports 2">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Caleb Plant vs. Vincent Feigenbutz</sub-title>
+    <desc lang="en">IBF super middleweight champion Caleb Plant (19-0, 11 KOs) defends his title in a homecoming bout against mandatory challenger Vincent Feigenbutz (31-2, 28 KOs). From Nashville, Tenn.(n)</desc>
+  </programme>
+  <programme start="20200709230000 -0700" stop="20200710010000 -0700" channel="Fox Sports 2">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Adam Kownacki vs. Robert Helenius</sub-title>
+    <desc lang="en">Undefeated Polish star and Brooklyn native Adam Kownacki (20-0, 15 KOs) takes on Robert Helenius (29-3, 18 KOs) in a 12-round WBA Heavyweight Title eliminator. From Barclays Center in Brooklyn, N.Y.(n)</desc>
+  </programme>
+  <programme start="20200707190000 -0700" stop="20200707200000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200707200000 -0700" stop="20200707210000 -0700" channel="Fox Deportes">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200707210000 -0700" stop="20200707220000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200707220000 -0700" stop="20200707230000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200707230000 -0700" stop="20200708000000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200708000000 -0700" stop="20200708010000 -0700" channel="Fox Deportes">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200708010000 -0700" stop="20200708013000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200708013000 -0700" stop="20200708020000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200708020000 -0700" stop="20200708023000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200708023000 -0700" stop="20200708030000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200708030000 -0700" stop="20200708033000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200708033000 -0700" stop="20200708040000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200708040000 -0700" stop="20200708043000 -0700" channel="Fox Deportes">
+    <title lang="en">¿Cabello Delgado? ¡Keranique Ayuda Crecer Cabello Hermoso, Más Grueso!</title>
+    <desc lang="en">Si tienes adelgazamiento o pérdida de pelo, Keranique ayuda a crecerlo más grueso, largo y lleno. Keranique es el sistema de crecimiento del pelo número 1 para mujeres. ¡Recupera tu confianza con pelo hermoso, grueso y lleno en solo 3 pasos!(n)</desc>
+  </programme>
+  <programme start="20200708043000 -0700" stop="20200708050000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200708050000 -0700" stop="20200708060000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200708060000 -0700" stop="20200708070000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200708070000 -0700" stop="20200708080000 -0700" channel="Fox Deportes">
+    <title lang="en">Agenda Fox Sports</title>
+    <desc lang="en">Un espacio en el que se narra todo lo que sucedió y lo que marcará la pauta de la jornada deportiva mundial presentándolo de manera divertida.(n)</desc>
+  </programme>
+  <programme start="20200708080000 -0700" stop="20200708090000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200708090000 -0700" stop="20200708100000 -0700" channel="Fox Deportes">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200708100000 -0700" stop="20200708110000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200708110000 -0700" stop="20200708120000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200708120000 -0700" stop="20200708130000 -0700" channel="Fox Deportes">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Compacto Monterrey vs. Pachuca</sub-title>
+    <desc lang="en">Partido por la Jornada 1 del Torneo Clausura 2019 en la Liga MX. Disputado el 5 de enero de 2019.(n)</desc>
+  </programme>
+  <programme start="20200708130000 -0700" stop="20200708140000 -0700" channel="Fox Deportes">
+    <title lang="en">Boxeo</title>
+    <sub-title lang="en">Jorge Lara (MEX) vs. Jesús Rojas (PRI)</sub-title>
+    <desc lang="en">El invicto mexicano Jorge Lara (27-0-1, 19 KO's) enfrenta al puertorriqueño Jesús Rojas (21-1-1, 15 KO's). Combate del 8 de septiembre de 2015, en el Hollywood Palladium, de Hollywood.(n)</desc>
+  </programme>
+  <programme start="20200708140000 -0700" stop="20200708160000 -0700" channel="Fox Deportes">
+    <title lang="en">Fútbol FIFA Copa Mundial</title>
+    <sub-title lang="en">2018: Egipto vs. Uruguay</sub-title>
+    <desc lang="en">Jornada 1 del Grupo A, primera fase de la Copa del Mundo. Egipto enfrenta a Uruguay. Acción del 15 de junio de 2018.(n)</desc>
+  </programme>
+  <programme start="20200708160000 -0700" stop="20200708190000 -0700" channel="Fox Deportes">
+    <title lang="en">Béisbol MLB</title>
+    <sub-title lang="en">Serie Mundial 2011 St. Louis Cardinals vs. Texas Rangers</sub-title>
+    <desc lang="en">Acción del Juego 6 correspondiente a la Serie Mundial de 2011. St. Louis Cardinals recibe a Texas Rangers.(n)</desc>
+  </programme>
+  <programme start="20200708190000 -0700" stop="20200708200000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200708200000 -0700" stop="20200708210000 -0700" channel="Fox Deportes">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200708210000 -0700" stop="20200708220000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200708220000 -0700" stop="20200708230000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200708230000 -0700" stop="20200709000000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200709000000 -0700" stop="20200709010000 -0700" channel="Fox Deportes">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200709010000 -0700" stop="20200709013000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200709013000 -0700" stop="20200709020000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200709020000 -0700" stop="20200709023000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200709023000 -0700" stop="20200709030000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200709030000 -0700" stop="20200709033000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200709033000 -0700" stop="20200709040000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200709040000 -0700" stop="20200709043000 -0700" channel="Fox Deportes">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200709043000 -0700" stop="20200709050000 -0700" channel="Fox Deportes">
+    <title lang="en">¿Cabello Delgado? ¡Keranique Ayuda Crecer Cabello Hermoso, Más Grueso!</title>
+    <desc lang="en">Si tienes adelgazamiento o pérdida de pelo, Keranique ayuda a crecerlo más grueso, largo y lleno. Keranique es el sistema de crecimiento del pelo número 1 para mujeres. ¡Recupera tu confianza con pelo hermoso, grueso y lleno en solo 3 pasos!(n)</desc>
+  </programme>
+  <programme start="20200709050000 -0700" stop="20200709060000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200709060000 -0700" stop="20200709070000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200709070000 -0700" stop="20200709080000 -0700" channel="Fox Deportes">
+    <title lang="en">Agenda Fox Sports</title>
+    <desc lang="en">Un espacio en el que se narra todo lo que sucedió y lo que marcará la pauta de la jornada deportiva mundial presentándolo de manera divertida.(n)</desc>
+  </programme>
+  <programme start="20200709080000 -0700" stop="20200709090000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200709090000 -0700" stop="20200709100000 -0700" channel="Fox Deportes">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200709100000 -0700" stop="20200709110000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200709110000 -0700" stop="20200709120000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200709120000 -0700" stop="20200709130000 -0700" channel="Fox Deportes">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Compacto: Monterrey vs. León</sub-title>
+    <desc lang="en">Partido correspondiente a la Jornada 2 del Clausura 2019 de la Liga MX. Del 12 de enero de 2019. Desde el estadio BBVA Bancomer.(n)</desc>
+  </programme>
+  <programme start="20200709130000 -0700" stop="20200709140000 -0700" channel="Fox Deportes">
+    <title lang="en">Boxeo</title>
+    <sub-title lang="en">Mark Anthony Hernandez (USA) vs. Jeison Rosario (DOM)</sub-title>
+    <desc lang="en">Combate entre Mark Anthony Hernandez y Jeison Rosario disputado el 23 de febrero de 2019 en el Minneapolis Armory, Mineápolis, Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20200709140000 -0700" stop="20200709160000 -0700" channel="Fox Deportes">
+    <title lang="en">Boxeo</title>
+    <sub-title lang="en">2019: Keith Thurman vs. Josesito López</sub-title>
+    <desc lang="en">Pelea disputada el 26 de enero de 2019.(n)</desc>
+  </programme>
+  <programme start="20200709160000 -0700" stop="20200709170000 -0700" channel="Fox Deportes">
+    <title lang="en">Boxeo</title>
+    <sub-title lang="en">Sammy Vásquez (USA) v Aaron Martínez (MEX) / Dominic Breazeale (USA) vs. Amir Mansour (USA)</sub-title>
+    <desc lang="en">Sammy Vásquez (21-0-0, 15 KOs) vs. Aaron Martínez (20-4-1, 4 KOs) y Dominica Breazeale (16-0-0, 14 KOs) vs. Amir Mansour (22-1-1, 16 KOs). Combate del 23 de enero de 2016, en el Staples Center en Los Ángeles, California.(n)</desc>
+  </programme>
+  <programme start="20200709170000 -0700" stop="20200709190000 -0700" channel="Fox Deportes">
+    <title lang="en">Fútbol FIFA Copa Mundial</title>
+    <sub-title lang="en">2018: Perú vs. Dinamarca</sub-title>
+    <desc lang="en">Jornada 1 del Grupo C. Partido disputado el 16 de junio de 2018.(n)</desc>
+  </programme>
+  <programme start="20200709190000 -0700" stop="20200709200000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200709200000 -0700" stop="20200709210000 -0700" channel="Fox Deportes">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200709210000 -0700" stop="20200709220000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200709220000 -0700" stop="20200709230000 -0700" channel="Fox Deportes">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20200709230000 -0700" stop="20200710000000 -0700" channel="Fox Deportes">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
   </programme>
 </tv>
