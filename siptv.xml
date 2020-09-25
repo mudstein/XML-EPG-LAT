@@ -1,8 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Canal TLC (México)">
-    <display-name lang="es">Discovery TLC SD (MX)</display-name>
+    <display-name lang="es">Canal TLC (México)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Discovery TLC SD (MX)">
+    <display-name lang="es">Discovery TLC SD (MX)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Discovery TLC FHD (MX)">
@@ -122,6 +126,122 @@
     <episode-num system="onscreen">E7</episode-num>
   </programme>
   <programme start="20200925235000 -0500" stop="20200926004300 -0500" channel="Canal TLC (México)">
+    <title lang="es">Jefe encubierto Canadá</title>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20200924224300 -0500" stop="20200925002300 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días</title>
+    <episode-num system="onscreen">S7 E8</episode-num>
+  </programme>
+  <programme start="20200925002300 -0500" stop="20200925011200 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <episode-num system="onscreen">S7 E4</episode-num>
+  </programme>
+  <programme start="20200925011200 -0500" stop="20200925020000 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <episode-num system="onscreen">S7 E5</episode-num>
+  </programme>
+  <programme start="20200925020000 -0500" stop="20200925033600 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días</title>
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20200925033600 -0500" stop="20200925051200 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días</title>
+    <episode-num system="onscreen">S7 E8</episode-num>
+  </programme>
+  <programme start="20200925051200 -0500" stop="20200925053600 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Hackers de Brasil</title>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20200925053600 -0500" stop="20200925060000 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Hackers de Brasil</title>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20200925060000 -0500" stop="20200925062800 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Tacaños extremos</title>
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20200925062800 -0500" stop="20200925072000 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Princesitas</title>
+    <episode-num system="onscreen">S4 E16</episode-num>
+  </programme>
+  <programme start="20200925072000 -0500" stop="20200925081000 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Un gran mundo pequeño</title>
+    <episode-num system="onscreen">S11 E24</episode-num>
+  </programme>
+  <programme start="20200925081000 -0500" stop="20200925090000 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Mamá June La transformación</title>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20200925090000 -0500" stop="20200925095000 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días en cuarentena</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20200925095000 -0500" stop="20200925104000 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días en cuarentena</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20200925104000 -0500" stop="20200925113100 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">La médium</title>
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20200925113100 -0500" stop="20200925122200 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">La médium</title>
+    <episode-num system="onscreen">S9 E4</episode-num>
+  </programme>
+  <programme start="20200925122200 -0500" stop="20200925131300 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">La médium</title>
+    <episode-num system="onscreen">S9 E5</episode-num>
+  </programme>
+  <programme start="20200925131300 -0500" stop="20200925140500 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días en cuarentena</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20200925140500 -0500" stop="20200925145500 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días en cuarentena</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20200925145500 -0500" stop="20200925154500 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días en cuarentena</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20200925154500 -0500" stop="20200925161100 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Cuponmanía</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20200925161100 -0500" stop="20200925163700 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Cuponmanía</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20200925163700 -0500" stop="20200925170300 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Tacaños extremos</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20200925170300 -0500" stop="20200925172900 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Tacaños extremos</title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20200925172900 -0500" stop="20200925181900 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20200925181900 -0500" stop="20200925191100 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20200925191100 -0500" stop="20200925200400 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días casados en e</title>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20200925200400 -0500" stop="20200925205700 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Todo en 90 días casados en e</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20200925205700 -0500" stop="20200925215000 -0500" channel="Discovery TLC SD (MX)">
+    <title lang="es">Jefe encubierto Canadá</title>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20200925215000 -0500" stop="20200925224300 -0500" channel="Discovery TLC SD (MX)">
     <title lang="es">Jefe encubierto Canadá</title>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
